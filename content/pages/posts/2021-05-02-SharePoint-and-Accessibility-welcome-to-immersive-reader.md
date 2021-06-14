@@ -6,7 +6,6 @@ feature_image: '/assets/images/2021/05/reading.jpg'
 comments: false
 published: true
 
-title: Basic Rules For Walking In The Mountains
 excerpt: >-
   Hiking is sometimes referred to as such. This specifically refers to difficult
   walking through dense forest, undergrowth, or bushes, where forward progress
