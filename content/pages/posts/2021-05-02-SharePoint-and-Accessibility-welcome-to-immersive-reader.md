@@ -7,9 +7,7 @@ comments: false
 published: true
 
 excerpt: >-
-  Hiking is sometimes referred to as such. This specifically refers to difficult
-  walking through dense forest, undergrowth, or bushes, where forward progress
-  requires pushing vegetation aside.
+  Have you heard, the Immersive Reader is now available to use with pages on SharePoint Online as part of Microsoft 365 so that you can improve the accessibility of content to readers of news and other content in your tenant. In this post, I will cover the importance of the Immersive Reader and what it can do for your users.
 date: '2019-04-09'
 thumb_img_path: images/carlos-arthur-m-r-963uzyQwa6s-unsplash.jpg
 thumb_img_alt: A man standing on a rock cliff overlooking a river
