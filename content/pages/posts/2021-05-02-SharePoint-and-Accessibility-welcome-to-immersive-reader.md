@@ -5,8 +5,6 @@ excerpt: >-
   Have you heard, the Immersive Reader is now available to use with pages on SharePoint Online as part of Microsoft 365 so that you can improve the accessibility of content to readers of news and other content in your tenant. In this post, I will cover the importance of the Immersive Reader and what it can do for your users.
 date: '2021-05-02 14:00:00'
 feature_image: '/assets/images/2021/05/reading.jpg'
-
-date: '2019-04-09'
 thumb_img_path: images/carlos-arthur-m-r-963uzyQwa6s-unsplash.jpg
 thumb_img_alt: A man standing on a rock cliff overlooking a river
 content_img_path: images/1.jpg
