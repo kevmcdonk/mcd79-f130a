@@ -2,24 +2,12 @@
 layout: post
 title: Licensing considerations for SharePoint Syntex and Viva Topics
 date: '2021-12-07 10:00:00'
-feature_image: '/assets/images/2021/02/growth-from-money.jpg'
-published: true
-author: 'Kevin McDonnell'
-tags:
-- Digital Workplace
-- Knowledge Management
-
-layout: post
-title: Basic Rules For Walking In The Mountains
+content_img_path: 'images/2021/02/growth-from-money.jpg'
 excerpt: >-
-  Hiking is sometimes referred to as such. This specifically refers to difficult
-  walking through dense forest, undergrowth, or bushes, where forward progress
-  requires pushing vegetation aside.
-date: '2019-04-09'
+  Three days into the announcements about Microsoft Viva and I have decided that it is time to tackle licensing. Yes, yes I am bonkers. The reason that I am having this discussion is that I want people to make an informed decision and balance the cost with the value while understanding how many licenses they may actually need.
 thumb_img_path: images/carlos-arthur-m-r-963uzyQwa6s-unsplash.jpg
 thumb_img_alt: A man standing on a rock cliff overlooking a river
 content_img_path: images/1.jpg
-
 ---
 Three days into the announcements about Microsoft Viva and I have decided that it is time to tackle licensing. Yes, yes I am bonkers. The reason that I am having this discussion is that I want people to make an informed decision and balance the cost with the value while understanding how many licenses they may actually need.
 
