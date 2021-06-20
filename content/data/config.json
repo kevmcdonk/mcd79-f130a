@@ -1,12 +1,12 @@
 {
-    "title": "Stackbit Fjord Theme",
+    "title": "Mcd79 blog",
     "path_prefix": "/",
     "palette": "yellow",
     "header": {
-        "title": "Fjord",
-        "tagline": "Minimal and clean blog theme",
+        "title": "Mcd79",
+        "tagline": "a Modern Workplace with Microsoft 365 blog",
         "logo_img": "images/Mcd79Logo.png",
-        "logo_img_alt": "Fjord Logo",
+        "logo_img_alt": "Mcd79 Logo",
         "background_img": "images/contact.jpg",
         "has_nav": true,
         "nav_links": [
@@ -59,7 +59,7 @@
         ]
     },
     "footer": {
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=fjord&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
+        "content": "This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=fjord&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
     },
-    "domain": "https://mcd79-f130a.netlify.app"
+    "domain": "https://www.mcd79.com"
 }

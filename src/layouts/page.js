@@ -6,6 +6,7 @@ import Header from '../components/Header';
 import {htmlToReact, markdownify} from '../utils';
 import Footer from '../components/Footer';
 
+//TODO: add next post and previous post
 export default class Page extends React.Component {
     render() {
         return (
@@ -27,6 +28,7 @@ export default class Page extends React.Component {
                     </div>
                   </article>
                 </main>
+
                 <Footer {...this.props} site={this.props} page={this.props.page} image={_.get(this.props, 'page.frontmatter.img_path', null)} />
               </div>
             </Layout>

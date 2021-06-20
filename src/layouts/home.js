@@ -5,12 +5,56 @@ import moment from 'moment-strftime';
 import {Layout} from '../components/index';
 import Header from '../components/Header';
 import {getPages, Link, withPrefix} from '../utils';
+import ReactPaginate from 'react-paginate';
 import Footer from '../components/Footer';
 
 export default class Home extends React.Component {
     render() {
-        let posts = getPages(this.props.pages, '/posts');
+      let query = this.props.router.query;
+      const postsPerPage = 10;
+      let pageNumber = query.page || 1; //if page empty we request the first page
+      
+        let allPosts = getPages(this.props.pages, '/posts');
+        allPosts = _.orderBy(allPosts, 'frontmatter.date', 'desc');
+        let skip = (pageNumber-1) * pageNumber;
+        let posts = allPosts.slice(skip, skip+postsPerPage);
+         
         let posts_count = _.size(posts);
+
+        const limit = 10;
+        const calculateRange = (length) => Array.from({ length }, (v, k) => k + 1);
+        const rangeLimit = Math.ceil(posts_count / limit);
+        const range = calculateRange(rangeLimit);
+        
+
+        
+        
+        const totalCount = _.size(allPosts);
+        const pageCount = _.size(posts);
+        const currentPage = pageNumber;
+        const perPage = postsPerPage;
+    
+        const paginationHandler = (page) => {
+          const currentPath = this.props.router.pathname;
+          const currentQuery = this.props.router.query;
+          currentQuery.page = page.selected + 1;
+  
+          pageNumber = currentQuery.page || 1; //if page empty we request the first page
+
+          skip = (pageNumber-1) * pageNumber;
+          posts = allPosts.slice(skip, skip+postsPerPage);
+          this.props.router.push({
+              pathname: currentPath,
+              query: currentQuery,
+          });
+
+          window.scrollTo({
+            top: 0,
+            left: 0, behavior: 'smooth'
+            }); 
+  
+      };
+
         return (
             <Layout {...this.props}>
               <Header {...this.props} site={this.props} page={this.props.page} image={_.get(this.props, 'data.config.header.background_img', null)} />
@@ -47,7 +91,24 @@ export default class Home extends React.Component {
                         );
                     })())}
                   </div>
-                </main>
+                  <div className="pagination">
+                    <ReactPaginate
+                        previousLabel={'previous'}
+                        nextLabel={'next'}
+                        breakLabel={'...'}
+                        breakClassName={'break-me'}
+                        activeClassName={'active'}
+                        containerClassName={'pagination'}
+                        subContainerClassName={'pages pagination'}
+        
+                        initialPage={this.props.currentPage - 1}
+                        pageCount={this.props.pageCount}
+                        marginPagesDisplayed={2}
+                        pageRangeDisplayed={5}
+                        onPageChange={paginationHandler}
+                    />
+                  </div>
+                  </main>
                 <Footer {...this.props} site={this.props} page={this.props.page} image={_.get(this.props, 'data.config.header.background_img', null)} />
               </div>
             </Layout>

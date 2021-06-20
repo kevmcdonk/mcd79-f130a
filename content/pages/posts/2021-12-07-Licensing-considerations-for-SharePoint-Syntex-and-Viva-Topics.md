@@ -1,13 +1,12 @@
 ---
-layout: post
+layout: draftpost
 title: Licensing considerations for SharePoint Syntex and Viva Topics
 date: '2021-12-07 10:00:00'
 content_img_path: 'images/2021/02/growth-from-money.jpg'
 excerpt: >-
   Three days into the announcements about Microsoft Viva and I have decided that it is time to tackle licensing. Yes, yes I am bonkers. The reason that I am having this discussion is that I want people to make an informed decision and balance the cost with the value while understanding how many licenses they may actually need.
-thumb_img_path: images/carlos-arthur-m-r-963uzyQwa6s-unsplash.jpg
-thumb_img_alt: A man standing on a rock cliff overlooking a river
-content_img_path: images/1.jpg
+thumb_img_path: 'images/2021/02/growth-from-money.jpg'
+thumb_img_alt: 'Plant growing from some coins'
 ---
 Three days into the announcements about Microsoft Viva and I have decided that it is time to tackle licensing. Yes, yes I am bonkers. The reason that I am having this discussion is that I want people to make an informed decision and balance the cost with the value while understanding how many licenses they may actually need.
 

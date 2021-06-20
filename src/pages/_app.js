@@ -2,6 +2,7 @@
 import { useEffect } from 'react';
 import Router from 'next/router';
 import '../sass/main.scss';
+import '../sass/imports/_paginator.scss';
 
 
 function MyApp({ Component, pageProps }) {
