@@ -3,12 +3,10 @@ layout: post
 title: Issue with Microsoft Groups not syncing for SharePoint Site
 date: '2020-12-09 08:00:00'
 content_img_path: 'images/2020/12/Aligned.jpg'
-comments: false
-published: true
-author: 'Kevin McDonnell'
-tags:
-- Technical
-- SharePoint
+excerpt: >-
+  I hit a strange issue this week but today had that massive buzz of solving it. Sometimes it is the simple things that you've missed but other times (like this one), it is something very odd. The problem was that I had a set of around 1000 migrated sites that had come from SharePoint 2010 and should have been set up as Modern sites.
+thumb_img_path: 'images/2020/12/Aligned.jpg'
+thumb_img_alt: 'Aligned'
 ---
 
 I hit a strange issue this week but today had that massive buzz of solving it. Sometimes it is the simple things that you've missed but other times (like this one), it is something very odd. The problem was that I had a set of around 1000 migrated sites that had come from SharePoint 2010 and should have been set up as Modern sites. They appeared to be but the SharePoint Groups had retained the old names, i.e.
