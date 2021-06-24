@@ -2,7 +2,7 @@
 layout: post
 title: Issue with Microsoft Groups not syncing for SharePoint Site
 date: '2020-12-09 08:00:00'
-feature_image: '/assets/images/2020/12/Aligned.jpg'
+content_img_path: 'images/2020/12/Aligned.jpg'
 comments: false
 published: true
 author: 'Kevin McDonnell'

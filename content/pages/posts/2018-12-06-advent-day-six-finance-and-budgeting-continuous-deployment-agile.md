@@ -2,7 +2,7 @@
 layout: post
 title: An Advent series - Finance and Budgeting in a world of Agile and Continuous Deployment
 date: '2018-12-06 07:00:00'
-feature_image: '/assets/images/2018/12/puzzle-money.jpg'
+content_img_path: 'images/2018/12/puzzle-money.jpg'
 comments: false
 author: "Kevin McDonnell"
 tags:
@@ -17,7 +17,7 @@ From experience, many organisations have a run the business pot and a change the
 
 Many of the issues with budgeting comes as mid level managers have to make decisions about what is essential and work out how to expand what is considered to be run so that they can fit in projects considered to be important. Nice to have projects are then fought over in the change the business pots.
 
-![Coins](/assets/images/2018/12/coins.jpg)
+![Coins](018/12/coins.jpg)
 
 ## How are agile projects any different?
 In some ways they are not. As long as you consider them run the business projects and accept that a certain level of enhancement to continue the application being effective is key. The problems crop up when user groups decide during the year (as budgets are generally run annually) that something larger needs to change. This could be because of a business opportunity, a regulatory change or just the whim of a senior director.

@@ -2,7 +2,7 @@
 layout: post
 title: An Advent series - Are you learning the right way?
 date: '2018-12-07 06:00:00'
-feature_image: '/assets/images/2018/12/laptop.jpg'
+content_img_path: '018/12/laptop.jpg'
 comments: false
 author: "Kevin McDonnell"
 tags:
@@ -21,7 +21,7 @@ Daniel notes that recent studies have suggested learning through self discovery 
 
 ## Is this the end of books and courses then?
 
-![Books](/assets/images/2018/12/books.jpg)
+![Books]()
 
 My first thought is that if it is working for you then don't change things. For many people, explicit learning works well and in certain circumstances, it fits much better. In 1991, [this study](https://www.ncbi.nlm.nih.gov/pubmed/1834770) found that there was a wider range of results for explicit learning compared with implicit but that those with a higher IQ tended to perform better in explicit.
 
@@ -41,4 +41,4 @@ The challenge with these are finding the time to think. Find a quiet time with e
 
 So to learn better and perform better, it's time to be less SpongeBob and more Caillou.
 
-![Brain](/assets/images/2018/12/brain.jpg)
+![Brain](rain.jpg)

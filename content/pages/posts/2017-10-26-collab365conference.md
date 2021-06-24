@@ -2,7 +2,7 @@
 layout: post
 title: Join me (virtually) at the Collab365 conference
 date: '2017-10-26 14:34:42'
-feature_image: '/assets/images/2017/10/8AD98D73-5F58-46EC-B5A5-149C1F85DA40.jpeg'
+content_img_path: 'images/2017/10/8AD98D73-5F58-46EC-B5A5-149C1F85DA40.jpeg'
 ---
 
 Have you heard about the virtual [Collab365 Global Conference 2017]( https://events.collab365.community/collab365-global-conference-2017/) that's streaming online November 1st/2nd?

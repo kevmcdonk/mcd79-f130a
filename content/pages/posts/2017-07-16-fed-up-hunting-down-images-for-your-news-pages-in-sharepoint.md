@@ -2,7 +2,7 @@
 layout: post
 title: Fed up hunting down images for your news pages in SharePoint?
 date: '2017-07-16 15:50:10'
-feature_image: '/assets/images/2017/07/megaphone.jpg'
+content_img_path: 'images/2017/07/megaphone.jpg'
 tags:
 - technical
 - stay-productive
@@ -20,9 +20,9 @@ With [Communication Sites](https://www.youtube.com/watch?v=WEnQKzzbvfo), all thi
 
 I have tended to use three main sources for finding images - Bing, Google and Flickr. This is pretty simple to find specific things but it is important that you consider the licensing options for images. Below are three screenshots of how to set filters on the image search to ensure that you can re-use the license - make sure you read some of the details, depending on whether it is for commercial use or not.
 
-![Bing filtering](/assets/images/2017/07/Bing-filtering.JPG)
-![Google filtering](/assets/images/2017/07/Google-filtering.JPG)
-![Flickr filtering](/assets/images/2017/07/Flickr-filtering.JPG)
+![Bing filtering](/images/2017/07/Bing-filtering.JPG)
+![Google filtering](/images/2017/07/Google-filtering.JPG)
+![Flickr filtering](/images/2017/07/Flickr-filtering.JPG)
 
 However, I have never found it quite as simple as that. For example, searching for collaboration brings all sorts of random things back. My favourite of the sources is Flickr as you get far more photos of real people that are more generic. Instead of just searching for collaboration, search around similar phrases like "working together" or "togetherness". These less specific phrases tend to bring out more images and more options.
 

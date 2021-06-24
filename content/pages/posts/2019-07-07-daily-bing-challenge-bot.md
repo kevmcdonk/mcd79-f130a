@@ -2,7 +2,7 @@
 layout: post
 title: The Daily Bing Challenge Bot - Bot Series Part 1
 date: '2019-07-06 06:00:00'
-feature_image: '/assets/images/2019/07/robots.png'
+content_img_path: 'images/2019/07/robots.png'
 comments: false
 published: true
 author: "Kevin McDonnell"
@@ -16,7 +16,7 @@ Have you ever looked at the daily background on [Bing](https://www.bing.com) or 
 
 This little tale inspired me to take a look at making a Bot in Teams that could do the same thing but with more automation. What would a Bot look like that could ask someone to choose an image and then send it round to the team, allow them to guess where it is, work out which guess was closest and then set a winner. Well, you will be happy to know that I can tell you now. It looks like the Daily Bing Challenge Bot.
 
-![Bot Demo One](/assets/images/2019/07/Bot demo 1.png)
+![Bot Demo One](/images/2019/07/Bot demo 1.png)
 
 ## Triggering the challenge
 
@@ -24,7 +24,7 @@ To trigger the challenge, someone just needs to @mention the @BingBot and say Ch
 
 - Choose image - this tells the Bot that you are happy with that image and the game can be triggered
 - Try another image - if that one doesn't quite work for you, try the next Bing image
-![Bot Demo Two](/assets/images/2019/07/Bot demo 2.png)
+![Bot Demo Two](019/07/Bot demo 2.png)
 - Switch to Google - let's cover this in a bit more detail
 
 ## Adding a little Google Places
@@ -35,7 +35,7 @@ We found that many of the Bing images were a little too easy to guess so I added
 
 Once a suitable image has been chosen, the Bot will save the image details and then start asking for guesses. 
 
-![Bot Demo Three](/assets/images/2019/07/Bot demo 3.png)
+![Bot Demo Three](ot demo 3.png)
 
 As you can see in the image above, the Bot knows how many users are in the Team and how many have responded so far. The guess is validated as a real location and it can handle slight typos as well e.g. Lundun for London or Rio de Janeero for Rio de Janeiro.
 
@@ -43,13 +43,13 @@ As you can see in the image above, the Bot knows how many users are in the Team 
 
 Once all the results are in, the winner is calculated and a new card is shown with the winner. If you don't want to wait for all the guesses to come in (for example, someone is on leave) then you can reply "Check results" to trigger the results checking.
 
-![Bot Demo Four](/assets/images/2019/07/Bot demo 4.png)
+![Bot Demo Four](/images/2019/07/Bot demo 4.png)
 
 ## What next?
 
 So the winner has been told and everyone knows where the actual photo was and how far the guess was. The challenge is complete for the day. So what does that mean for the longer term? Time for some Power BI.
 
-![Bot Demo Five](/assets/images/2019/07/Bot demo 5.png)
+![Bot Demo Five](/images/2019/07/Bot demo 5.png)
 
 To drive some competitiveness, a Power BI Report is set up and hosted as a tab in Teams. It shows the top guessers as well as a map of the last 30 days of results. The team can keep a track of their results and the most successful winners over time.
 

@@ -2,7 +2,7 @@
 layout: post
 title: An Advent series - The power of the SharePoint Modernizer
 date: '2018-12-10 06:00:00'
-feature_image: '/assets/images/2018/12/mini.jpg'
+content_img_path: 'images/2018/12/mini.jpg'
 comments: false
 author: "Kevin McDonnell"
 tags:
@@ -16,7 +16,7 @@ There was still a lot of work to do to make sure that all the features of class 
 
 ## Modernize your SharePoint pages
 
-![Create Modern Version](/assets/images/2018/12/createmodernversion.png)
+![Create Modern Version](/images/2018/12/createmodernversion.png)
 
 With yet another example of the power of the SharePoint Community, the PnP Core team has got together has worked to create a tool that can automatically migrate a classic webpart page in SharePoint over to a modern page. They have created a set of libraries that can be used to:
 

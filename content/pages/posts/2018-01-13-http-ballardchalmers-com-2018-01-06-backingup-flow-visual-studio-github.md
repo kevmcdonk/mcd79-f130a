@@ -2,7 +2,7 @@
 layout: post
 title: Backing up Microsoft Flow to Visual Studio or Github
 date: '2018-01-13 11:08:15'
-feature_image: '/assets/images/2018/01/the-sea-3058780_1920.jpg'
+content_img_path: 'images/2018/01/the-sea-3058780_1920.jpg'
 tags:
 - technical
 - flow

@@ -2,7 +2,7 @@
 layout: post
 title: Exploring creating SharePoint TeamSites using SiteDesign and the REST API
 date: '2018-07-21 09:40:40'
-feature_image: '/assets/images/2018/07/painting-911804_1920.jpg'
+content_img_path: 'images/2018/07/painting-911804_1920.jpg'
 comments: false
 author: "Kevin McDonnell"
 tags:
@@ -36,11 +36,11 @@ There are a few examples of using this out there (try [Googling CreateGroupEx](h
 
 A little bit of time later (and some swearing too...) I realised that the later half of the implicit_formula section was in fact the Guid of the Site Design. Once I had this I was away and running. 
 
-![Returning-Site-Design-List](/assets/images/2018/07/Returning Site Design List.PNG)
+![Returning-Site-Design-List](/images/2018/07/Returning Site Design List.PNG)
 
 I created a Flow that triggered from a SharePoint list containing the list of projects. It first retrieved the list of Site Designs to get the Guid - I could have hardcoded this but wanted to allow it to be more user friendly and retrieved by name, matching what the user would do. It then iterates through the designs until it found the matching one and made the call to CreateGroupEx.
 
-![Create-Project-Site](/assets/images/2018/07/Create Project Site.PNG)
+![Create-Project-Site](018/07/Create Project Site.PNG)
 
 The REST API calls were made using the relatively recent SharePoint activity called "Send an HTTP request to SharePoint" which meant that there was no need to work with any tokens or credentials.
 

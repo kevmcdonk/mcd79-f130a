@@ -2,7 +2,7 @@
 layout: post
 title: An Advent series - The power of confidence
 date: '2018-12-18 06:00:00'
-feature_image: '/assets/images/2018/12/tie.jpg'
+content_img_path: 'images/2018/12/tie.jpg'
 comments: false
 author: "Kevin McDonnell"
 tags:
@@ -14,7 +14,7 @@ Have you ever wondered why some people do better at work, especially in large or
 
 What is is about them that often makes them stand out? Confidence.
 
-![Confidence is the preference of the habitual voyeur of what is known as...](/assets/images/2018/12/confidence.jpg)
+![Confidence is the preference of the habitual voyeur of what is known as...](e.jpg)
 
 I have been listening a lot more to audiobooks in the last couple of years, including some autobiographies. One of the phases I went through was comedians and there was a common theme where they often did not think they were better than others and felt that there were others more naturally gifted than they were. Both ![John Cleese](https://www.audible.co.uk/pd/So-Anyway-Audiobook/B01KG20M68) and ![Eddie Izzard](https://www.audible.co.uk/pd/Believe-Me-Audiobook/B0727KV8RP?qid=1547298136&sr=sr_1_1&ref=a_search_c3_lProduct_1_1&pf_rd_p=c6e316b8-14da-418d-8f91-b3cad83c5183&pf_rd_r=C07CHDQ4P51S9CCDGMP9&) spoke on this and that it was their confidence to push on through that saw them get to way they are now. Yes, this absolutely needs to be backed with hard work but in the face of much adversity, especially for Eddie Izzard in the early years of his career, it was the confidence to keep going and that he was doing the right thing. Both John and Eddie came from an English public school system (which meant their parents paid for their education rather than the state for those not in the UK) and attribute a large part of this to their confidence. However, this isn't the only way.
 
@@ -46,7 +46,7 @@ Now this is a hard one. It's often caused by an event such as an embarassing mom
 
 So stop, take a breathe.
 
-![Pause a minute](/assets/images/2018/12/meerkat.jpg)
+![Pause a minute](
 
 Have a look at what happened before. What went wrong? Why did it happen? What was good about it? What did you learn? From all those things, what can you do to help make sure it doesn't happen again. How should you adjust your focus? Was it just a one-off that you should put to one-side? Only you can truly know. But whatever happens, do not let it entirely dominate and stop you.
 

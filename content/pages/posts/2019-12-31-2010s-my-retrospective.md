@@ -2,7 +2,7 @@
 layout: post
 title: 2010s - my retrospective
 date: '2019-12-31 00:00:00'
-feature_image: '/assets/images/2019/12/grouped-by-topic.png'
+content_img_path: 'images/2019/12/grouped-by-topic.png'
 comments: false
 published: true
 author: "Kevin McDonnell"
@@ -39,13 +39,13 @@ This time, I decided to use [Microsoft Whiteboard](https://products.office.com/e
 
 Starting with the notes, I spent 30 mins thinking back over the last ten years. I scribbled thoughts as they came along so some were high level, some were very specific, some are obvious to all and some won't make sense unless you know me well. The important thing is to capture that stream of conciousness and to be honest with yourself.
 
-![Capturing feedback](/assets/images/2019/12/post-its.png)
+![Capturing feedback](/images/2019/12/post-its.png)
 
 ## Identifying key topics
 
 To determine the topics is much more of an art than a science. Look across each of the feedback sections and aim for areas of commonality. For my feedback, there were some obvious topics like Homelife and Learning in there but then I went a little more creative with Quality not Quantity. Quite a few of the feedback items were about doing too much and so I wanted to look in to how I could get more quality. I also noticed quite a few things about travel and grouped this with conferences. After a few more tweaks, I had my groupings.
 
-![Feedback grouped by topics](/assets/images/2019/12/grouped-by-topic.png)
+![Feedback grouped by topics](/images/2019/12/grouped-by-topic.png)
 
 I'll delve deeper in to each area.
 
@@ -67,7 +67,7 @@ Outside of the Microsoft world, I am also a Cub leader and love the work I do th
 
 Looking back over ten years, there has been a huge change on this side. I was still getting used to being back in the UK and we didn't know many people nearby. Since then, we have moved in to a slightly bigger house and have some amazing friends locally. We've added two more kids and two more cats to the family (sadly losing one cat who came over from Singapore) and my son earned a place at one of the best schools in the areas. My personal highlight of the decade though was putting on my own festival for my wife and I's 40th birthday back in May. Around 150 people, three different bands, 5 different zones, crafting, games, decorations and our own festival logo.
 
-![Squadgefest](/assets/images/2019/12/Squadgefest.png)
+![Squadgefest](/images/2019/12/Squadgefest.png)
 
 What hasn't been so great is that the friends I so missed when in Singapore still feel as far away now we're in the UK. We just don't make enough time to travel and see them as much as we'd like. I also need to get better at making mental space when things are busy at work as juggling that, three kids and a cub pack can too easily get on top of me.
 
@@ -92,4 +92,4 @@ Having said that, I am certainly not where I thought I would be. I imagined bein
 
 After that reflective look back, it's important to look forward to and so I am now the lucky owner of a Planner board with tasks for several of those key topics. Let's see in twelve months how they are all looking!
 
-![Tasks for 2020](/assets/images/2019/12/Tasks.png)
+![Tasks for 2020](/images/2019/12/Tasks.png)

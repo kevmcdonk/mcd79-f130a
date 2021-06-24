@@ -2,7 +2,7 @@
 layout: post
 title: An Advent series
 date: '2018-12-01 09:00:00'
-feature_image: '/assets/images/2018/12/cinnamon-stars.jpg'
+content_img_path: '018/12/cinnamon-stars.jpg'
 comments: false
 author: "Kevin McDonnell"
 tags:
@@ -13,7 +13,7 @@ tags:
 
 So here's a challenge for me to finish the year - one blog per day throughout advent! It's a leap of faith but this blog has been neglected for too long so I will clear out some of my backlog and cover thoughts on Digital Workplace, Digital Homeplace and some of the places that Microsoft 365 helps to fill that out.
 
-![Leap of faith](/assets/images/2018/12/achieve.jpg)
+![Leap of faith](pg)
 
 My first post is on focus and productivity. I have written before on [open plan offices](http://www.mcd79.com/2017/06/20/remote-working-and-open-plan-offices-productivity-vs-collaboration-2.html) and the trade off around productivity and collaboration. What are the tips that I use to stay focused?
 

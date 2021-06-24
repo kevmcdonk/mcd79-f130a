@@ -2,7 +2,7 @@
 layout: post
 title: An Advent series - Getting started with PnP PowerShell by allowing file move across site collections
 date: '2018-12-09 06:00:00'
-feature_image: '/assets/images/2018/12/files.jpg'
+content_img_path: 'images/2018/12/files.jpg'
 comments: false
 author: "Kevin McDonnell"
 tags:

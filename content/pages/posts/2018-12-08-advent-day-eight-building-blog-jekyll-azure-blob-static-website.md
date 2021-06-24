@@ -2,7 +2,7 @@
 layout: post
 title: An Advent series - Building a blog with Jekyll and Azure Blob Static Website
 date: '2018-12-08 06:00:00'
-feature_image: '/assets/images/2018/12/JekyllAndAzure.png'
+content_img_path: 'ekyllAndAzure.png'
 comments: false
 author: "Kevin McDonnell"
 tags:
@@ -41,7 +41,7 @@ There was some manual formatting needed through some pages although nothing four
 
 Creating a very simple website is not very easy when you create a new Blob Storage account. Under the left menu, there is now a Static Website Preview link. Enabling this, creates a container called $web where you can then upload your static content. 
 
-![Static Website Preview](/assets/images/2018/12/AzureStaticWebsite.PNG)
+![Static Website Preview](e.PNG)
 
 Upload an index.html with basic content and you will be able to access the page at the link described on the static website screen, e.g. https://blabla.z6.web.core.windows.net.
 
@@ -61,27 +61,27 @@ There are some details on this mentioned in the [Microsoft Docs](https://docs.mi
 
 - Create a new Azure CDN
 
-![Azure CDN Create](/assets/images/2018/12/AzureCDNCreate.PNG)
+![Azure CDN Create](018/12/AzureCDNCreate.PNG)
 
 - Configure the CDN Profile choosing whichever CDN you like - I chose the Microsoft one for the pricing
 
-![Azure CDN Profile](/assets/images/2018/12/AzureCDNProfile.PNG)
+![Azure CDN Profile](/images/2018/12/AzureCDNProfile.PNG)
 
 - Once created, add an Endpoint to the CDN with the following properties
 
-![Azure CDN Endpoint](/assets/images/2018/12/AzureCDNEndpoint.PNG)
+![Azure CDN Endpoint](018/12/AzureCDNEndpoint.PNG)
 
 - It may take a little time but you should now be able to access your blog via https://mcd79blogdemo.azureedge.net 
 - Select custom domain from the left menu
 - In another window, use your domain registrat to set up as per [this link](https://docs.microsoft.com/en-us/azure/cdn/cdn-custom-ssl?tabs=option-1-default-enable-https-with-a-cdn-managed-certificate#custom-domain-is-mapped-to-your-cdn-endpoint-by-a-cname-record) - below is my example from GoDaddy
 
-![GoDaddy www config](/assets/images/2018/12/GoDaddyCDN1.PNG)
-![GoDaddy CDNVerify](/assets/images/2018/12/GoDaddyCDN2.PNG)
+![GoDaddy www config](oDaddyCDN1.PNG)
+![GoDaddy CDNVerify](oDaddyCDN2.PNG)
 
 - Add a Custom Domain in the Azure Portal with the CDN endpoint URL and your custom domain
 - Select the Custom Domain and enable HTTPS as below
 
-![Azure CDN Custom Domain](/assets/images/2018/12/AzureCDNCustomDomain.PNG)
+![Azure CDN Custom Domain](ustomDomain.PNG)
 
 It may take a little time for the domain to be validated and the certificate correctly provisioned but after a couple of hours, you should be able to access your blog via the custom domain name.
 
@@ -93,18 +93,18 @@ The steps to build and deploy are relatively simple if a little slow to run due 
 - Select an empty template
 - Add the "Use Ruby Version" task and configure for version spec ">= 2.4"
 
-![Ruby Task](/assets/images/2018/12/DevOpsBuildRubyTask.PNG)
+![Ruby Task](ldRubyTask.PNG)
 
 - Add a command line task to install jekyll bundler using `gem install jekyll bundler`
 - Add a command line task to install any custom gems using `bundle install`
 - Add a command line task to build the blog using `bundle exec jekyll build`
 - Create a Copy Files task to put the _Site directory to a staging area 
 
-![Copy Files task](/assets/images/2018/12/DevOpsCopyFiles.PNG)
+![Copy Files task](evOpsCopyFiles.PNG)
 
 - Add a Publish Artifact task to publish the _site directory
 
-![Publish Artifact](/assets/images/2018/12/DevOpsPublishArtifact.PNG)
+![Publish Artifact](evOpsPublishArtifact.PNG)
 
 I have this build set to Continuous Integration so that it builds on every check-in but it could also be manually triggered.
 
@@ -112,11 +112,11 @@ Next create a new release pipeline with an empty template:
 - Add the defined build as an artifact
 - Add an Azure CLI task with the command `az storage blob upload-batch --source _site --destination $(containerName) --account-name $(storageAccount) --output table --no-progress`
 
-![Dev Ops Release Task](/assets/images/2018/12/DevOpsReleaseTask.PNG)
+![Dev Ops Release Task](018/12/DevOpsReleaseTask.PNG)
 
 - You will notice two variables which need to be added to define the storageAccount and containerName (which should be $web)
 
-![Dev Ops Variables](/assets/images/2018/12/DevOpsVariables.PNG)
+![Dev Ops Variables](/images/2018/12/DevOpsVariables.PNG)
 
 Again, you can set this up to release automatically with the build completing but in my case, I decided to allow this to happen manually to control when it took place. The main reason for this is at this stage I do not have an automated way for the CDN to be purged to get the latest home page showing the updated blog posts but I would like to build this in with a script later.
 

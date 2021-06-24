@@ -2,7 +2,7 @@
 layout: post
 title: Why it is ok to use buzzwords and phrases but still hate them
 date: '2017-12-16 23:10:16'
-feature_image: '/assets/images/2017/12/lottery-174132_1920.jpg'
+content_img_path: 'images/2017/12/lottery-174132_1920.jpg'
 tags:
 - digital-workplace
 - trends

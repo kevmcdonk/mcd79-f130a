@@ -23,11 +23,11 @@ OK, that heading is a little tongue in cheek for fans of buzzword bingo. But the
 
 Slightly confusingly, there are two versions of Outlook for Windows users - the core desktop version (OneNote 2016) and the Windows Store version (OneNote for Windows 10). If you are using OneNote 2016, then you have the option to set a to-do item and have this as an Outlook Task. Under the Home Menu, you can mark a line as being a To-Do task and then you can right click on that line to have it added as an Outlook task.
 
-![Adding an Outlook task in OneNote](/assets/images/2017/05/Outlook-tasks-in-OneNote.PNG)
+![Adding an Outlook task in OneNote](/images/2017/05/Outlook-tasks-in-OneNote.PNG)
 
 Many people will see this and say that they don't like using Outlook but that is where To-Do comes in. Outlook tasks from Office 365 are now synced back to To-Do where it will be appear as a suggested task for that day. Tag it in OneNote and it will appear in your mobile app as your daily to-do!
 
-![Showing the task in To-Do](/assets/images/2017/05/MS-To-Do.jpg)
+![Showing the task in To-Do](/images/2017/05/MS-To-Do.jpg)
 
 I had a great chat at the last #SUGUK session in London with Bill Ayers and Chris O'Brien about capturing tasks in meetings and that spurned an idea to take a look at the OneNote API to pull through tasks given a specific notation. What I love is that it wasn't anywhere near as hard as that!
 

@@ -6,6 +6,7 @@ import {Layout} from '../components/index';
 import HeaderAlt from '../components/HeaderAlt';
 import Header from '../components/Header';
 import {htmlToReact, markdownify} from '../utils';
+import PrevNextPost from '../components/PrevNextPost';
 import Footer from '../components/Footer';
 
 export default class Post extends React.Component {
@@ -37,6 +38,10 @@ export default class Post extends React.Component {
                     </div>
                   </article>
                 </main>
+                
+                <div>
+                      <PrevNextPost {...this.props}/>
+                </div>
                 <Footer {...this.props} />
               </div>
             </Layout>

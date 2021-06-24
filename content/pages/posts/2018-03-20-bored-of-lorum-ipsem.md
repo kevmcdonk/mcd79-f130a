@@ -2,7 +2,7 @@
 layout: post
 title: Bored of Lorem Ipsum?
 date: '2018-03-20 11:53:26'
-feature_image: '/assets/images/2018/03/Lorem-Ipsum-Cow-Cropped-1.jpg'
+content_img_path: 'images/2018/03/Lorem-Ipsum-Cow-Cropped-1.jpg'
 tags:
 - digital workplace
 - content

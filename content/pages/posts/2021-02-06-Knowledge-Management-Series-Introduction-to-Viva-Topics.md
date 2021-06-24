@@ -105,11 +105,11 @@ Getting started is easy. In a few minutes, I had a Topic Centre and it only took
 
 The Topic Centre neatly displays all those Topics that you have created with summary cards for each, showing recent activity and whether it is a curated Topic (i.e. defined by a person) or a discovered one (i.e. discovered by AI but not yet validated by a real person). The Topic Pages can be edited with your own web parts as well so they aren't fixed and can flex to what you need which is really useful.
 
-![The Topic Centre](/assets/images/2021/02/Viva Topics Topic Centre.jpg)
+![The Topic Centre](/images/2021/02/Viva Topics Topic Centre.jpg)
 
 The other great part now available in topics is that they show up in Microsoft Search. No need to create a separate bookmark in Answers, it appears as a card already with the key people and resources shown by default and a link to the Topic Page
 
-![Topics in Search](/assets/images/2021/02/Topics in Microsoft Search.jpg)
+![Topics in Search](/images/2021/02/Topics in Microsoft Search.jpg)
 
 #### The potentially bad parts or hopefully just the "not yet there parts" (at least at the time of writing)
 

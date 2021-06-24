@@ -2,7 +2,7 @@
 layout: post
 title: Searching Bing with an Azure Function
 date: '2017-08-01 23:26:28'
-feature_image: 'https://upload.wikimedia.org/wikipedia/commons/e/ee/AWI-core-archive_hg.jpg'
+content_img_path: 'https://upload.wikimedia.org/wikipedia/commons/e/ee/AWI-core-archive_hg.jpg'
 tags:
 - technical
 - sharepoint
@@ -33,7 +33,7 @@ Another useful change I found was that you can hold your Azure Function in a sub
 
 To do this, add a key called PROJECT to the Azure Function app settings and provide this with the Folder name or path.
 
-![Azure Function PROJECT App Setting](/assets/images/2017/08/Azure-Function-PROJECT-App-setting.JPG)
+![Azure Function PROJECT App Setting](/images/2017/08/Azure-Function-PROJECT-App-setting.JPG)
 
 ## ## Quick note on pricing
 

@@ -2,7 +2,7 @@
 layout: post
 title: Sharing the etiquette of Microsoft 365
 date: '2020-12-06 18:00:00'
-feature_image: '/assets/images/2020/12/Together.jpg'
+content_img_path: 'images/2020/12/Together.jpg'
 comments: false
 published: true
 author: 'Kevin McDonnell'

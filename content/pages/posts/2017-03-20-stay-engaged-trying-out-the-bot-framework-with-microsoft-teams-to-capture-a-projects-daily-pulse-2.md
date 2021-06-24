@@ -18,11 +18,11 @@ When a project is running, it is useful to know how the team and key stakeholder
 
 The app is created using the SharePoint Framework and uses Node JS. You can view the full source code at https://github.com/kevmcdonk/Mcd79ProjectPulse. It shows a set of emojis that are easy to click on and submit your feeling for the day. 
 
-![Capture the pulse](/assets/images/2017/12/Project-Pulse-view-1.PNG)
+![Capture the pulse](/images/2017/12/Project-Pulse-view-1.PNG)
 
 Once submitted, it will show the average temperature for the day from everyone who has submitted.
 
-![Show the temperature](/assets/images/2017/12/Project-Pulse-view-2.PNG)
+![Show the temperature](/images/2017/12/Project-Pulse-view-2.PNG)
 
 The app was built up using much of the great documentation available around the framework starting from https://dev.office.com/sharepoint. The differing parts were how to create the SharePoint list including Content Types and Site Fields - how to do this came from https://dev.office.com/sharepoint/docs/spfx/toolchain/provision-sharepoint-assets but I also found that using the standard Visual Studio 2015 SharePoint template allowed an easier creation of the schema needed.
 
@@ -36,7 +36,7 @@ The next step was to work out how a bot could be used for this. I kept this very
 
 The code for this is all available at https://github.com/kevmcdonk/Mcd79ProjectPulseBot. 
 
-![Bot on a Team channel](/assets/images/2017/12/Teams-bot.PNG)
+![Bot on a Team channel](/images/2017/12/Teams-bot.PNG)
 
 Many of the steps to follow are outlined in the main Bot Framework documentation. I decided to create a Node JS bot and so followed https://docs.botframework.com/en-us/node/builder/overview/#navtitle. I downloaded the Bot emulator and within half an hour, had a Bot that replied to a specific message. I next followed the links in the documentation to deploy to Azure and had a working Bot published. The next step was to sideload this Bot into one of my Teams channels and I had a Bot I could interact with from the Teams app. Easy so far!
 

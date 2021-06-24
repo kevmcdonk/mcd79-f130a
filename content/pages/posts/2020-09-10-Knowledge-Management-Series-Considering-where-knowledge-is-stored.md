@@ -2,7 +2,7 @@
 layout: post
 title: Knowledge Management Series - Considering where knowledge is stored
 date: '2020-09-10 20:00:00'
-feature_image: '/assets/images/2020/09/earth.jpg'
+content_img_path: 'images/2020/09/earth.jpg'
 comments: false
 published: true
 author: 'Kevin McDonnell'
@@ -33,7 +33,7 @@ A third area sometimes cited is implicit knowledge which is the knowledge that i
 
 You can think of these three areas as a scale with explicit knowledge in structured areas being the hardest to capture and maintain but the easiest to search and navigate knowledge and implicit knowledge being the hardest to find but easiest to capture.
 		
-![Types of knowledge](/assets/images/2020/09/TypesOfKnowledge.jpg)
+![Types of knowledge](/images/2020/09/TypesOfKnowledge.jpg)
 
 ## So where is your knowledge held and what types of knowledge do you have?
 
@@ -41,7 +41,7 @@ Do you have formal record management or document management? The first steps to 
 
 The video below is a replay of a mapping of the Etiquette of Microsoft 365 knowledge, considering where useful knowledge could be held to learn more about etiquette insights similar to those we have captured for GreyHatBeard. You can see that I think about the main areas and then start extending that to specifics where known and building out the connected areas. It can also be useful to start considering at this point how much knowledge you have in each area and how much you would like to have. 
 
-![Mapping etiquette of Microsoft 365](/assets/images/2020/09/MappingEtiquetteOfMicrosoft365.gif)
+![Mapping etiquette of Microsoft 365](/images/2020/09/MappingEtiquetteOfMicrosoft365.gif)
 
 You may be looking at this and thinking that this is far too basic for an organisational knowledge map. That is certainly true and this lower level example would work better for an individual team or area. [APQC](https://www.apqc.org/) include a set of examples of knowledge maps for enterprise, cross-functional and process/role based maps in their [Getting Started with Knowledge Mapping](https://www.apqc.org/system/files/K06334_Getting_Started_Knowledge_Mapping.pdf) document. 
 

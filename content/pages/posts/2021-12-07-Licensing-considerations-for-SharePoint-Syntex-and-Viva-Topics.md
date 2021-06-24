@@ -16,13 +16,13 @@ From some discussions I have had, many people are switching off listening about 
 
 Both SharePoint Syntex and Viva Topics are licensed as add-ons so it does not matter whether you have E1, E3, E5, Business Premium etc, you will still need to pay for that add-on. Currently, they are $5 per user per month for each (or £3.80 for those in the UK). Once purchased, they must be assigned to each user. But which users require a license?
 
-[Licensing add-ons](/assets/images/2021/02/Licensing.jpg)
+[Licensing add-ons](/images/2021/02/Licensing.jpg)
 
 #### Who needs to see Topics?
 
 For the Topics Experience, it is a fairly simple conversation. Anyone who requires to manage or even view Topics, either from the Topic Centre or as the Topics roll out wider within Microsoft 365, will require a license. To get the benefits of the shared knowledge across the organisation, it will mean an additional cost for each user. What happens if a license is removed?
 
-[Topic Centre if user has no license](/assets/images/2021/02/Topic Centre No License.jpg)
+[Topic Centre if user has no license](/images/2021/02/Topic Centre No License.jpg)
 
 So you can give access to the Topic Centre site but if no license is assigned then the user will just see a blank page.
 

@@ -2,7 +2,7 @@
 layout: post
 title: Show Their Tweets - A Power App using Face API to show tweets based on photo taken
 date: '2020-01-18 00:00:00'
-feature_image: '/assets/images/2020/01/selfie.jpg'
+content_img_path: 'images/2020/01/selfie.jpg'
 comments: false
 published: true
 author: "Kevin McDonnell"
@@ -23,15 +23,15 @@ The main aim of the app was to integrate the [Face API](https://azure.microsoft.
 
 The home page lets the user take a photo and it will try and recognise a face in that photo (just the one at the moment). If they are in the list, then it will show a list of their tweets with the option to show any that they are mentioned in. Then if you click on two of the icons along the top, the app will now extract either a set of key phrases from the last thirty tweets or the entities used by running them through the [Text Analytics Cognitive Service](https://azure.microsoft.com/en-us/services/cognitive-services/text-analytics/).
 
-![Homepage](/assets/images/2020/01/ShowTheirTweets-Home.jpg)
-![Tweets](/assets/images/2020/01/ShowTheirTweets-Tweets.jpg)
-![Entities](/assets/images/2020/01/ShowTheirTweets-Entities.jpg)
+![Homepage](/images/2020/01/ShowTheirTweets-Home.jpg)
+![Tweets](/images/2020/01/ShowTheirTweets-Tweets.jpg)
+![Entities](/images/2020/01/ShowTheirTweets-Entities.jpg)
 
 The rest of the app is about setting up the people who can be searched for. From the homepage, you can click on the people icon to see a list of people. There you can also add another person by taking their photo, adding their name and Twitter handle. The app also allows you to add additional photos to help train the face list for a person further.
 
-![People](/assets/images/2020/01/ShowTheirTweets-People.jpg)
-![Add Person](/assets/images/2020/01/ShowTheirTweets-AddPerson.jpg)
-![Add Person Face](/assets/images/2020/01/ShowTheirTweets-AddPersonFace.jpg)
+![People](/images/2020/01/ShowTheirTweets-People.jpg)
+![Add Person](/images/2020/01/ShowTheirTweets-AddPerson.jpg)
+![Add Person Face](/images/2020/01/ShowTheirTweets-AddPersonFace.jpg)
 
 Want to see a live demo?
 

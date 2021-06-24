@@ -2,7 +2,7 @@
 layout: post
 title: Using Microsoft Search with a SPA
 date: '2020-08-09 20:00:00'
-feature_image: '/assets/images/2020/08/pool.jpg'
+content_img_path: 'images/2020/08/pool.jpg'
 comments: false
 published: true
 author: 'Kevin McDonnell'
@@ -25,13 +25,13 @@ What was announced at Ignite in 2019 was that this search would now be available
 
 The UI focuses on the ability to search for contents with a large search box as the focus. Below that, it shows the trending news and then follows up with other trending items using the Graph and SharePoint APIs.
 
-![Main page](/assets/images/2020/08/mssearchspa-1.jpg)
+![Main page](/images/2020/08/mssearchspa-1.jpg)
 
-![Second half of main page](/assets/images/2020/08/mssearchspa-2.jpg)
+![Second half of main page](/images/2020/08/mssearchspa-2.jpg)
 
 The search bar returns results straight away and uses the Adapative Cards to render the results although these could do with some improving to look a bit better!
 
-![Search results](/assets/images/2020/08/mssearchspa-3.jpg)
+![Search results](/images/2020/08/mssearchspa-3.jpg)
 
 ## Framework
 The overall app utilises the Next JS framework to create a static app that can be hosted on Azure Storage. This makes it very cheap to run and relatively simple once the code is compiled. Azure DevOps can build and deploy all the files and get the site running in minutes. Which is nice.

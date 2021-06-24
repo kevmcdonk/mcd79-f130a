@@ -2,7 +2,7 @@
 layout: post
 title: Building a bot to link to all your internal bots
 date: '2017-05-11 18:37:19'
-feature_image: '/assets/images/2017/05/spray.jpg'
+content_img_path: 'images/2017/05/spray.jpg'
 tags:
 - technical
 - bots
@@ -92,7 +92,7 @@ You can read more about [Luis](https://azure.microsoft.com/en-gb/services/cognit
 
 I used the Luis service at https://luis.ai to set up intents for each of my core bots:
 
-![Intents](/assets/images/2017/05/intents.PNG)
+![Intents](/images/2017/05/intents.PNG)
 
 I have taken an export of these and placed in the [github repo](https://github.com/kevmcdonk/HollisBots/blob/master/HollisBots/The%20Hub%20Bot.json) if you want to use or just review. There isn't much detail right now but I will be adding further stuff.
 

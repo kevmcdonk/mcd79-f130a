@@ -2,7 +2,7 @@
 layout: post
 title: Knowledge Management Series - Introduction to SharePoint Syntex
 date: '2020-09-26 18:00:00'
-feature_image: '/assets/images/2020/09/SortingRecords.jpg'
+content_img_path: 'images/2020/09/SortingRecords.jpg'
 comments: false
 published: true
 author: 'Kevin McDonnell'
@@ -52,13 +52,13 @@ There are several third party tools that have added capabilities for tagging met
 
 You can watch a great [Click through demo](https://aka.ms/SharePointSyntex/demo) of this which gives an idea of how it works. I was lucky enough to see an early preview of this late last year and at the time, felt that it was a little hard to just get going with it - it felt like it would involve a lot of training to get started. However, Microsoft have really learnt from the early previews and this demo shows that it is easy to pick up common patterns. I look forward to being able to trying this out with some real content like our requirements docs and statements of work that can make it easier to match the content. Imagine being able to load all your project definitions into one place and then have the document be tagged with the Project Name, department and key stakeholders so that it shows up in the project site, department site and makes it easy for stakeholders to see all their definitions. It could even track common themes in the project so you could see all Finance projects, C# projects, customer projects, etc in one place. The models created can be re-used as well and published to other libraries as well so they can be duplicated across areas for common patterns.
 
-![Syntex Extractor Example](/assets/images/2020/09/SyntexExtractorExample.jpg)
+![Syntex Extractor Example](020/09/SyntexExtractorExample.jpg)
 
 ## Form Processing
 
 For those who follow the Power Platform, you will likely already know about AI Builder and what could be done to process images of forms and cards to extract entities automatically. I have even used this with my son in a Power App to take photos of Pokemon cards and extract all the stats for each. This logic could be used to process tickets or physical ID cards quickly and easily. This has been integrated into SharePoint for a while but had multiple hoops with licensing and connecting to metadata. With Syntex, this can now all be done for you in one go. It will be interesting to see how much this gets above the standard AI Builder over time.
 
-![Form Processor Example](/assets/images/2020/09/FormProcessorExample.jpg)
+![Form Processor Example](020/09/FormProcessorExample.jpg)
 
 ## Digital Image Processing
 

@@ -2,7 +2,7 @@
 layout: post
 title: GreyHatBeard - a Modern Workplace Podcast is now live
 date: '2020-01-27 00:00:00'
-feature_image: '/assets/images/2020/01/GreyHatBeard-large.png'
+content_img_path: 'images/2020/01/GreyHatBeard-large.png'
 comments: false
 published: true
 author: 'Kevin McDonnell'

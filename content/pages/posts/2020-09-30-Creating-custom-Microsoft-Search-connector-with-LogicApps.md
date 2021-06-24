@@ -2,7 +2,7 @@
 layout: post
 title: Creating a custom Microsoft Search connector with Logic Apps
 date: '2020-09-30 18:00:00'
-feature_image: '/assets/images/2020/09/connectors.jpg'
+content_img_path: 'images/2020/09/connectors.jpg'
 comments: false
 published: true
 author: 'Kevin McDonnell'
@@ -19,7 +19,7 @@ Microsoft Search has the ability to connect to standard systems through the Micr
 
 However, if you have a third party application or content in something like Cosmos DB, you need to use the interfaces in Microsoft Graph to add content to the index. This broadens the capabilities to connect without having to first move data to one of the systems below.
 
-![Current Search Connectors](/assets/images/2020/09/DefaultSearchConnectors.jpg)
+![Current Search Connectors](/images/2020/09/DefaultSearchConnectors.jpg)
 
 ## Adding custom data with .Net Core
 The easiest point to get started with the custom search connectors is to use the [sample code](https://github.com/microsoftgraph/msgraph-search-connector-sample) from the Microsoft Graph team. This has a great guide in the readme to get started using a console app to connect. The process that it follows is:
@@ -35,7 +35,7 @@ The easiest point to get started with the custom search connectors is to use the
 
 Once these are set up (following the great [readme](https://github.com/microsoftgraph/msgraph-search-connector-sample/blob/master/README.md) in the sample), the results show up in the main search results as a vertical below where the sample Parts vertical is set up. The console app sets up each of the steps above through number prompts for the user but is designed as an example not as a real solution to use. Which brings me to using Logic Apps.
 
-![Parts Search Results](/assets/images/2020/09/PartsSearchResults.png)
+![Parts Search Results](/images/2020/09/PartsSearchResults.png)
 
 ## Pulling index results using Logic Apps
 Taking the ideas in the repo above to a more usable setting, I decided that pulling a set of tweets from Twitter would be useful to be searchable across Microsoft 365, using the great information that gets shared regularly on the TweetJam's run by [Christian Buckley](https://twitter.com/@buckleyplanet) under the [#CollabTalk](https://twitter.com/search?q=%23collabtalk&src=typed_query) hashtag. There are some great conversations that take place and useful information shared and making this available within the help guides could be useful.
@@ -49,7 +49,7 @@ So what Logic Apps are created? All the Logic Apps are available in the [Mcd79Tw
 
 The first Logic App creates a connection with unique ID, name and description to identify the index items. It checks first to see if it exists and adds it if not. The same then follows for the schema which outlines the model for the index and defines which properties can be held. This is a relatively simple schema with datatypes but no collections or sub-schemas available.
 
-![Setup Logic App](/assets/images/2020/09/SetupConnectorAndSchema.jpg)
+![Setup Logic App](/images/2020/09/SetupConnectorAndSchema.jpg)
 
 The schema itself defines the properties to be captured with the name and type as well as four other values from the [schema definition](https://docs.microsoft.com/en-us/graph/api/resources/schema?view=graph-rest-beta):
 - isQueryable - whether the property can be used in search queries using KQL
@@ -69,7 +69,7 @@ You can create up to 2,000,000 indexes in your tenant across both the custom con
 
 Once done, you can see the results appear in your search results as below.
 
-![Tweet Search Results](/assets/images/2020/09/TweetSearchResults.jpg)
+![Tweet Search Results](/images/2020/09/TweetSearchResults.jpg)
 
 So there you have it, the content from CollabTalk appearing right there in your search results. Obviously, I have picked this as an example but that content could be from your custom applications, Salesforce and anyone one of the many other Connectors that exists in Logic Apps. The only struggle I had was about getting the Graph Auth in place (I originally tried using Managed Identity as in [Garry Trinder's great post](https://garrytrinder.github.io/2020/09/implement-microsoft-graph-app-only-calls-the-easy-way-using-azure-logic-apps-and-azure-managed-identity) on using it with Logic Apps but found issues that I'll look back at) but otherwise, it was set up in an hour.
 

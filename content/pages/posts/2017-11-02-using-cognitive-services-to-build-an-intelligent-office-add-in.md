@@ -2,7 +2,7 @@
 layout: post
 title: Using Cognitive Services to build an intelligent Office Add-In
 date: '2017-11-02 18:49:23'
-feature_image: '/assets/images/2017/12/Collab365-blog.JPG'
+content_img_path: 'images/2017/12/Collab365-blog.JPG'
 tags:
 - technical
 - sharepoint-framework
@@ -18,7 +18,7 @@ Azure Cognitive Services - https://azure.microsoft.com/en-us/services/cognitive-
 Build your own Cognitive Services from Azure - https://portal.azure.com/#create/Microsoft.CognitiveServices
 Text analytics - https://docs.microsoft.com/en-gb/azure/cognitive-services/text-analytics/overview
 
-![](/assets/images/2017/11/cognitive-1.png)
+![](/images/2017/11/cognitive-1.png)
 
 Creating Outlook add-ins - https://docs.microsoft.com/en-us/outlook/add-ins/addin-tutorial
 Debugging add-ins - https://dev.office.com/docs/add-ins/testing/debug-add-ins-using-f12-developer-tools-on-windows-10

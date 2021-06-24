@@ -2,7 +2,7 @@
 layout: post
 title: An Advent series - building a SharePoint modern page with PnP PowerShell setting the banner image
 date: '2018-12-04 06:00:00'
-feature_image: '/assets/images/2018/12/paper.jpg'
+content_img_path: 'images/2018/12/paper.jpg'
 comments: false
 author: "Kevin McDonnell"
 tags:

@@ -3,7 +3,7 @@ layout: post
 title: Presentation now available for using Cognitive Services to build an intelligent
   Office Add-In
 date: '2017-12-19 10:01:31'
-feature_image: '/assets/images/2017/12/Collab365-blog.JPG'
+content_img_path: 'images/2017/12/Collab365-blog.JPG'
 tags:
 - technical
 - office-365
@@ -16,6 +16,6 @@ Thanks to the amazing people at Collab 365, my virtual conference presentation o
 
 I always love feedback so please do let me know what you think. All the code is available at https://github.com/kevmcdonk/YouveGotSentiment and other links in [my earlier post](https://www.mcd79.com/using-cognitive-services-to-build-an-intelligent-office-add-in/). 
 
-![](/assets/images/2017/12/Collab-365-app.JPG)
+![](/images/2017/12/Collab-365-app.JPG)
 
-![](/assets/images/2017/12/Collab365-code.JPG)
+![](/images/2017/12/Collab365-code.JPG)

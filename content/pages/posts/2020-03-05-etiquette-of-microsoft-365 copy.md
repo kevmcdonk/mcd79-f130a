@@ -2,7 +2,7 @@
 layout: post
 title: The Etiquette of Microsoft 365 - a GreyHatBeard initiative
 date: '2020-03-05 00:00:00'
-feature_image: '/assets/images/2020/03/etiquette.jpg'
+content_img_path: 'images/2020/03/etiquette.jpg'
 comments: false
 published: true
 author: 'Kevin McDonnell'

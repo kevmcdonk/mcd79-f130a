@@ -2,6 +2,7 @@
     "title": "Mcd79 blog",
     "path_prefix": "/",
     "palette": "yellow",
+    "favicon": "/images/favicon.ico",
     "header": {
         "title": "Mcd79",
         "tagline": "a Modern Workplace with Microsoft 365 blog",

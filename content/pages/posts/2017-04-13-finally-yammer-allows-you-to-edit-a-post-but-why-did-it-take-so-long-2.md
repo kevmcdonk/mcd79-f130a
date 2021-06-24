@@ -23,19 +23,19 @@ Instead, there will have been hours of unit and automated testing followed up by
 
 There are different streams to how these thoughts could impact you.
 
-![User](/assets/images/2017/04/Photo-Android-Smartphone-Phone-User-Instagram-634069-1.jpg)
+![User](/images/2017/04/Photo-Android-Smartphone-Phone-User-Instagram-634069-1.jpg)
 
 **You're a passionate user of these platforms** - you want to see change happen fast but you need it to be reliable. You won't know whether a nosql database that doesn't need re-indexing into bla bla bla or not. You just want to be able to share content with your connections and build relationships. And it should work all the time. 
 
 What you should do though is keep talking with the product teams and their connections. Tell people what it is that you want to see and help them realise the importance of things like editing. Sign up for the [User Voice](https://yammer.uservoice.com/) and fill out those surveys that are sent round. When there is some A/B testing, feedback that you like or don't like it with some constructive thoughts. Finally, be nice! There are rare times that people do things just to wind people up.
 
-![IT Pro](/assets/images/2017/04/laptop-1.jpeg)
+![IT Pro](/images/2017/04/laptop-1.jpeg)
 
 **You're an IT Pro managing one of these platforms** - aka the one stuck in the middle. You have to deal with the changes taking place and take the flack when people don't like it. People don't listen to what you think whether it's on your changes or why it takes so long and you always get blamed. So what should you do about it?
 
 Make sure that you have all the latest information at your fingertips and point people towards those references. Not everyone likes what they hear but make sure that they know what is planned and this eases any pain. In the other direction, make sure that you help to pass on feedback as to what has and hasn't worked and what is really being demanded. 
 
-![Developer](/assets/images/2017/04/7643288084_09053952da_b-1.jpg)
+![Developer](/images/2017/04/7643288084_09053952da_b-1.jpg)
 
 **You're a developer** - you spent hours on a great bit of code that improves the performance, is fully unit tested, has automated UI tests to ensure it stays working and was delivered ahead of plan. It's delivered and nothing is heard. The next change is a font colour change and Twitter is raving about the improvements. It's a hard life.
 

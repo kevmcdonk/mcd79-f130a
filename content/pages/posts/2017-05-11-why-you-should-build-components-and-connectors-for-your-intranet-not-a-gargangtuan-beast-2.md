@@ -3,7 +3,7 @@ layout: post
 title: Why you should build components and connectors for your Intranet, not a gargangtuan
   beast
 date: '2017-05-11 11:15:36'
-feature_image: '/assets/images/2017/05/resistor-art.jpg'
+content_img_path: 'images/2017/05/resistor-art.jpg'
 ---
 
 At the start of every year, the Nielsen Norman Group releases its [annual report on the best Intranets](https://www.nngroup.com/articles/intranet-design/) for that year but for many, the most interesting part is the analysis they release on the intranets. The part of this that I enjoy most is seeing the average time for creating an Intranet with this year's chart showing an average of 1.4 years. That is 1.4 years duration. Throw in the average team size of 12 people and assuming 8 hour days for 220 days a year, that's almost 30 000 person hours of effort. Just for that one release. For pretty much every company, that is a significant investment.
@@ -38,12 +38,12 @@ The problem becomes when these are seen as the only solution and everything must
 
 Bots, voice services like Alexa, Chat services and mobile apps can all surface content. This follows on from the Hub and Spoke model and means that people get the right information where they use it. Outlook, Salesforce, Dynamics and others all have the ability to integrate info in to their main areas to show the content in the right hub for each staff member.
 
-![hub and spoke](/assets/images/2017/05/Hub-and-spoke-diagram.PNG)
+![hub and spoke](/images/2017/05/Hub-and-spoke-diagram.PNG)
 
 ### Things change so keep adapting
 
 The beauty of these flexible components is that you can maintain existing components while still bringing in new ideas. Monitoring the success allows you to gradual phase out unpopular components and build on the successful ones. In the personal space, people are more comfortable with the ever increasing change and updates taking place and this can now be supported in the workplace too. Communicate, support new ideas and keep what works going.
 
 
-![Components](/assets/images/2017/05/Components.jpg)
+![Components](/images/2017/05/Components.jpg)
  

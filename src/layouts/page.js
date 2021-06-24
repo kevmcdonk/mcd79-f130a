@@ -28,7 +28,6 @@ export default class Page extends React.Component {
                     </div>
                   </article>
                 </main>
-
                 <Footer {...this.props} site={this.props} page={this.props.page} image={_.get(this.props, 'page.frontmatter.img_path', null)} />
               </div>
             </Layout>

@@ -2,7 +2,7 @@
 layout: post
 title: An Advent series - Backing up Azure Cosmos DB
 date: '2018-12-02 09:00:00'
-feature_image: '/assets/images/2018/12/man-backup.jpg'
+content_img_path: 'images/2018/12/man-backup.jpg'
 comments: false
 author: "Kevin McDonnell"
 tags:
@@ -19,34 +19,34 @@ To get started with Azure Data Factory:
 - Click on Author and Monitor to be taken to the home page
 - Click on Copy Data
 
-![Azure Portal](/assets/images/2018/12/AzurePortalDataFactory.PNG)![Start SCreen](/assets/images/2018/12/AzureDFStartScreen.PNG)
+![Azure Portal](/images/2018/12/AzurePortalDataFactory.PNG)![Start SCreen](018/12/AzureDFStartScreen.PNG)
 
 - Fill out the name for your task
 - Add a Cosmos DB Linked Service as a source
 - Fill out the connection details
 
-![Cosmos Linked Service](/assets/images/2018/12/AzureDFCreateLinkedService.PNG)![Cosmos Connection Details](/assets/images/2018/12/AzureDFCosmosConnection.PNG)
+![Cosmos Linked Service](018/12/AzureDFCreateLinkedService.PNG)![Cosmos Connection Details](ection.PNG)
 
 - Select the Cosmos collection (Items in the case below)
 - Select "Export as-is to JSON files
 
-![Cosmos Linked Service](/assets/images/2018/12/AzureDFCosmosQuery.PNG)
+![Cosmos Linked Service](/images/2018/12/AzureDFCosmosQuery.PNG)
 
 - Create a Destination Source
 - Use a new Azure Blob Storage linked service
 
-![Linked Azure Blob Service](/assets/images/2018/12/AzureDFCreateLinkedServiceStorage.PNG)
+![Linked Azure Blob Service](018/12/AzureDFCreateLinkedServiceStorage.PNG)
 
 - Define the file path and name, using a temporary name for now
 
-![Linked Azure Blob Service File Path](/assets/images/2018/12/AzureDFSelectFolder.PNG)
+![Linked Azure Blob Service File Path](018/12/AzureDFSelectFolder.PNG)
 
 - Click several Nexts until the wizard completes and creates the Pipeline
 - Click on the pencil icon an navigate through the Pipelines to find your newly created Copy Data Pipeline
 - Click on the Copy Data activity and navigate to the Sink section
 - Edit the Sink Dataset
 - Find the filepath, select backup.json and select Add Dynamic Content
-![Azure Storage Filepath](/assets/images/2018/12/AzureDFUpdateFolder.PNG)
+![Azure Storage Filepath](/images/2018/12/AzureDFUpdateFolder.PNG)
 - Change the value to "@concat(utcnow(),'.json')" so that each run will give the file a unique name
 
 This completes it all so that you can now Debug to test it and then Publish when all ready. Depending on your preferences, you can create a Trigger to run this every day or to whatever frequency you need. To restore these backups, create a similar Copy Data task going back the other way.

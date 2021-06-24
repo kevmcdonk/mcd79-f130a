@@ -2,7 +2,7 @@
 layout: post
 title: An Advent series - Learning through hackathons
 date: '2018-12-12 06:00:00'
-feature_image: '/assets/images/2018/12/hackathon.jpg'
+content_img_path: 'images/2018/12/hackathon.jpg'
 comments: false
 author: "Kevin McDonnell"
 tags:
@@ -22,7 +22,7 @@ Experts like [Bill Ayers](https://twitter.com/SPDoctor), [Gosia Borzecka](https:
 
 The challenge was to create a Bot from scratch using the Bot Framework to pull information from an FAQ to act as a IT helper. Ultimately, all the teams were able to get something working with a range of people from developers to power users and systems analysts.
 
-![HelpMe365Bot](/assets/images/2018/12/HelpMe365Bot.PNG)
+![HelpMe365Bot](/images/2018/12/HelpMe365Bot.PNG)
 
 However, the point I am hoping to make here is that all of us learnt from the event by getting hands on. Whether it was the technical detail of using Dispatches in the Bot Framework, how to pull FAQs from a SharePoint list to a Bot or the benefits of using the Language Understanding service to understand intents and entities from natural language.
 
@@ -30,4 +30,4 @@ I came back home energised by others and bubbling with ideas on how I could use 
 
 If you are interested in trying out a hackathon, sign up for the [UK Tech Communities](https://uk.communities.tech) mailing list and get along to their next events or keep an eye on the [Microsoft Reactor London site](https://developer.microsoft.com/en-gb/reactor/) if you are in the UK.
 
-![Bots and AI Hackathon](/assets/images/2018/12/BotAIHackathon.PNG)
+![Bots and AI Hackathon](/images/2018/12/BotAIHackathon.PNG)

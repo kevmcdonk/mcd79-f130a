@@ -2,7 +2,7 @@
 layout: post
 title: Improving performance for bulk PnP PowerShell scripts
 date: '2021-03-21 14:00:00'
-feature_image: '/assets/images/2021/03/toycar.jpg'
+content_img_path: 'images/2021/03/toycar.jpg'
 comments: false
 published: true
 author: 'Kevin McDonnell'

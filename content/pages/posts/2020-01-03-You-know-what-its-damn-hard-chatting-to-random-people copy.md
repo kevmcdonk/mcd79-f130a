@@ -2,7 +2,7 @@
 layout: post
 title: You know what, it’s damn hard chatting to random people
 date: '2020-01-03 00:00:00'
-feature_image: '/assets/images/2019/12/pocket-watch.jpg'
+content_img_path: 'images/2019/12/pocket-watch.jpg'
 comments: false
 published: true
 author: "Kevin McDonnell"

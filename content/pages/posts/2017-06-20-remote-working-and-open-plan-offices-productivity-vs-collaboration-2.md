@@ -2,14 +2,14 @@
 layout: post
 title: Remote working and open plan offices = Productivity vs Collaboration?
 date: '2017-06-20 22:18:40'
-feature_image: '/assets/images/2017/06/coffee-shop-working-1.jpg'
+content_img_path: 'images/2017/06/coffee-shop-working-1.jpg'
 ---
 
 ## What does your day look like?
 
 Do you drive to work, head into your own or a shared office and get on with work? Do you have a desk in an open plan office, perhaps with hot desking? Or maybe you are on a laptop all day, moving between locations or sat at home keeping the cat off the keyboard? The nature of the workplace has shifted over the last twenty years with far more remote working and offices more likely to be open plan.
 
-![An open plan office - very open](/assets/images/2017/06/open-plan-office.jpg)
+![An open plan office - very open](/images/2017/06/open-plan-office.jpg)
 
 But it seems that there is a backlash building against open plan offices with [studies](http://sydney.edu.au/news/84.html?newsstoryid=12347) [noting](https://www.steelcase.com/research/articles/privacy-crisis/) that there is a big dent to individuals productivity against the benefits of collaboration. It has even been noted that using headphones to concentrate does not completely help as the movement in people's peripheral vision still leads to distraction and loss of focus. Throw in a [2013 survey from Canada Life](https://www.employeebenefits.co.uk/issues/february-online-2017/42-staff-overeat-eat-unhealthily-due-workplace-stress/) that found that people working from home had 70% fewer sick days than those in open offices and you have some serious considerations to make.
 
@@ -17,7 +17,7 @@ But it seems that there is a backlash building against open plan offices with [s
 
 For the time being, I will gloss over the cost implications and think about the benefits to people of more open plan  working. If you have a more open area, you encourage greater interaction and this helps foster better collaboration and also innovation. The [CEO of Kellogs](https://thinkgrowth.org/what-the-ceo-of-kelloggs-taught-me-about-keeping-it-real-14a7acdc62be) also noted that it allowed the culture of a company to spread more effectively and foster greater connection between management and other staff as well as between different teams. Others can overhear when you're having issues and help out. Your team near you have better ideas on what you are working on and if it is related, can quickly bring ideas together. We can all live in one big happy family, holding hands and making the world a better place as there is nothing better than forcing innovationΓÇª
  
-![Disgruntled workers](/assets/images/2017/06/disgruntled-workers.jpg)
+![Disgruntled workers](/images/2017/06/disgruntled-workers.jpg)
 
 Apologies to non-British readers but I lapsed into too much British sarcasm here. Much of what I said is true but the reality also gets hampered by annoying habits of colleagues and people who have far more time for  your job than theirs. The studies mentioned earlier found little evidence for the benefits of collaboration although the [increased employee engagement through greater control](http://www.cmiworkplace.co.uk/well-designed-offices-improve-employee-engagement/) offers many benefits. For  work  to actually get done, there are times that you need to be able to just get on with what has been assigned to you. 
 
@@ -26,7 +26,7 @@ Apologies to non-British readers but I lapsed into too much British sarcasm here
 As with many things, the solution is to find a balance. Companies internal real estate teams are realising that  **different people need different solutions at different times**. Where the Digital Workplace has offered plenty of solutions for collaboration (such as Slack, Microsoft Teams, SharePoint etc) and for staying focussed (https://medium.com/@producthunt/11-apps-to-help-you-find-your-focus-35dc52952af7), physical workspaces are evolving to become more flexible. This is not as easy with physical equipment but desks designed to not all be in rows and instead having areas where groups can be sat closer while  other areas are more secluded. Smaller pods for private meetings or a bit of quiet focussed work. Electronic whiteboards or devices like the Surface Hub to collaborate
 across locations and naturally in groups . Floor panels that allow power sockets to be more easily aligned to different   desk layouts and increasing availability and security around wireless networks. All these are giving diversity to styles of office working that can adapt to a team's and organisation's needs over time.
 
-![Modern office example](/assets/images/2017/06/modern-office.jpg)
+![Modern office example](/images/2017/06/modern-office.jpg)
 
 ### Can I just work from home when I need to get things done?
 
@@ -42,4 +42,4 @@ However, that doesn't mean that having the right tools mean that the right thing
 
 Does there have to be a loser? Keep employees engaged, give them options and make sure that they know how to use them. Clearly define expectations to people and ensure they have the right tasks to do and connections to the right people to do them with. There shouldn't be a loser then.
 
-![Everybody wins](/assets/images/2017/06/everyoneWins-300x300.png)
+![Everybody wins](/images/2017/06/everyoneWins-300x300.png)

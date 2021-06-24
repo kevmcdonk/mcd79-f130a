@@ -3,7 +3,7 @@ layout: post
 title: My thoughts on Build 2017 so far
 featured: true
 date: '2017-05-11 21:49:57'
-feature_image: '/assets/images/2017/05/build-header-1.jpg'
+content_img_path: 'images/2017/05/build-header-1.jpg'
 tags:
 - digital-workplace
 - sharepoint
@@ -65,7 +65,7 @@ Interestingly, Jeremy Thake [suggested that Teams will soon become the primary c
 
 What opens this up is the ever improving capabilities of the Microsoft Graph. I mentioned Content As A Service in my [last blog](https://www.mcd79.com/why-you-should-build-components-and-connectors-for-your-intranet-not-a-gargangtuan-beast/) and the news around the general availability of SharePoint Sites in the graph and also the Planner API mean that you can do more with the data in more places. The improved ability to connect to the graph from services like Teams and the Bot Framework using the newly announced MSAL will greatly improve the time taken to develop these services although I have heard mixed voices so far from those who have used it. I certainly found mixed experiences previously, especially when using with the Bot Framework and if it is not smooth for authenticated users, they will quickly find alternatives.
 
-![Graph roadmap](/assets/images/2017/05/Graph-Preview.jpg)
+![Graph roadmap](/images/2017/05/Graph-Preview.jpg)
 
 #### Cortana Skills
 
@@ -84,7 +84,7 @@ The other news is a store for Flow and PowerApps connectors. The custom story ha
 
 There is so much content to digest and I am already hearing information appearing on the SPFX enhancements. This blog has already been delayed by my two week old baby and is being finished one handed while he's fed so time to wrap up for now!
 
-![one handed feed](/assets/images/2017/05/one-handed-feed.JPG)
+![one handed feed](/images/2017/05/one-handed-feed.JPG)
 
 ## Further Reading
 

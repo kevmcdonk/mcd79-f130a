@@ -2,7 +2,7 @@
 layout: post
 title: The current state of targeted news and approvals in Modern SharePoint
 date: '2019-06-20 06:00:00'
-feature_image: '/assets/images/2019/06/darts.jpg'
+content_img_path: 'images/2019/06/darts.jpg'
 comments: false
 published: true
 author: "Kevin McDonnell"

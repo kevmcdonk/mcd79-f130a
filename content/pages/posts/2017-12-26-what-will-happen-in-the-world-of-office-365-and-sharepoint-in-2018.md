@@ -2,7 +2,7 @@
 layout: post
 title: What will happen in the world of Office 365 and SharePoint in 2018?
 date: '2017-12-26 22:52:19'
-feature_image: '/assets/images/2017/12/dart-2109542_1920.jpg'
+content_img_path: 'images/2017/12/dart-2109542_1920.jpg'
 tags:
 - predictions
 - trends

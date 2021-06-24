@@ -2,7 +2,7 @@
 layout: post
 title: Problems with retrieving group calendars in PowerApps
 date: '2018-01-13 11:01:36'
-feature_image: '/assets/images/2018/01/holzfigur-980784_1920.jpg'
+content_img_path: 'images/2018/01/holzfigur-980784_1920.jpg'
 tags:
 - technical
 - powerapps
@@ -16,21 +16,21 @@ I started with pulling back my own calendar and had that showing nicely. I used 
 
 ClearCollect(CalItems, Office365.GetEventsCalendarViewV2("AQMkCDgyOTgxOTFlLWIxYTujNDgwMS04ZmQ0LWUwZmQ4Zjk0YWIzMABGAAAD2RtBjD8Jk0i4KA3NAvHSRAcAnklFNo4RR0yOoHVpIVJ1nQAAAgEGAAAAnklFNo7CC0yOoHVpIVJ1nQAAAhjZAAAA","2018-01-01","2018-02-01",{}).value) 
 
-![](/assets/images/2018/01/Initial-PowerApp-screenshot.JPG)
+![](/images/2018/01/Initial-PowerApp-screenshot.JPG)
 
 So this was lovely and all worked. Next I thought, let's try with an Office 365 Group calendar.....hmmm, how would that work? I checked the [Groups preview connector](https://docs.microsoft.com/en-us/connectors/office365groups/) but there was no way to get a calendar. I used the Microsoft Graph Explorer to see if I could get an ID for the calendar in the graph but while I could get a Group ID, there was no way to get a calendar ID. However, in the graph API, I could see that you could return events for a group - bingo! Surely it would be easy to [create a Swagger file for the graph using Postman](https://blogs.msdn.microsoft.com/softwaresimian/2017/10/05/using-postman-to-call-the-graph-api-using-azure-active-directory-aad/) (thanks to Software Simian aka [Ross Smith](https://twitter.com/ross_p_smith)). I did all this and created a custom connector with this in the PowerApps web version. Then I added this connector to my app and I had the events from the Group calendar. I was finished!....
 
 ...or so I thought. Because when I tried to filter the items by date to have a gallery per day, I found that it wasn't returning start or end date. With PowerApps now, you can view a collection so I had a look at the one I was returning. 
 
-![](/assets/images/2018/01/PowerApps-created-date-and-end-date.JPG)
+![](/images/2018/01/PowerApps-created-date-and-end-date.JPG)
 
 Created Date came back fine but the end date was an object so I went deeper:
 
-![](/assets/images/2018/01/PowerApps-blank-end-date.JPG)
+![](/images/2018/01/PowerApps-blank-end-date.JPG)
 
 The timezone was coming back but no actual date. I went back to the Custom Connector and ran a test against the API:
 
-![](/assets/images/2018/01/Custom-Connector-Response.JPG)
+![](/images/2018/01/Custom-Connector-Response.JPG)
 
 The start dateTime was being returned but I noticed that it was in a different format and that is where I have hit the brick wall. I have tried changing the Swagger file to treat this as text but the schema validation fails saying that it found a datetime format instead. [Marc La Fleur](https://twitter.com/mlafleur) has kindly offered to take a look so this blog is largely for him to take a look but anyone else who has some ideas would be very welcome! Below is the Swagger file I used with the Group ID removed.
 

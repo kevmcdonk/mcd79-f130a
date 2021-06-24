@@ -2,7 +2,7 @@
 layout: post
 title: Knowledge Management Series
 date: '2020-08-12 20:00:00'
-feature_image: '/assets/images/2020/08/books.jpg'
+content_img_path: 'images/2020/08/books.jpg'
 comments: false
 published: false
 author: 'Kevin McDonnell'

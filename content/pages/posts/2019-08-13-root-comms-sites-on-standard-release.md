@@ -2,7 +2,7 @@
 layout: post
 title: Creating a SharePoint Communications Site on the Office 365 root without Invoke-SPOSiteSwap 
 date: '2019-08-13 06:00:00'
-feature_image: '/assets/images/2019/08/treeroot.jpg'
+content_img_path: 'images/2019/08/treeroot.jpg'
 comments: false
 published: true
 author: "Kevin McDonnell"
@@ -15,30 +15,30 @@ Almost since SharePoint Communication Sites were first announced, the clamour ha
 
 Awesome, I thought, my shiny Communications Site can now be shifted to be where most people would expect it. I fired up PowerShell and connected up to the site. Ran the command. Boom. Nothing happened except an error.
 
-![Swapsite not supported](/assets/images/2019/08/swapsite-not-supported.png)
+![Swapsite not supported](/images/2019/08/swapsite-not-supported.png)
 
 Humph. Turns out that the tenancy was on standard release so I could be waiting some time before I got my shiny Communications Site I had stupidly promised. The good news was I remembered a [workaround](https://hangconsult.com/2017/06/29/change-sharepoint-online-root-site-collection-to-use-the-new-communication-site-template/) involving saving a Communications Site as a template, deleting the root site and then setting it with a custom template. Not perfect and not supported but it would work. As I didn't want to try out deleting the root site on the main tenancy without being certain what would happen, I used my [Office Developer subscription](https://developer.microsoft.com/en-us/office/dev-program). I copied the url for saving the template, plugged it in and...
 
-![No access](/assets/images/2019/08/no-access.png)
+![No access](019/08/no-access.png)
 
 Oh. I can't access that any more. That's a pain. But I can be a stubborn beast so wanted to make sure that there was definitely no way round it. I took the plunge in the dev subscription and deleted the root site, safe in the knowledge that I would be able to recreate one...I hoped. I used the new admin centre to delete, making sure to permanently deleted it and clear all record of it.
 
-![Delete current site](/assets/images/2019/08/01 Delete current site.png)
-![Permanently delete site](/assets/images/2019/08/02 Permanently Delete it.png)
+![Delete current site](019/08/01 Delete current site.png)
+![Permanently delete site](2 Permanently Delete it.png)
 
 I tried out using some of the PnP commands like [New-PnPSite](https://docs.microsoft.com/en-us/powershell/module/sharepoint-pnp/new-pnpsite) and [New-PnpTenantSite](https://docs.microsoft.com/en-us/powershell/module/sharepoint-pnp/new-pnptenantsite) but neither worked unfortunately. So I decided to try and create a blank site where I could choose the template later, as the earlier post recommended. It was a risk as I had no Communications Site template saved but I thought it was worth a look. Why did I think that? Well, I had seen that there was a Communications Site template listed when I ran [Get-PnpWebTemplates](https://docs.microsoft.com/en-us/powershell/module/sharepoint-pnp/get-pnpwebtemplates) so I was hoping I might be lucky.
 
-![Create new site using other options](/assets/images/2019/08/03 Create a new site using other options.png)
-![Select more templates](/assets/images/2019/08/04 select more templates.png)
-![Create site with select template later](/assets/images/2019/08/05 Create site with select template later.png)
+![Create new site using other options]( a new site using other options.png)
+![Select more templates]( more templates.png)
+![Create site with select template later]( site with select template later.png)
 
 So I now had a site but without a template. I tentatively browsed to that site and started looking through the template options. Oooo, what is that there?
 
-![Select publishing](/assets/images/2019/08/06 navigate to created site and select publishing.png)
+![Select publishing](/images/2019/08/06 navigate to created site and select publishing.png)
 
 Under the publishing tab, there was Communications Site. I selected that, created the default groups and there it was, a Communications Site at the root.
 
-![Communications Site at root](/assets/images/2019/08/08 comm site at root.png)
+![Communications Site at root](/images/2019/08/08 comm site at root.png)
 
 Fantastic, I was done! Except it occured to me that this tenancy was on targeted release. I took the risk to follow the same steps on the main site (it wasn't in active use yet) and thankfully I found the same thing. I had a working Communications Site.
 

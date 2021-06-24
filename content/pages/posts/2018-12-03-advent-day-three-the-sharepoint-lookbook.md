@@ -2,7 +2,7 @@
 layout: post
 title: An Advent series - the SharePoint Lookbook
 date: '2018-12-03 06:00:00'
-feature_image: '/assets/images/2018/12/building-blocks-hero-p-1080.jpeg'
+content_img_path: 'images/2018/12/building-blocks-hero-p-1080.jpeg'
 comments: false
 author: "Kevin McDonnell"
 tags:
@@ -32,4 +32,4 @@ The SharePoint Lookbook is not just about the Communications Sites but also abou
 ##What next?
 
 Now you can spend your time working on getting people productive, you have more time to keep up to date with the changing world of SharePoint! In the mean time, you can see much of what will be arriving in Targeted Release tenants by the end of December in [this post on the Ignite 2018 round up](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Build-your-modern-intranet-with-SharePoint-in-Office-365/ba-p/255453) or listen to the [latest Intrazone podcast](https://intrazone.libsyn.com/bonus-roadmap-pitstop-november-2018) where they discuss the changes. I will also be covering some of the changes as they hit my tenant so keep an eye on this blog. 
-![Lookbook](/assets/images/2018/12/building-blocks-hero-p-1080.jpeg)
+![Lookbook](/images/2018/12/building-blocks-hero-p-1080.jpeg)

@@ -2,7 +2,7 @@
 layout: post
 title: Why I still love SharePoint
 date: '2019-06-08 06:00:00'
-feature_image: '/assets/images/2019/06/hugs.jpg'
+content_img_path: '019/06/hugs.jpg'
 comments: false
 future: false
 author: "Kevin McDonnell"
@@ -30,7 +30,7 @@ All of this reduced a lot of that self-service benefit as only small groups who 
 
 Then Jeff Teper rejoined the SharePoint team and Modern was born.
 
-![Lookbook](/assets/images/2018/12/building-blocks-hero-p-1080.jpeg)
+![Lookbook](/images/2018/12/building-blocks-hero-p-1080.jpeg)
 
 ## The new SharePoint
 OK, I probably skipped a few years but this is a blog post and not a history of SharePoint. In May 2016, Jeff Teper launched an event called the Future of SharePoint and a vision for modern looking pages that would work across devices began. Suddenly, adding an image to a page was easy. For SharePoint Online, external access was a case of logging in for many people (with Multi-Factor Authentication recommended too!) and it would look good on all types of devices. It has taken a few years but the modern experience now covers the vast majority of the old functionality (yes, there will always be some things easier in classic pages before anyone starts).
@@ -45,6 +45,6 @@ So why did I open with a story about a consultancy that helped to teach me the r
 
 p.s. If you are following the Cricket World Cup, keep an eye for my household reviews at [https://www.instagram.com/the_household_worldcup_reviews](https://www.instagram.com/the_household_worldcup_reviews).
 
-![Happy!](/assets/images/2019/06/happy.jpg)
+![Happy!](/images/2019/06/happy.jpg)
 
 Images courtesy of Hien Nguyen via [Flickr](https://flic.kr/p/62rJsK) and my own

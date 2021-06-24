@@ -2,7 +2,7 @@
 layout: post
 title: An Advent series - Knowing when you’re not doing things the right way and being okay with that
 date: '2018-12-17 06:00:00'
-feature_image: '/assets/images/2018/12/swing.jpg'
+content_img_path: 'images/2018/12/swing.jpg'
 comments: false
 author: "Kevin McDonnell"
 future: true
@@ -14,7 +14,7 @@ The other day, I was doing a deployment to Azure Functions and I sat there and k
 
 ## Let's take a trip back in time
 
-![Time warp](/assets/images/2018/12/timewarp.jpg)
+![Time warp](/images/2018/12/timewarp.jpg)
 
 A little bit of history about myself. I started working in an investment bank in the UK on the technology side on a graduate programme. From day one, it was all about getting stuff done, it was all about keeping the traders happy, keeping them making money. I was learning new technologies but just enough to be useful. It was not necessarily about making sustainable code the majority of the time, it was about getting it done quickly. There was a real hero culture with people working long hours just to keep things running. The louder voices that supported the main users were the big winnders. And this is how I started off.
 
@@ -24,7 +24,7 @@ I also started to introduce unit testing to my code, something I hadn't really h
 
 This wasn't just a coding lesson though. I started to see the benefit over the long term of doing things the right way. When I spent more time on work and made sure it all worked from the start, there was less of a need for long nights working out problems. Having regular daily calls with the users to ensure that we were meeting the right requirements was very different to the long phases of projects that we had done before. I thought about documenting as part of my code and learnt about the benefits of Behaviour Driven Development where users (or at least product owners) could understand the tests we were writing through well named code, helping ensure that we had understood the requirements.
 
-![Flying back from Singapore](/assets/images/2018/12/jumbojet.jpg)
+![Flying back from Singapore](018/12/jumbojet.jpg)
 
 ## Applying my learnings
 
@@ -38,4 +38,4 @@ As I moved further in to the world of SharePoint, the same logic applied. I work
 
 Make sure you know enough about how to do the right things so that you also know enough about when to do the wrong things. Know what the consequences are and be prepared to take a known risk. Balance the devil and the angel on your shoulders with facts, not just a reckless push to get things done.
 
-![Angel and devils are waiting to chat](/assets/images/2018/12/devilangelducks.jpg)
+![Angel and devils are waiting to chat](018/12/devilangelducks.jpg)

@@ -2,7 +2,7 @@
 layout: post
 title: Designing a Bot - Bot Series Part 3
 date: '2019-07-11 06:00:00'
-feature_image: '/assets/images/2019/07/designer.jpg'
+content_img_path: 'images/2019/07/designer.jpg'
 comments: false
 published: true
 author: "Kevin McDonnell"
@@ -21,11 +21,11 @@ The first steps are to work out what you want your Bot to do. That may sound lik
 
 First, let's think about the key groups of users. As with many application designs, my initial design was using OneNote as a whiteboard so I have taken those sketches here.
 
-![Bot Design User roles](/assets/images/2019/07/Bot Design User Roles.png)
+![Bot Design User roles](/images/2019/07/Bot Design User Roles.png)
 
 The roles shown cover the three main groups that would be using Project Server at a basic level. What sort of tasks would they do?
 
-![Bot Design Tasks](/assets/images/2019/07/Bot Design Tasks.png)
+![Bot Design Tasks](/images/2019/07/Bot Design Tasks.png)
 
 Chatting through the different options with a CPS colleague, we thought through the more tedious tasks that there are and what would be useful. Project Managers and the PMO often live in Project and Project Server so wouldn't get too much benefit but team members are far less likely to be in there. Having responses in Teams means that they will be in the tool they live in more often so the focus should be on asking for and providing status updates.
 
@@ -33,17 +33,17 @@ We also use Project Server to determine where staff are as they are allocated to
 
 Once we had a list of all the tasks, it was important to pick a few tasks to focus on initially to get an MVP.
 
-![Bot Design Tasks MVP](/assets/images/2019/07/Bot Design Tasks MVP.png)
+![Bot Design Tasks MVP](019/07/Bot Design Tasks MVP.png)
 
 ## Creating a user journey
 
 Given these initial tasks, we talked through what the journey would be for the user. How they would start, the questions they would be asked, the expected responses and the completion part. Some of these would take multiple paths but others would be more basic.
 
-![Bot Design DPU journey](/assets/images/2019/07/Bot Design DPU journey.png)
+![Bot Design DPU journey](/images/2019/07/Bot Design DPU journey.png)
 
-![Bot Design DPU assignments](/assets/images/2019/07/Bot Design DPU assignments.png)
+![Bot Design DPU assignments](/images/2019/07/Bot Design DPU assignments.png)
 
-![Bot Design DPU chase updates](/assets/images/2019/07/Bot Design DPU chase updates.png)
+![Bot Design DPU chase updates](/images/2019/07/Bot Design DPU chase updates.png)
 
 ## Designing the bot structure
 
@@ -60,7 +60,7 @@ If each of our journeys above becomes an intent then the phrases could be:
 
 Each of these will be analysed and the objects extracted (e.g. Timesheets or the project name) and the details then passed on to the dialogue for each journey.
 
-![Chatting](/assets/images/2019/07/chatting.jpg)
+![Chatting](/images/2019/07/chatting.jpg)
 ## Designing a dialogue
 
 The dialogues work exactly like the flows above. Either a question is asked to start the dialogue or it receives the details from the main dialogue via Luis. The Bot will react to the responses as they are due, retrieving data from other services like Project Server as required. Once the Flow has finished, the dialogue is ended and the conversation returned to the main conversation.
@@ -79,7 +79,7 @@ The Bot Framework manages this through the [state providers](https://docs.micros
 
 However, there can still be some confusion when you have a Teams Bot with multiple people replying, with some replying within the thread and some creating a new thread. These can have different impacts and so you need to think of the inputs that are possible at each of these states and what to do if the user replies with something you are not expecting.
 
-![Adaptive cards](/assets/images/2019/07/Bot design adaptive cards.png)
+![Adaptive cards](/images/2019/07/Bot design adaptive cards.png)
 
 ## Adding a little UI
 

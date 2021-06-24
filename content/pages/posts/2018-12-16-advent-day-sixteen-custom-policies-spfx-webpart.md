@@ -2,7 +2,7 @@
 layout: post
 title: An Advent series - Building a modern SPFX webpart to search policies
 date: '2018-12-16 06:00:00'
-feature_image: '/assets/images/2018/12/telescope.jpg'
+content_img_path: 'images/2018/12/telescope.jpg'
 comments: false
 author: "Kevin McDonnell"
 tags:
@@ -13,7 +13,7 @@ tags:
 
 Much of the focus on modern SharePoint has been on the pages and lists but for me, the true magic has been the introduction of modern development tooling with the [SharePoint Framework](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/sharepoint-framework-overview) (SPFX) that has introduced tools like [Node](https://nodejs.org/en/), [Gulp](https://gulpjs.com/) and [Webpack](https://webpack.js.org/) to deliver powerful front-end solutions. When coupled with the great community of developers like the [PnP community](https://docs.microsoft.com/en-us/sharepoint/dev/community/community) that deliver [samples](https://developer.microsoft.com/en-us/SharePoint/gallery/?filterBy=SharePoint,Samples) and other tools (like [PnP JS](https://github.com/pnp/pnpjs)), it is much easier to develop modern looking solutions that match the new look. To demonstrate this, I have extended the Policies pages from my [last](/2018/12/15/advent-day-fifteen-adding-page-approvals-in-modern-site.html) [posts](/2018/12/14/advent-day-fourteen-building-policies-site-in-modern-site.html) to have a webpart that allows you to search by the tagged metadata for each of the documents. You can see the full solution at https://github.com/kevmcdonk/Mcd79PoliciesViewer.
 
-![Policies Viewer](/assets/images/2018/12/PolicesViewerWebPart.PNG)
+![Policies Viewer](/images/2018/12/PolicesViewerWebPart.PNG)
 
 ## Getting started
 

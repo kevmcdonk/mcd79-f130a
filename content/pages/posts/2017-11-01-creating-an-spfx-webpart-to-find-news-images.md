@@ -2,7 +2,7 @@
 layout: post
 title: Developing a SPFX web part to find news images
 date: '2017-11-01 23:41:33'
-feature_image: '/assets/images/2017/11/news-1172463_1920.jpg'
+content_img_path: 'images/2017/11/news-1172463_1920.jpg'
 tags:
 - technical
 - sharepoint
@@ -36,7 +36,7 @@ The imageLocation property is based on an IImage object and is set in FindANewsI
 
 This then showed the thumbnail in any news page roll-up:
 
-![](/assets/images/2017/11/News-rollup.JPG)
+![](/images/2017/11/News-rollup.JPG)
 
 The next step was to build out functionality to be able to search for the images. The way that I worked on this was to look at how Olivier Carpentier created custom fields which were used across the amazing SPFX40 examples:
 

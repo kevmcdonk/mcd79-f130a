@@ -2,7 +2,7 @@
 layout: post
 title: Modern Serverless Development with Azure - an application journey
 date: '2018-10-10 17:00:00'
-feature_image: '/assets/images/2018/10/empty-data-center.jpg'
+content_img_path: '018/10/empty-data-center.jpg'
 comments: false
 author: "Kevin McDonnell"
 tags:

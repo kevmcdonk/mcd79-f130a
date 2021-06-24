@@ -2,7 +2,7 @@
 layout: post
 title: An Advent series - What has changed in the Bot Framework
 date: '2018-12-11 06:00:00'
-feature_image: '/assets/images/2018/12/light-bulb.jpg'
+content_img_path: 'images/2018/12/light-bulb.jpg'
 comments: false
 author: "Kevin McDonnell"
 tags:
@@ -16,7 +16,7 @@ I have [talked about using the Bot Framework to create Bots on my blog](/tag/bot
 
 V4 was made [generally available](https://azure.microsoft.com/en-gb/updates/microsoft-bot-framework-v4-sdk-is-now-generally-available/) in September 2018 and it has been a major difference to V3. [Stefan Bisser](https://twitter.com/cloudguy_pro) has a great slide showing a breakdown of the elements the build up the Bot Framework. The patterns and concepts layer is where the big changes are, improving the ability to modularise the dialogs (i.e. groups of conversations) and middleware such as connections to [Language Understanding service (LUIS)](https://www.luis.ai) and other Azure Services. 
 
-![Bot Framework V4 breakdown](/assets/images/2018/12/BotFrameworkV4.jpg)
+![Bot Framework V4 breakdown](/images/2018/12/BotFrameworkV4.jpg)
 
 If you have used earlier versions, you will find v4 a big leap and a very different way of working. The focus on Dialogs has shifted and the use of DialogContainers has made it simpler to group expected conversations together. The use of State has been simplified and more samples for saving state using Azure Storage and Cosmos DB made more prominent.
 

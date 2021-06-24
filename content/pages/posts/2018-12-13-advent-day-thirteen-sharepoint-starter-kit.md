@@ -2,7 +2,7 @@
 layout: post
 title: An Advent series - Have you discovered the PnP SharePoint Starter Kit
 date: '2018-12-13 06:00:00'
-feature_image: '/assets/images/2018/12/space-shuttle.jpg'
+content_img_path: 'images/2018/12/space-shuttle.jpg'
 comments: false
 author: "Kevin McDonnell"
 tags:
@@ -28,7 +28,7 @@ A couple of things I found while using the scripts:
 
 ## What do you get?
 
-![Contoso Portal](/assets/images/2018/12/ContosoElectronics.PNG)
+![Contoso Portal](/images/2018/12/ContosoElectronics.PNG)
 
 The script will add a set of Site Designs and Site Scripts which can be used to create department team sites and others, a set of webparts such as the world clocks, people directory and tiles and finally some page customisations such as the portal footer. It is a great example of building on the standard sites that can be used without breaking the look and feel. It demonstrates how you can keep it SharePoint-y while retaining a corporate brand.
 
@@ -36,6 +36,6 @@ What is great to see is how the list of web parts are expanding and it is good o
 
 ### Sharing is caring!
 
-![Sharing is caring](/assets/images/2018/12/SharingIsCaring.jpg)
+![Sharing is caring](/images/2018/12/SharingIsCaring.jpg)
 
 >Image courtesy of Toa Heftiba via Wikimedia https://commons.wikimedia.org/wiki/File:Sharing_is_caring_(Unsplash).jpg

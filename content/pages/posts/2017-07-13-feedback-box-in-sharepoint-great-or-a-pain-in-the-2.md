@@ -2,7 +2,7 @@
 layout: post
 title: Feedback box in SharePoint - great or a pain in the....
 date: '2017-07-13 10:37:19'
-feature_image: '/assets/images/2017/07/feedback.jpg'
+content_img_path: 'images/2017/07/feedback.jpg'
 tags:
 - help-me-to-help-you
 - sharepoint
@@ -14,12 +14,12 @@ So what about in SharePoint? I love that with SharePoint Online, there is a bold
 
 ## So what's the problem?
 
-![SharePoint Online feedback button](/assets/images/2017/07/SharePoint-feedback-and-mobile-app.JPG)
+![SharePoint Online feedback button](/images/2017/07/SharePoint-feedback-and-mobile-app.JPG)
 
 My issue with this is that the feedback goes straight to Microsoft. While it's great that they get that info, it's not obvious that it is going to Microsoft at all. Most users will think that they are providing some thoughts to their SharePoint team on how the site could be laid out better or maybe a typo on a news article. Instead, they are sending this up to someone who can't actually help with it.They get frustrated that nothing changes and the admins who can help don't get any the wiser.
 
 ## But there's a bigger problem...
-![Privacy concerns](/assets/images/2017/07/Gagged_by_Privacy.JPG)
+![Privacy concerns](/images/2017/07/Gagged_by_Privacy.JPG)
 
 > "Hey Adam, did you know that the client ABCMNO Consulting has got their old logo on that page? The phone number should be 12345 and the main contact is John Smith."
 

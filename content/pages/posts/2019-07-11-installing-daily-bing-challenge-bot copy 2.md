@@ -2,7 +2,7 @@
 layout: post
 title: Installing the Daily Bing Challenge Bot - Bot Series Part 2
 date: '2019-07-09 06:00:00'
-feature_image: '/assets/images/2019/07/installing.jpg'
+content_img_path: 'images/2019/07/installing.jpg'
 comments: false
 published: true
 author: "Kevin McDonnell"
@@ -39,11 +39,11 @@ To deploy the Bot, you will need an [Azure Subscription](https://azure.microsoft
 - Add a new service to the Resource Group, searching for "Web App Bot"
 - Fill out the details as in the image below - you can use free pricing tier
 
-![Web App Bot creation](/assets/images/2019/07/installing the bot 1.png)
+![Web App Bot creation](/images/2019/07/installing the bot 1.png)
 
 - Choose the default Bot Template
 
-![Web App Bot creation](/assets/images/2019/07/installing the bot 2.png)
+![Web App Bot creation](019/07/installing the bot 2.png)
 
 - Create a new Service Plan but note that it defaults to S1 - this can be reduced to the free tier.
 - Include App Insights
@@ -63,7 +63,7 @@ To deploy the Bot, you will need an [Azure Subscription](https://azure.microsoft
 - Choose Locally Redundant Storage (unless you want to pay more for extra redundancy)
 - Choose Hot Access Tier
 
-![Web App Bot creation](/assets/images/2019/07/installing the bot 3.png)
+![Web App Bot creation](019/07/installing the bot 3.png)
 
 Once created, you need to create a table called DailyBing (or if you call it something else, note it down for later)
 
@@ -74,7 +74,7 @@ To get a Bing Maps Key, follow the instructions [here](https://docs.microsoft.co
 - Click on Get Started at https://developers.google.com/places/web-service/intro (you will need to sign in with a Google account)
 - Select the Places API
 
-![Web App Bot creation](/assets/images/2019/07/installing the bot 4.png)
+![Web App Bot creation](/images/2019/07/installing the bot 4.png)
 
 - Add a project name and agree to the terms of service
 - Sign up to a free account - you will have to enter a debit or credit card but no charges will be made unless account upgraded to full account
@@ -122,9 +122,9 @@ At the moment, it will still write the results to Azure Storage but you could up
 
 If all is working well, right click on the project in Visual Studio and publish to Azure, following the wizard instructions
 
-![Web App Bot creation](/assets/images/2019/07/installing the bot 5.png)
+![Web App Bot creation](/images/2019/07/installing the bot 5.png)
 		
-![Web App Bot creation](/assets/images/2019/07/installing the bot 6.png)
+![Web App Bot creation](/images/2019/07/installing the bot 6.png)
 
 You can then test with the emulator again or proceed to deploy the bot to Teams
 
@@ -132,12 +132,12 @@ You can then test with the emulator again or proceed to deploy the bot to Teams
 
 The final step is to deploy the Bot in two Microsoft Teams. The simplest way to do this in order to test is to click on the edit icon next to the Teams search box and enter the Microsoft App ID for the Bot
 
-![Web App Bot creation](/assets/images/2019/07/installing the bot 7.png)
+![Web App Bot creation](/images/2019/07/installing the bot 7.png)
 
 To deploy for a Channel to test, you first need to add the app [App Studio](https://docs.microsoft.com/en-us/microsoftteams/platform/get-started/get-started-app-studio) by clicking on Apps in the bottom left and searcing for App Studio
 - Once added, select the Manifest Editor Tab then Create a New App
 
-![Web App Bot creation](/assets/images/2019/07/installing the bot 8.png)
+![Web App Bot creation](/images/2019/07/installing the bot 8.png)
 
 - Give it a short name like BingBot and a Long Name of Daily Bing Challenge Bot
 - Paste your Microsoft App ID in to the App ID field and give it a suitable package name and version e.g. com.me.myapp.bingbot v1.0.0

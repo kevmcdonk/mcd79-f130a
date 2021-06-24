@@ -2,7 +2,7 @@
 layout: post
 title: Knowledge Management Series - Creating a culture of knowledge
 date: '2020-09-17 15:00:00'
-feature_image: '/assets/images/2020/09/leaves.jpg'
+content_img_path: 'images/2020/09/leaves.jpg'
 comments: false
 published: true
 author: 'Kevin McDonnell'

@@ -2,7 +2,7 @@
 layout: post
 title: Knowledge Management Series - Organising knowledge
 date: '2020-09-14 14:00:00'
-feature_image: '/assets/images/2020/09/markers.jpg'
+content_img_path: 'images/2020/09/markers.jpg'
 comments: false
 published: true
 author: 'Kevin McDonnell'
@@ -46,7 +46,7 @@ The taxonomy can take several forms. For the etiquette, the natural place to sta
 
 These have naturally evolved from the contents used and so these make sense to start with. This can be extended with a similar notion of which groups of user it is relevant for, i.e. would it be standard users or power users or perhaps just for admins to consider. Another area added is for the strength of the advice to help guide people consuming the information as to how much they should consider the recommendations. Finally, the source of the knowledge was added which will allow for analytics to be run on the content at a later date.
 
-![Taxonomy for the Etiquette of Microsoft 365](/assets/images/2020/09/EtiquetteTaxonomySketch.jpg)
+![Taxonomy for the Etiquette of Microsoft 365](/images/2020/09/EtiquetteTaxonomySketch.jpg)
 
 The next step (not one that I've undertaken quite yet) is to start mapping samples of your content itself using this taxonomy. Identifying exceptions that don't fit this taxonomy is important as it helps you to work out whether you need to extend the taxonomy or allow some bits of content to not quite fit. Looking at [Limitations of Private Channels](https://greyhatbeard.github.io/m365-etiquette/By-service/teams/) in our repo, there's some great advice but it doesn't feel quite like it fits the must, should, might level exactly and hard to say if it would be for power users or admins. We will need to make a decision as to whether we update the content there or adapt the taxonomy. We will certainly need to break many of the pages into smaller blocks as parts of the pages have a real mixture of content. This shows a good example of working out whether to change your taxonomy, change your content or perhaps to have a transformation process into a central repo is the right thing to do.
 

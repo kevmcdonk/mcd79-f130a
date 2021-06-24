@@ -2,7 +2,7 @@
 layout: post
 title: Celebrating my new blog with thoughts on Build 2018
 date: '2018-05-13 21:13:01'
-feature_image: '/assets/images/2018/05/kinect.jpeg'
+content_img_path: 'images/2018/05/kinect.jpeg'
 ---
 
 After a year with a Delve based theme to my blog, I thought that it was time for a change, adding a little more to the template. And what better way to show that off than with my thoughts from the recent Build conference.
@@ -24,7 +24,7 @@ This was a real surprise to me as I thought that Microsoft had decided to kill o
 
 Read more at https://www.linkedin.com/pulse/introducing-project-kinect-azure-alex-kipman/?irgwc=1 or https://developer.microsoft.com/en-us/perception.
 
-![kinect](/assets/images/2018/05/kinect.jpeg)
+![kinect](/images/2018/05/kinect.jpeg)
 
 ## Mixed Reality Apps
 HoloLens isn't going away any time soon and while it has not yet truly found its way as a mass market device, it is forming useful niches. The focus from Microsoft on Firstline Workers makes the benefits of handsfree collaborative working more important and HoloLens will form a key part of this, either in its current guise or in future versions as they evolve.
@@ -43,7 +43,7 @@ One service announced at Build and now available is the ability to live collabor
 It is hard to say how much I can see this being used. I often do code reviews and discuss work done on code with others, both others and my own code. Will I use this for it? I'm still not sure if this really adds more benefit than a simple screen sharing session but will certainly be giving it a try.
 
 Read more at https://www.visualstudio.com/services/live-share/. 
-![visual-studio-live-share-screen-1200x458](/assets/images/2018/05/visual-studio-live-share-screen-1200x458.jpg)
+![visual-studio-live-share-screen-1200x458](018/05/visual-studio-live-share-screen-1200x458.jpg)
 
 ## .Net Core 3.0
 We are finally seeing .Net Core take the jump to the UI rather than just being backend or web code. While it won't be live until 2019 (with a preview in 2018), it will offer UWP, WPF and Windows Forms implementation for Windows desktops, increasing performance and allowing much easier deployment - no need to have to install a full .Net framework first before running the application, it will all be rolled in to the app itself.
