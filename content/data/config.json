@@ -3,6 +3,8 @@
     "path_prefix": "/",
     "palette": "yellow",
     "favicon": "/images/favicon.ico",
+    "author": "Kevin McDonnell",
+    "authorTwitter": "https://twitter.com/kevmcdonk",
     "header": {
         "title": "Mcd79",
         "tagline": "a Modern Workplace with Microsoft 365 blog",
