@@ -6,7 +6,6 @@ import Header from '../components/Header';
 import {htmlToReact, markdownify} from '../utils';
 import Footer from '../components/Footer';
 
-//TODO: add next post and previous post
 export default class Page extends React.Component {
     render() {
         return (

@@ -31,12 +31,10 @@ seo:
 layout: page
 ---
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+Having been sucked in to the world of SharePoint with a Project Server project back in 2004, Kevin soon became hooked. From developer, to infrastructure owner to project manager and advocate primarily in Financial Services, Kevin now works as a Solution Architect for CPS in the Teams, Microsoft 365 and Power Platform space and retains a passion for how AI and Search can aid collaboration and employee experience. Things have got so bad that he even has a PowerApp for a kitchen calendar.
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+In June 2021, Kevin was proud to receive the MVP Award in Office Apps and Services and continues to speak at conferences and user groups on a variety of subjects.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
-
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
-
+ Kevin co-hosts the GreyHatBeard podcast (https://www.greyhatbeard.com) and is the co-organiser and regular on the Happy Hour Etiquette sessions where he helps share the best etiquette on Microsoft 365. Kevin's passions sit with creating solutions that make it easier for people to be more productive and be able to help themselves. Outside of work, he juggles his three boys with helping to run his local Cub pack, occasionally forcing PowerPoint presentations on the poor kids and trying to convince them to code.
+ 
 *Thank You for reading!*

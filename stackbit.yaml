@@ -300,7 +300,7 @@ models:
     type: page
     label: Page
     layout: page
-    exclude: posts/**
+    exclude: 2**
     fields:
       - type: string
         name: title
@@ -323,7 +323,7 @@ models:
           - stackbit_page_meta
   post:
     type: page
-    urlPath: '/posts/{slug}'
+    urlPath: '/{slug}'
     label: Post
     layout: post
     folder: posts

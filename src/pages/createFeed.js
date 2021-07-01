@@ -31,6 +31,7 @@ async function generateRssFeed() {
     copyright: `All rights reserved ${date.getFullYear()}, Kevin McDonnell`,
     updated: date,
     generator: 'Next.js using Feed for Node.js',
+    ttl: 60,
     feedLinks: {
       rss2: `${baseUrl}/rss/feed.xml`,
       json: `${baseUrl}/rss/feed.json`,

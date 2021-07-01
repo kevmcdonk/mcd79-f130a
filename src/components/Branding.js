@@ -20,6 +20,8 @@ export default class Branding extends React.Component {
               {_.get(this.props, 'data.config.header.tagline', null) && (
               <p className="site-description">{_.get(this.props, 'data.config.header.tagline', null)}</p>
               )}
+              <br/>
+              <img src="/images/MVP_Logo_Horizontal_Preferred_Cyan300_CMYK_300ppi.png" alt="MVP Logo" />              
             </div>
         );
     }

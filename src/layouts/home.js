@@ -14,7 +14,7 @@ export default class Home extends React.Component {
       const postsPerPage = 10;
       let pageNumber = query.page || 1; //if page empty we request the first page
       
-        let allPosts = getPages(this.props.pages, '/posts');
+        let allPosts = getPages(this.props.pages, '/2021');
         allPosts = _.orderBy(allPosts, 'frontmatter.date', 'desc');
         let skip = (pageNumber-1) * pageNumber;
         let posts = allPosts.slice(skip, skip+postsPerPage);
