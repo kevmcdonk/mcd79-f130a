@@ -1,6 +1,6 @@
 import React from 'react';
 import { sourcebitDataClient } from 'sourcebit-target-next';
-import generateRssFeed from './createFeed'
+import generateRssFeed from '../utils/createFeed'
 
 /**
  * In next.js we can't use `src/pages/[...slug].js` for root site page `/`.
@@ -12,7 +12,7 @@ import Page from './[...slug]';
 
 export async function getStaticProps({ params }) {
     console.log('Page [index] getStaticProps, params: ', params);
-    await generateRssFeed();
+    generateRssFeed();
     const props = await sourcebitDataClient.getStaticPropsForPageAtPath('/');
     return { props };
 }

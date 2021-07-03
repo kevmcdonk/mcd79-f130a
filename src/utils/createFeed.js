@@ -5,9 +5,9 @@ const config = require('../../content/data/config.json');
 const path = require('path');
 import matter from 'gray-matter';
 
-import { getPages } from '../utils';
+import { getPages } from '.';
 
-async function generateRssFeed() {
+function generateRssFeed() {
   console.log('Generating feed');
   /*if (process.env.NODE_ENV === 'development') {
     return;
