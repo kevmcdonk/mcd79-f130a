@@ -7,7 +7,12 @@ const sourcebitConfig = require('./sourcebit.js');
 sourcebit.fetch(sourcebitConfig);
 
 module.exports = {
-    trailingSlash: true,
+    trailingSlash: false,
+    exportPathMap: function() {
+        return {
+          '/': { page: '/' }
+        };
+      },
     devIndicators: {
         autoPrerender: false
     },
