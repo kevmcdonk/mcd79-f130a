@@ -40,41 +40,65 @@ async function generateRssFeed() {
     author
   });
 
+  const getAllFiles = function(dirPath, arrayOfFiles) {
+    let files = fs.readdirSync(dirPath)
+  
+    arrayOfFiles = arrayOfFiles || []
+  
+    files.forEach(function(file) {
+      if (fs.statSync(dirPath + "/" + file).isDirectory()) {
+        arrayOfFiles = getAllFiles(dirPath + "/" + file, arrayOfFiles)
+      } else {
+        arrayOfFiles.push(path.join(__dirname, dirPath, "/", file))
+      }
+    })
+  
+    return arrayOfFiles
+  }
+
   //const posts = getPages(this.props.posts, '/posts');
 
-  const DIR = path.join(process.cwd(), "content", "pages", "posts");
-  const files = fs
+  const DIR = path.join(process.cwd(), "content", "pages").replace('\C:','');
+  const topLevelFiles = fs
     .readdirSync(DIR)
     .filter((file) => file.endsWith(".md"));
 
+
+  const allFiles = getAllFiles(DIR);
+
   const META = /export\s+const\s+meta\s+=\s+(\{(\n|.)*?\n\})/;
-  const postsData = files.map((file) => {
+  const postsData = allFiles.map((file) => {
     // grab the metadata
-    const name = path.join(DIR, file);
-    const contents = fs.readFileSync(name, "utf8");
-    const matterResult = matter(contents);
-  
-    return {
-      name,
-      title: matterResult.data.title,
-      description: matterResult.data.description,
-      date: matterResult.data.date,
-      content: matterResult.content,
-    };
+    if (file.includes('\\pages\\2')) {
+      const contents = fs.readFileSync(file, "utf8");
+      const matterResult = matter(contents);
+      
+      return {
+        file,
+        title: matterResult.data.title,
+        description: matterResult.data.description,
+        date: matterResult.data.date,
+        content: matterResult.content,
+      };
+    }
   });
 
+  
+
   postsData.forEach((post) => {
-    const url = `${baseUrl}/${post.slug}`;
-    feed.addItem({
-      title: post.title,
-      id: url,
-      link: url,
-      description: post.description,
-      content: markdown.toHTML(post.content),
-      author: 'Kevin McDonnell',
-      contributor: 'Kevin McDonnell',
-      date: new Date(post.date)
-    });
+    if (post != undefined) {
+      const url = `${baseUrl}/${post.slug}`;
+      feed.addItem({
+        title: post.title,
+        id: url,
+        link: url,
+        description: post.description,
+        content: markdown.toHTML(post.content),
+        author: 'Kevin McDonnell',
+        contributor: 'Kevin McDonnell',
+        date: new Date(post.date)
+      });
+    }
   });
 
   fs.mkdirSync('./public/rss', { recursive: true });
