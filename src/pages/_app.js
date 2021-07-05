@@ -8,6 +8,7 @@ import '../sass/imports/_paginator.scss';
 function MyApp({ Component, pageProps }) {
 
     useEffect(() => {
+
         if (window.onNextjsAppDidMount) {
             window.onNextjsAppDidMount();
         }

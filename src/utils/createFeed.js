@@ -46,10 +46,11 @@ function generateRssFeed() {
     arrayOfFiles = arrayOfFiles || []
   
     files.forEach(function(file) {
+      console.log(file);
       if (fs.statSync(dirPath + "/" + file).isDirectory()) {
         arrayOfFiles = getAllFiles(dirPath + "/" + file, arrayOfFiles)
       } else {
-        arrayOfFiles.push(path.join(__dirname, dirPath, "/", file))
+        arrayOfFiles.push(path.join(dirPath, "/", file))
       }
     })
   
@@ -58,18 +59,20 @@ function generateRssFeed() {
 
   //const posts = getPages(this.props.posts, '/posts');
 
-  const DIR = path.join(process.cwd(), "content", "pages").replace('\C:','');
+  const DIR = path.join(process.cwd(), "content", "pages").replace('\C:','C:');
   const topLevelFiles = fs
     .readdirSync(DIR)
     .filter((file) => file.endsWith(".md"));
 
-
+  console.log('Here is the dirPath');
+  console.log(DIR);
+    
   const allFiles = getAllFiles(DIR);
 
-  const META = /export\s+const\s+meta\s+=\s+(\{(\n|.)*?\n\})/;
   const postsData = allFiles.map((file) => {
     // grab the metadata
     if (file.includes('\\pages\\2')) {
+      console.log(file);
       const contents = fs.readFileSync(file, "utf8");
       const matterResult = matter(contents);
       
