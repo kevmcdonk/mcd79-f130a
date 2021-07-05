@@ -15,7 +15,7 @@ class Page extends React.Component {
         // every page can have different layout, pick the layout based
         // on the model of the page (_type in Sanity CMS)
         console.log('Slug hit - render');
-        const router = useRouter();
+        //const router = useRouter();
         //redirectIfSpacesInUrl(router.asPath, router);
         const componentName = _.get(this.props, 'page.__metadata.modelName');
         //console.log(this.props);
@@ -42,9 +42,16 @@ export async function getStaticPaths() {
 export async function getStaticProps({ params }) {
     console.log('Page [...slug].js getStaticProps, params: ', params);
     let pagePath = '/' + params.slug.join('/');
-    /*if (pagePath != null) {
+    console.log(pagePath);
+    if (pagePath != pagePath.toLowerCase()) {
         pagePath = pagePath.toLowerCase();
-    }*/
+        return {
+            redirect: {
+              destination: '/About',
+              permanent: true,
+            },
+          }
+    }
     const props = await sourcebitDataClient.getStaticPropsForPageAtPath(pagePath);
 
     return { props };
