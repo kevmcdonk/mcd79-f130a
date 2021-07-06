@@ -34,12 +34,14 @@ module.exports = {
         // Instead, the src/pages/[...slug].js uses the "withRemoteDataUpdates"
         // function to update the content on the page without refreshing the
         // whole page
-        config.plugins.push(new webpack.WatchIgnorePlugin([/\/content\//]));
-        if (!isServer) {
+        //config.plugins.push(new webpack.WatchIgnorePlugin([/\/content\//]));
+        const ignoredPaths = [[path.resolve(__dirname, '../..content')]];
+        config.plugins.push(new webpack.WatchIgnorePlugin({ paths: [/\/content\//] }));
+        /*if (!isServer) {
             config.node = {
               fs: 'empty'
             }
-          }
+          }*/
         return config;
     }
 };
