@@ -6,6 +6,8 @@ content_img_path: 'images/2020/01/GreyHatBeard-large.png'
 comments: false
 published: true
 author: 'Kevin McDonnell'
+thumb_img_path: 'images/2020/01/GreyHatBeard-large.png'
+thumb_img_alt: 'GreyHatBeard logo'
 tags:
 - Digital Workplace
 - Thoughts

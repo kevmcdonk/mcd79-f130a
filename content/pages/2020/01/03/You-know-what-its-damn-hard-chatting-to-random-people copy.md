@@ -5,6 +5,8 @@ date: '2020-01-03 00:00:00'
 content_img_path: 'images/2019/12/pocket-watch.jpg'
 comments: false
 published: true
+thumb_img_path: 'images/2019/12/pocket-watch.jpg'
+thumb_img_alt: 'Pocket watch'
 author: "Kevin McDonnell"
 tags:
 - Thoughts

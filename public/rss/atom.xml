@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mcd79.com</id>
     <title>Mcd79</title>
-    <updated>2021-07-06T21:19:08.131Z</updated>
+    <updated>2021-07-08T20:45:12.147Z</updated>
     <generator>Next.js using Feed for Node.js</generator>
     <author>
         <name>Kevin McDonnell</name>
@@ -3740,12 +3740,12 @@ Chatting Photo by Ben White on Unsplash</p>]]></content>
         <content type="html"><![CDATA[<p>Have you heard about Project Cortex? The upcoming service from Microsoft that will help organisations to better manage their internal knowledge by using the best of breed content services such as SharePoint, One Drive and Microsoft search.</p>
 
 <blockquote><p>This is part one of the Knowledge Management series. For other parts, see links below:
-<em> <a href="/2020/09/03/Knowledge-Management-Series.html">Part One - Introduction</a>
-</em> <a href="/2020/09/10/Knowledge-Management-Series-Considering-where-knowledge-is-stored.html">Part Two - Considering where knowledge is stored</a>
-<em> <a href="/2020/09/14/Knowledge-Management-Organising-Knowledge.html">Part Three - Organising knowledge</a>
-</em> <a href="/2020/09/17/Knowledge-Management-Series-Creating-a-culture-of-knowledge.html">Part Four - Creating a culture of knowledge</a>
-<em> <a href="/2020/09/26/Knowledge-Management-Series-Introduction-to-SharePoint-Syntex.html">Part Five - An introduction to SharePoint Syntex</a>
-</em> <a href="/2021/02/06/Knowledge-Management-Series-Introduction-to-Viva-Topics.html">Part Six - An introduction to Viva Topics</a></p></blockquote>
+<em> <a href="/2020/09/03/knowledge-management-series.html">Part One - Introduction</a>
+</em> <a href="/2020/09/10/knowledge-management-series-considering-where-knowledge-is-stored.html">Part Two - Considering where knowledge is stored</a>
+<em> <a href="/2020/09/14/knowledge-management-organising-knowledge.html">Part Three - Organising knowledge</a>
+</em> <a href="/2020/09/17/knowledge-management-series-creating-a-culture-of-knowledge.html">Part Four - Creating a culture of knowledge</a>
+<em> <a href="/2020/09/26/knowledge-management-series-introduction-to-sharepoint-syntex.html">Part Five - An introduction to SharePoint Syntex</a>
+</em> <a href="/2021/02/06/knowledge-management-series-introduction-to-viva-topics.html">Part Six - An introduction to Viva Topics</a></p></blockquote>
 
 <p>Your current reaction probably sits in one of three places if you live in the Microsoft space.</p>
 
@@ -4324,7 +4324,7 @@ In Microsoft 365, work together, put files and apps already in version 0.1 to a 
 <p>This post will introduce Viva and especially Viva Topics, talking about what it is, how you can set it up and my thoughts on using it so far.</p>
 
 <blockquote><p>This is part six of the Knowledge Management series. For other parts, see links below:
-<em> <a href="/2020/09/03/Knowledge-Management-Series.html">Part One - Introduction</a>
+<em> <a href="/2020/08/12/Knowledge-Management-Series.html">Part One - Introduction</a>
 </em> <a href="/2020/09/10/Knowledge-Management-Series-Considering-where-knowledge-is-stored.html">Part Two - Considering where knowledge is stored</a>
 <em> <a href="/2020/09/14/Knowledge-Management-Organising-Knowledge.html">Part Three - Organising knowledge</a>
 </em> <a href="/2020/09/17/Knowledge-Management-Series-Creating-a-culture-of-knowledge.html">Part Four - Creating a culture of knowledge</a>
