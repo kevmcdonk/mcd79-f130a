@@ -6,6 +6,8 @@ content_img_path: 'images/2020/01/selfie.jpg'
 comments: false
 published: true
 author: "Kevin McDonnell"
+thumb_img_path: 'images/2020/01/selfie.jpg'
+thumb_img_alt: 'Selfie'
 tags:
 - Technical
 - PowerApps

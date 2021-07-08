@@ -6,6 +6,8 @@ content_img_path: 'images/2020/08/books.jpg'
 comments: false
 published: false
 author: 'Kevin McDonnell'
+thumb_img_path: 'images/2020/08/books.jpg'
+thumb_img_alt: 'Books'
 tags:
 - Digital Workplace
 - Knowledge Management
@@ -14,18 +16,18 @@ tags:
 Have you heard about Project Cortex? The upcoming service from Microsoft that will help organisations to better manage their internal knowledge by using the best of breed content services such as SharePoint, One Drive and Microsoft search.
 
 > This is part one of the Knowledge Management series. For other parts, see links below:
-> * [Part One - Introduction](/2020/09/03/Knowledge-Management-Series.html)
-> * [Part Two - Considering where knowledge is stored](/2020/09/10/Knowledge-Management-Series-Considering-where-knowledge-is-stored.html)
-> * [Part Three - Organising knowledge](/2020/09/14/Knowledge-Management-Organising-Knowledge.html)
-> * [Part Four - Creating a culture of knowledge](/2020/09/17/Knowledge-Management-Series-Creating-a-culture-of-knowledge.html)
-> * [Part Five - An introduction to SharePoint Syntex](/2020/09/26/Knowledge-Management-Series-Introduction-to-SharePoint-Syntex.html)
-> * [Part Six - An introduction to Viva Topics](/2021/02/06/Knowledge-Management-Series-Introduction-to-Viva-Topics.html)
+
+> * [Part Two - Considering where knowledge is stored](/2020/09/10/knowledge-management-series-considering-where-knowledge-is-stored)
+> * [Part Three - Organising knowledge](/2020/09/14/knowledge-management-organising-knowledge)
+> * [Part Four - Creating a culture of knowledge](/2020/09/17/knowledge-management-series-creating-a-culture-of-knowledge)
+> * [Part Five - An introduction to SharePoint Syntex](/2020/09/26/knowledge-management-series-introduction-to-sharepoint-syntex)
+> * [Part Six - An introduction to Viva Topics](/2021/02/06/knowledge-management-series-introduction-to-viva-topics)
 
 Your current reaction probably sits in one of three places if you live in the Microsoft space.
 
-	- "I'm so excited" - you can't wait for darter and all the benefits it will bring to ease access to information,
-	- "It's going to be too expensive" -you might be excited about it or not but either way, you just don't think you'll get the budget To get anywhere with it.
-	- "Erm, what is Cortex?" it may be that you haven't heard about Cortex and the buzz that started at Ignite in 2014 -checkout https://aka.ms/ProjectCortex as a starter or
+* "I'm so excited" - you can't wait for darter and all the benefits it will bring to ease access to information,
+* "It's going to be too expensive" -you might be excited about it or not but either way, you just don't think you'll get the budget To get anywhere with it.
+* "Erm, what is Cortex?" it may be that you haven't heard about Cortex and the buzz that started at Ignite in 2014 -checkout https://aka.ms/ProjectCortex as a starter or
 listen to our first Grey Hat Beard show
 
 Regardless of your current state of mind or Cortex,
@@ -47,11 +49,5 @@ ones will contain:
 -Records management us. knowledge might
 • Al driven access to knowledge
 • Searching and browsing through knowledge
-
-
-
-
-
-
 
 Photo courtesy of [Patrick Tomasso](https://unsplash.com/@impatrickt) via [Unsplash](https://unsplash.com)

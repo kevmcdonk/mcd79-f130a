@@ -13,11 +13,11 @@ Autumn came and went. Christmas and the end of the year came and went. 2021 star
 This post will introduce Viva and especially Viva Topics, talking about what it is, how you can set it up and my thoughts on using it so far.
 
 > This is part six of the Knowledge Management series. For other parts, see links below:
-> * [Part One - Introduction](/2020/09/03/Knowledge-Management-Series.html)
-> * [Part Two - Considering where knowledge is stored](/2020/09/10/Knowledge-Management-Series-Considering-where-knowledge-is-stored.html)
-> * [Part Three - Organising knowledge](/2020/09/14/Knowledge-Management-Organising-Knowledge.html)
-> * [Part Four - Creating a culture of knowledge](/2020/09/17/Knowledge-Management-Series-Creating-a-culture-of-knowledge.html)
-> * [Part Five - An introduction to SharePoint Syntex](/2020/09/26/Knowledge-Management-Series-Introduction-to-SharePoint-Syntex.html)
+> * [Part One - Introduction](/2020/08/12/knowledge-management-series)
+> * [Part Two - Considering where knowledge is stored](/2020/09/10/knowledge-management-series-considering-where-knowledge-is-stored)
+> * [Part Three - Organising knowledge](/2020/09/14/knowledge-management-organising-knowledge)
+> * [Part Four - Creating a culture of knowledge](/2020/09/17/knowledge-management-series-creating-a-culture-of-knowledge)
+> * [Part Five - An introduction to SharePoint Syntex](/2020/09/26/knowledge-management-series-introduction-to-sharepoint-syntex)
 
 ## What is Microsoft Viva?
 

@@ -6,6 +6,8 @@ content_img_path: 'images/2020/09/earth.jpg'
 comments: false
 published: true
 author: 'Kevin McDonnell'
+thumb_img_path: 'images/2020/09/earth.jpg'
+thumb_img_alt: 'Earth'
 tags:
 - Digital Workplace
 - Knowledge Management

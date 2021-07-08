@@ -2,10 +2,12 @@
 layout: post
 title: Covid 19 shows the power of focus
 date: '2020-04-19 13:00:00'
-content_img_path: '020/04/womanbitingpencil.jpg'
+content_img_path: '2020/04/womanbitingpencil.jpg'
 comments: false
 published: true
 author: 'Kevin McDonnell'
+thumb_img_path: '2020/04/womanbitingpencil.jpg'
+thumb_img_alt: 'Lady biting pencil'
 tags:
 - Digital Workplace
 - Thoughts

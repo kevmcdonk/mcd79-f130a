@@ -6,6 +6,8 @@ content_img_path: 'images/2020/09/connectors.jpg'
 comments: false
 published: true
 author: 'Kevin McDonnell'
+thumb_img_path: 'images/2020/09/connectors.jpg'
+thumb_img_alt: 'Connectors'
 tags:
 - Digital Workplace
 - Knowledge Management
