@@ -29,7 +29,7 @@ try and stop myself. l think about how I would feel if it was me.
 
 Next Time you think about sending a message to someone you do not know, just stop a minute and think about what you would think if you received that message. What about if your mother, sister or daughter had received it, what would you say to that person? Stop and think. If you're not sure, don't send it. People will thank you. They won't find it entertaining. They might chuckle but behind your back, they will mutter about you. Don't do it.
 
-We can do better
+## We can do better
 
 Men who are reading this, please, please don't dismiss it. Think about what you say and how you would feel. If you see others who are saying the wrong thing, then speak up. Don't be afraid of asking other people to think as well. 
 
