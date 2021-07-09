@@ -8,7 +8,7 @@ subtitle: >-
   other, especially women. But this isn't about everyone, this about how men
   treat women online.
 date: '2021-07-09'
-thumb_img_alt: lorem-ipsum
+thumb_img_alt: Bad Dog
 excerpt: lorem-ipsum
 hide_header: false
 seo:
