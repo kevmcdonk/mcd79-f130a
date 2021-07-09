@@ -25,7 +25,7 @@ I'm getting bored of some tweets. You know the ones. "Here's another unsolicited
 
 I will confess right now that I am not perfect. I think I have made assumptions about someone's role based on their sex. I hate myself for this and I try and learn. I know that I turn my head to a good looking woman when they walk in more than I do for men. I don't think this is right and try and stop myself. l think about how I would feel if it was me.
 
-![Do not be afraid to think](images/2021/07/do-not-be-scared-to-think.jpg)
+![Do not be afraid to think](/images/2021/07/do-not-be-scared-to-think.jpg)
 
 ## Empathy
 
