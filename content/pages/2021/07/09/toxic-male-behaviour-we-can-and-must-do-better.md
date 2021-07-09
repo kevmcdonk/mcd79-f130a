@@ -24,7 +24,7 @@ I'm getting bored of some tweets. You know the ones. "Here's another unsolicited
 
 I will confess right now that I am not perfect. I think I have made assumptions about someone's role based on their sex. I hate myself for this and I try and learn. I know that I turn my head to a good looking woman when they walk in more than I do for men. I don't think this is right and try and stop myself. l think about how I would feel if it was me.
 
-![](images/2021/09/)
+![](images/2021/09/do-not-be-scared-to-think.jpg)
 ## Empathy
 
 Next time you think about sending a message to someone you do not know, just stop a minute and think about what you would think if you received that message. What about if your mother, sister or daughter had received it, what would you say to that person? Stop and think. If you're not sure, don't send it. People will thank you. They won't find it entertaining. They might chuckle but behind your back, they will mutter about you. Don't do it.
