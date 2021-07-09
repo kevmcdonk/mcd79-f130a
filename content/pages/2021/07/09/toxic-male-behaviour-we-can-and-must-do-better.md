@@ -1,6 +1,7 @@
 ---
 title: Toxic male behaviour - we can and must do better
 date: '2021-07-09'
+content_img_path: images/2021/09/dog.jpg
 thumb_img_alt: Bad Dog
 excerpt: >-
   I'm getting bored of some tweets. You know the ones. "Here's another
