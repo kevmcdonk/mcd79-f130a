@@ -40,4 +40,4 @@ This isn't about being woke.
 This is about not being a dick head.
 
 
-Photo by Nick Fewings on Unsplash 
+Photo by [Nick Fewings](https://unsplash.com/@jannerboy62?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash 
