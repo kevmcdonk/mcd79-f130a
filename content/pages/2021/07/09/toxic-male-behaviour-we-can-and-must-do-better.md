@@ -26,7 +26,7 @@ I will confess right now that I am not perfect. I think I have made assumptions 
 
 ## Empathy
 
-Next Time you think about sending a message to someone you do not know, just stop a minute and think about what you would think if you received that message. What about if your mother, sister or daughter had received it, what would you say to that person? Stop and think. If you're not sure, don't send it. People will thank you. They won't find it entertaining. They might chuckle but behind your back, they will mutter about you. Don't do it.
+Next time you think about sending a message to someone you do not know, just stop a minute and think about what you would think if you received that message. What about if your mother, sister or daughter had received it, what would you say to that person? Stop and think. If you're not sure, don't send it. People will thank you. They won't find it entertaining. They might chuckle but behind your back, they will mutter about you. Don't do it.
 
 ## We can do better
 
