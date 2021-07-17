@@ -5,7 +5,10 @@ import {toStyleObj, withPrefix} from '../utils';
 import Branding from './Branding';
 import Navigation from './Navigation';
 
+export const GA_TRACKING_ID = 'UA-156922990-1';
 export default class Header extends React.Component {
+  
+
     render() {
         return (
             <header id="masthead" className="site-header">
@@ -22,6 +25,27 @@ export default class Header extends React.Component {
                   </div>
                 </div>
               </div>
+              <Fragment>
+              {/* Global Site Tag (gtag.js) - Google Analytics */}
+              <script
+                async
+                src={`https://www.googletagmanager.com/gtag/js?id=${GA_TRACKING_ID}`}
+              />
+              <script
+                dangerouslySetInnerHTML={{
+                  __html: `
+                    window.dataLayer = window.dataLayer || [];
+                    function gtag(){dataLayer.push(arguments);}
+                    gtag('js', new Date());
+
+                    gtag('config', '${GA_TRACKING_ID}', {
+                      page_path: window.location.pathname,
+                    });
+                  `,
+                }}
+              />
+            </Fragment>
+              
               <script async src="https://www.googletagmanager.com/gtag/js?id=UA-156922990-1"></script>
               <script>
                 window.dataLayer = window.dataLayer || [];
