@@ -22,6 +22,15 @@ export default class Header extends React.Component {
                   </div>
                 </div>
               </div>
+              <script async src="https://www.googletagmanager.com/gtag/js?id=UA-156922990-1"></script>
+              <script>
+                window.dataLayer = window.dataLayer || [];
+                function gtag(){dataLayer.push(arguments);}
+                gtag('js', new Date());
+
+                gtag('config', 'UA-156922990-1');
+              </script>
+
             </header>
         );
     }
