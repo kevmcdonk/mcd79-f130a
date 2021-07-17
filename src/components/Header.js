@@ -1,4 +1,5 @@
 import React from 'react';
+import { Fragment } from 'react';
 import _ from 'lodash';
 
 import {toStyleObj, withPrefix} from '../utils';
