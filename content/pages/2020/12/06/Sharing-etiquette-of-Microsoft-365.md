@@ -5,7 +5,7 @@ date: '2020-12-06 18:00:00'
 content_img_path: 'images/2020/12/Together.jpg'
 excerpt: >-
   Last week, myself and my fellow co-hosts of GreyHatBeard were joined by Luise Freese, Vesa Nopanen and Karoliina Kettukari at Collab Days Munich/Vienna as we shared our thoughts on the etiquette of Microsoft 365. It was a fun format with plenty of chance to laugh at the same time as attendees picking up some great ideas as we ran through three questions that each person had 90 seconds to answer.
-thumb_img_path: 'images/2020/12/Together.jpg'
+thumb_img_path: 'images/previews/2020/12/Together.jpg'
 thumb_img_alt: 'Together'
 ---
 

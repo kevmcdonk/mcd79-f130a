@@ -6,7 +6,7 @@ content_img_path: 'images/2020/08/books.jpg'
 comments: false
 published: false
 author: 'Kevin McDonnell'
-thumb_img_path: 'images/2020/08/books.jpg'
+thumb_img_path: 'images/previews/2020/08/books.jpg'
 thumb_img_alt: 'Books'
 tags:
 - Digital Workplace

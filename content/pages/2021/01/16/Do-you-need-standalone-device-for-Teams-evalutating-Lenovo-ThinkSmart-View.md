@@ -5,7 +5,7 @@ date: '2021-01-16 08:00:00'
 content_img_path: 'images/2021/01/LenovoThinkSmartView.jpg'
 excerpt: >-
   A few weeks back, I was lucky enough to have been given the opportunity to try out the Lenovo ThinkSmart View, a standalone device dedicated to Microsoft Teams. Many of you may be thinking "erm, why would you want that?" and the simple answer (which I'll expand on in a minute) is performance. Too many times has Teams rendered my machine unusable and I spend a large chunk of my day in meetings. Would this improve my experience?
-thumb_img_path: 'images/2021/01/LenovoThinkSmartView.jpg'
+thumb_img_path: 'images/previews/2021/01/LenovoThinkSmartView.jpg'
 thumb_img_alt: 'Lenovo Think Smart View'
 ---
 

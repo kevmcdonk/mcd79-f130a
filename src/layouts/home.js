@@ -1,10 +1,12 @@
 import React from 'react';
 import _ from 'lodash';
 import moment from 'moment-strftime';
+//import {Image} from 'next';
 
 import {Layout} from '../components/index';
 import Header from '../components/Header';
 import {getPages, Link, withPrefix} from '../utils';
+
 import ReactPaginate from 'react-paginate';
 import Footer from '../components/Footer';
 
@@ -80,7 +82,7 @@ export default class Home extends React.Component {
                             )}
                             <div className="post-content">
                               <p>{_.get(post, 'frontmatter.excerpt', null)}</p>
-                            </div>
+                            </div>Image
                             {((_.get(this.props, 'page.frontmatter.has_more_link', null) === true) && _.get(this.props, 'page.frontmatter.more_link_text', null)) && (
                             <p className="read-more">
                               <Link className="read-more-link" href={withPrefix(_.get(post, '__metadata.urlPath', null))}>{_.get(this.props, 'page.frontmatter.more_link_text', null)} <span className="icon-arrow-right" aria-hidden="true" /></Link>

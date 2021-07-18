@@ -1,11 +1,15 @@
 import React from 'react';
+import { Fragment } from 'react';
 import _ from 'lodash';
 
 import {toStyleObj, withPrefix} from '../utils';
 import Branding from './Branding';
 import Navigation from './Navigation';
 
+export const GA_TRACKING_ID = 'UA-92969702-1';
 export default class Header extends React.Component {
+  
+
     render() {
         return (
             <header id="masthead" className="site-header">
@@ -22,6 +26,28 @@ export default class Header extends React.Component {
                   </div>
                 </div>
               </div>
+              <Fragment>
+              {/* Global Site Tag (gtag.js) - Google Analytics */}
+              <script
+                async
+                src={`https://www.googletagmanager.com/gtag/js?id=${GA_TRACKING_ID}`}
+              />
+              <script
+                dangerouslySetInnerHTML={{
+                  __html: `
+                    window.dataLayer = window.dataLayer || [];
+                    function gtag(){dataLayer.push(arguments);}
+                    gtag('js', new Date());
+
+                    gtag('config', '${GA_TRACKING_ID}', {
+                      page_path: window.location.pathname,
+                    });
+                  `,
+                }}
+              />
+            </Fragment>
+              
+
             </header>
         );
     }

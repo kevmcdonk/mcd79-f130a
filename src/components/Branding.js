@@ -1,6 +1,6 @@
 import React from 'react';
 import _ from 'lodash';
-
+//import {Image} from 'next/image';
 import {Link, withPrefix} from '../utils';
 
 export default class Branding extends React.Component {
@@ -21,7 +21,7 @@ export default class Branding extends React.Component {
               <p className="site-description">{_.get(this.props, 'data.config.header.tagline', null)}</p>
               )}
               <br/>
-              <img src="/images/MVP_Logo_Horizontal_Preferred_Cyan300_CMYK_300ppi.png" alt="MVP Logo" />              
+              <img src="/images/MVP_Logo_Horizontal_Preferred_Cyan300_CMYK_300ppi.png" alt="MVP Logo" width={280} height={112}/>              
             </div>
         );
     }

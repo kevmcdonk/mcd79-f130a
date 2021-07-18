@@ -33,7 +33,7 @@ function generateRssFeed() {
     generator: 'Next.js using Feed for Node.js',
     ttl: 60,
     feedLinks: {
-      rss2: `${baseUrl}/rss/feed.xml`,
+      rss2: `${baseUrl}/rss/index.xml`,
       json: `${baseUrl}/rss/feed.json`,
       atom: `${baseUrl}/rss/atom.xml`
     },
@@ -105,7 +105,7 @@ function generateRssFeed() {
   });
 
   fs.mkdirSync('./public/rss', { recursive: true });
-  fs.writeFileSync('./public/rss/feed.xml', feed.rss2());
+  fs.writeFileSync('./public/rss/index.xml', feed.rss2());
   fs.writeFileSync('./public/rss/atom.xml', feed.atom1());
   fs.writeFileSync('./public/rss/feed.json', feed.json1());
   console.log('generated feed');

@@ -18,7 +18,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
-thumb_img_path: images/2021/07/dog-wide.jpg
+thumb_img_path: images/previews/2021/07/dog-wide.jpg
 subtitle: Don't be a dickhead
 ---
 I'm getting bored of some tweets. You know the ones. "Here's another unsolicited message I received today". I'm bored of these because in 2021, these shouldn't be needed. The unsolicited DM should not be sent. End of story. People shouldn't have to share these Tweets, because we live in a world where we respect each other, especially women. But this isn't about everyone, this about how men treat women online.
