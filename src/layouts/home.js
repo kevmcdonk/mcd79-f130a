@@ -1,10 +1,12 @@
 import React from 'react';
 import _ from 'lodash';
 import moment from 'moment-strftime';
+import {Image} from 'next';
 
 import {Layout} from '../components/index';
 import Header from '../components/Header';
 import {getPages, Link, withPrefix} from '../utils';
+
 import ReactPaginate from 'react-paginate';
 import Footer from '../components/Footer';
 
@@ -75,7 +77,7 @@ export default class Home extends React.Component {
                             </header>
                             {_.get(post, 'frontmatter.thumb_img_path', null) && (
                             <Link className="post-thumbnail" href={withPrefix(_.get(post, '__metadata.urlPath', null))}>
-                              <img className="thumbnail" src={withPrefix(_.get(post, 'frontmatter.thumb_img_path', null))} alt={_.get(post, 'frontmatter.thumb_img_alt', null)} />
+                              <Image className="thumbnail" src={withPrefix(_.get(post, 'frontmatter.thumb_img_path', null))} alt={_.get(post, 'frontmatter.thumb_img_alt', null)} />
                             </Link>
                             )}
                             <div className="post-content">

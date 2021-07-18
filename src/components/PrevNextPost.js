@@ -1,5 +1,6 @@
 import React, { FunctionComponent, Fragment, useState, useEffect } from 'react';
 import _ from 'lodash';
+import {Image} from 'next';
 import {htmlToReact, Link, withPrefix, getNextPage, getPrevPage, getPages} from '../utils';
 import moment from 'moment-strftime';
 
@@ -25,7 +26,7 @@ export default class PrevNextPost extends React.Component {
                     </div>
                 </header>
                 <Link className="post-thumbnail" href={withPrefix(_.get(nextPage, '__metadata.urlPath', null))}>
-                <img className="thumbnail" src={withPrefix(_.get(nextPage, 'frontmatter.thumb_img_path', null))} alt={_.get(nextPage, 'frontmatter.thumb_img_alt', null)} />
+                <Image className="thumbnail" src={withPrefix(_.get(nextPage, 'frontmatter.thumb_img_path', null))} alt={_.get(nextPage, 'frontmatter.thumb_img_alt', null)} />
                 </Link>
                 
                 <div className="post-content">
@@ -48,7 +49,7 @@ export default class PrevNextPost extends React.Component {
                     </div>
                 </header>
                 <Link className="post-thumbnail" href={withPrefix(_.get(prevPage, '__metadata.urlPath', null))}>
-                <img className="thumbnail" src={withPrefix(_.get(prevPage, 'frontmatter.thumb_img_path', null))} alt={_.get(prevPage, 'frontmatter.thumb_img_alt', null)} />
+                <Image className="thumbnail" src={withPrefix(_.get(prevPage, 'frontmatter.thumb_img_path', null))} alt={_.get(prevPage, 'frontmatter.thumb_img_alt', null)} />
                 </Link>
                 
                 <div className="post-content">
