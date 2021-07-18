@@ -1,6 +1,6 @@
 import React from 'react';
 import _ from 'lodash';
-import {Image} from 'next/image';
+//import {Image} from 'next/image';
 import {Link, withPrefix} from '../utils';
 
 export default class Branding extends React.Component {
