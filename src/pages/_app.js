@@ -3,12 +3,14 @@ import { useEffect } from 'react';
 import Router from 'next/router';
 import '../sass/main.scss';
 import '../sass/imports/_paginator.scss';
+//import { init } from 'utils/ga';
 
 
 function MyApp({ Component, pageProps }) {
 
     useEffect(() => {
-
+        //let gaKey = 'UA-156922990-1';
+        init(process.env.NEXT_PUBLIC_G);
         if (window.onNextjsAppDidMount) {
             window.onNextjsAppDidMount();
         }
