@@ -9,7 +9,7 @@ export default class Branding extends React.Component {
             <div className="site-branding">
               {_.get(this.props, 'data.config.header.logo_img', null) && (
               <p className="site-logo">
-                <Link href={withPrefix('/')}><Image src={withPrefix(_.get(this.props, 'data.config.header.logo_img', null))} alt={_.get(this.props, 'data.config.header.logo_img_alt', null)} /></Link>
+                <Link href={withPrefix('/')}><img src={withPrefix(_.get(this.props, 'data.config.header.logo_img', null))} alt={_.get(this.props, 'data.config.header.logo_img_alt', null)} /></Link>
               </p>
               )}
               {(_.get(this.props, 'page.frontmatter.layout', null) === 'home') ? (
@@ -21,7 +21,7 @@ export default class Branding extends React.Component {
               <p className="site-description">{_.get(this.props, 'data.config.header.tagline', null)}</p>
               )}
               <br/>
-              <Image src="/images/MVP_Logo_Horizontal_Preferred_Cyan300_CMYK_300ppi.png" alt="MVP Logo" />              
+              <Image src="/images/MVP_Logo_Horizontal_Preferred_Cyan300_CMYK_300ppi.png" alt="MVP Logo" width={280} height={112}/>              
             </div>
         );
     }

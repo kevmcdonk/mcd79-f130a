@@ -26,7 +26,7 @@ export default class PrevNextPost extends React.Component {
                     </div>
                 </header>
                 <Link className="post-thumbnail" href={withPrefix(_.get(nextPage, '__metadata.urlPath', null))}>
-                <Image className="thumbnail" src={withPrefix(_.get(nextPage, 'frontmatter.thumb_img_path', null))} alt={_.get(nextPage, 'frontmatter.thumb_img_alt', null)} />
+                <img className="thumbnail" src={withPrefix(_.get(nextPage, 'frontmatter.thumb_img_path', null))} alt={_.get(nextPage, 'frontmatter.thumb_img_alt', null)} />
                 </Link>
                 
                 <div className="post-content">
@@ -49,7 +49,7 @@ export default class PrevNextPost extends React.Component {
                     </div>
                 </header>
                 <Link className="post-thumbnail" href={withPrefix(_.get(prevPage, '__metadata.urlPath', null))}>
-                <Image className="thumbnail" src={withPrefix(_.get(prevPage, 'frontmatter.thumb_img_path', null))} alt={_.get(prevPage, 'frontmatter.thumb_img_alt', null)} />
+                <img className="thumbnail" src={withPrefix(_.get(prevPage, 'frontmatter.thumb_img_path', null))} alt={_.get(prevPage, 'frontmatter.thumb_img_alt', null)} />
                 </Link>
                 
                 <div className="post-content">
