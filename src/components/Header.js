@@ -6,7 +6,7 @@ import {toStyleObj, withPrefix} from '../utils';
 import Branding from './Branding';
 import Navigation from './Navigation';
 
-export const GA_TRACKING_ID = 'UA-156922990-1';
+export const GA_TRACKING_ID = 'UA-92969702-1';
 export default class Header extends React.Component {
   
 
