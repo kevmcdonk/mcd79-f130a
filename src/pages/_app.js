@@ -10,7 +10,7 @@ function MyApp({ Component, pageProps }) {
 
     useEffect(() => {
         //let gaKey = 'UA-156922990-1';
-        init(process.env.NEXT_PUBLIC_G);
+        //init(process.env.NEXT_PUBLIC_G);
         if (window.onNextjsAppDidMount) {
             window.onNextjsAppDidMount();
         }
