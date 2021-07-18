@@ -1,7 +1,7 @@
 import React from 'react';
 import _ from 'lodash';
 import moment from 'moment-strftime';
-import {Image} from 'next';
+//import {Image} from 'next';
 
 import {Layout} from '../components/index';
 import Header from '../components/Header';

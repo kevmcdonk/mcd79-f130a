@@ -1,6 +1,6 @@
 import React, { FunctionComponent, Fragment, useState, useEffect } from 'react';
 import _ from 'lodash';
-import {Image} from 'next';
+//import {Image} from 'next';
 import {htmlToReact, Link, withPrefix, getNextPage, getPrevPage, getPages} from '../utils';
 import moment from 'moment-strftime';
 
