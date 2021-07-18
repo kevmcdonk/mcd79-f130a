@@ -4,7 +4,7 @@ title: Improving performance for bulk PnP PowerShell scripts
 date: '2021-03-21 14:00:00'
 excerpt: >-
   I have been a little quiet on this blog recently and while the stress of the pandemic with lots of kids at home has played into that, another large part has been a painful migration project. I have learnt plenty about the scales of SharePoint Online and reminding myself of the limitations of SharePoint 2010 - I really had forgotten how painful it was considering servers! One of the biggest areas though has been the validation. While the migration tooling gives us some information, we have been running lots of PnP PowerShell scripts for both creating structures and also validating that content has migrated correctly. Having tens of thousands of sites and libraries brings its own challenges.
-thumb_img_path: 'images/2021/03/toycar.jpg'
+thumb_img_path: 'images/previews/2021/03/toycar.jpg'
 thumb_img_alt: Toy car
 content_img_path: 'images/2021/03/toycar.jpg'
 

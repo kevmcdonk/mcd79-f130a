@@ -5,7 +5,7 @@ date: '2021-02-06 10:00:00'
 content_img_path: 'images/2021/02/SortingRecords.jpg'
 excerpt: >-
   Autumn came and went. Christmas and the end of the year came and went. 2021 started but still there was no sign of Project Cortex. Vaccines appeared and hope for an end to the pandemic being in sight. But still no Cortex. No knowledge hubs. What could be wrong? Were there problems? Would we see it happen. Now we know the answer and the answer is Microsoft Viva. And I like it.
-thumb_img_path: 'images/2021/02/SortingRecords.jpg'
+thumb_img_path: 'images/previews/2021/02/SortingRecords.jpg'
 thumb_img_alt: 'Sorting records'
 ---
 Autumn came and went. Christmas and the end of the year came and went. 2021 started but still there was no sign of Project Cortex. Vaccines appeared and hope for an end to the pandemic being in sight. But still no Cortex. No knowledge hubs. What could be wrong? Were there problems? Would we see it happen. Now we know the answer and the answer is Microsoft Viva. And I like it.

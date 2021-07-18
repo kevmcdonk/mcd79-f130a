@@ -6,7 +6,7 @@ content_img_path: 'images/2020/09/SortingRecords.jpg'
 comments: false
 published: true
 author: 'Kevin McDonnell'
-thumb_img_path: 'images/2020/09/SortingRecords.jpg'
+thumb_img_path: 'images/previews/2020/09/SortingRecords.jpg'
 thumb_img_alt: 'Records being sorted'
 tags:
 - Digital Workplace

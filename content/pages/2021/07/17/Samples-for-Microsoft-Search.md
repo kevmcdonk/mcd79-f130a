@@ -3,7 +3,7 @@ title: Samples for Microsoft Search
 excerpt: >-
   Do you know what Microsoft Search is capable of? It has so many options for Answers but it can often be hard to see samples of this. To help with this, I have created a GitHub repo of search samples that you can use to import and get started faster.
 date: '2021-07-17 21:00:00'
-thumb_img_path: images/2021/07/search.jpg
+thumb_img_path: images/previews2021/07/search.jpg
 thumb_img_alt: Magnifying glass
 content_img_path: images/2021/07/search.jpg
 seo:

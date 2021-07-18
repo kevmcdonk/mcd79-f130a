@@ -6,7 +6,7 @@ content_img_path: 'images/2020/09/markers.jpg'
 comments: false
 published: true
 author: 'Kevin McDonnell'
-thumb_img_path: 'images/2020/09/markers.jpg'
+thumb_img_path: 'images/previews/2020/09/markers.jpg'
 thumb_img_alt: 'Marker pens'
 tags:
 - Digital Workplace
