@@ -2,7 +2,12 @@
 title: 'Commsverse lookback '
 date: '2021-09-17'
 thumb_img_alt: View of the main conference room
-excerpt: 'lorem-ipsumOn 15th and 16th September, '
+excerpt: >-
+  On 15th and 16th September, I spoke at my first in-person conferin almost two
+  years and it was so incredible to be back with real people. The organising
+  team have been through so many rollercoasters with this conference so seeing
+  everything come together was so so heart warming. Here are my key takeaways
+  from the event.
 hide_header: false
 seo:
   title: ''
