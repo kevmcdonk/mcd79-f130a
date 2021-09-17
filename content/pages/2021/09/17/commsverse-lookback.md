@@ -11,6 +11,7 @@ seo:
   extra: []
 layout: post
 subtitle: 'My thoughts and feeling from an incredible Microsoft Teams conference '
+content_img_path: images/94E7E326-1219-4A5A-82AB-F03808F72690.jpeg
 ---
 ## Lorem ipsum
 
