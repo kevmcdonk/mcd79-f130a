@@ -1,7 +1,7 @@
 ---
 title: 'Commsverse lookback '
 date: '2021-09-17'
-thumb_img_alt: lorem-ipsum
+thumb_img_alt: View of the main conference room
 excerpt: lorem-ipsum
 hide_header: false
 seo:
