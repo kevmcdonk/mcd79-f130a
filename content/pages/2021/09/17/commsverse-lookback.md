@@ -10,7 +10,7 @@ seo:
   robots: []
   extra: []
 layout: post
-subtitle: My thoughts and feeling from an incredible Microsoft Teams conferen
+subtitle: 'My thoughts and feeling from an incredible Microsoft Teams conference '
 ---
 ## Lorem ipsum
 
