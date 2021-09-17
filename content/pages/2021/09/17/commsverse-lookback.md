@@ -2,7 +2,7 @@
 title: 'Commsverse lookback '
 date: '2021-09-17'
 thumb_img_alt: View of the main conference room
-excerpt: lorem-ipsum
+excerpt: 'lorem-ipsumOn 15th and 16th September, '
 hide_header: false
 seo:
   title: ''
