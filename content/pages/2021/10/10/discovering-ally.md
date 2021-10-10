@@ -12,8 +12,8 @@ seo:
   extra: []
 layout: post
 subtitle: 'My thoughts and feeling from an incredible Microsoft Teams conference '
-content_img_path: images/2021/10/10/NeonTargets.jpg
-thumb_img_path: images/2021/10/10/NeonTargets.jpg
+content_img_path: images/2021/10/NeonTargets.jpg
+thumb_img_path: images/2021/10/NeonTargets.jpg
 ---
 A few days ago, [Microsoft announced](https://blogs.microsoft.com/blog/2021/10/07/microsoft-acquires-ally-io-to-improve-employee-experience-by-aligning-peoples-work-with-team-goals-and-company-mission/) that they were acquiring Ally.IO, an OKR company. Now Microsoft has made quite a few acquisitions over the years but what was interesting about this one was that it announced as the service that would power the next Viva module. It had been heavily hinted that the first four pillars (Connections, Topics, Insights and Learning) would not be the last ones and here it is, the focus for the next release.
 
@@ -25,21 +25,21 @@ In this blog, I'll run through my initial experiences with the trial that you ca
 
 The place to get started is by signing up for a trial on the [Ally.IO site](https://ally.io/). At the time of writing, you can get a 14 day trial from the main site ahead of the full pricing of $7 per user per month.
 
-![Set up a trial](/images/2021/10/10/AllyIO-01.png)
+![Set up a trial](/images/2021/10/AllyIO-01.png)
 
 Once set up, having validated your email, you are guided to follow a tour for setting up things from the start. The platform is easy to use and easy to understand from the off. As well as the tour, you are given recommended next steps to get moving, including how to build your objectives.
 
-![Getting started](images/2021/10/10/AllyIO-02.png)![Guide on what to do next](images/2021/10/10/AllyIO-03.png)
+![Getting started](images/2021/10/AllyIO-02.png)![Guide on what to do next](images/2021/10/AllyIO-03.png)
 
 ## Starting with objectives
 
 The aim is to get started with your objectives at an organisation level, aligning those to your company purpose. A big obvious button called New Objective guides the new user on how to get going. A slide out panel on the right gives an obvious set of properties to fill out.
 
-![Adding an objective](images/2021/10/10/AllyIO-04.png)
+![Adding an objective](images/2021/10/AllyIO-04.png)
 
 Some people may be unsure about the sort of objectives to get started with so there is a set of sample objectives to give you a nudge on the sort of thing to add. These are grouped together into different types of objectives for different departments.
 
-![Sample objectives](images/2021/10/10/AllyIO-05.png)
+![Sample objectives](images/2021/10/AllyIO-05.png)
 
 The magic then starts when you can add more linked to this objective:
 
@@ -50,17 +50,17 @@ The magic then starts when you can add more linked to this objective:
 
 The key results add the focus of having real measures to align to your objectives. These can be set manually or linked up to other systems such as Azure Dev Ops, Excel Online, Github, Jira and many more. This links up your goal to the systems that you use, to the systems where the work you are doing takes place.
 
-![Key results as manual or from a system](images/2021/10/10/AllyIO-07.png)
+![Key results as manual or from a system](images/2021/10/AllyIO-07.png)
 
 ## Where does the Microsoft bit come in?
 
 OK, you may be looking and wondering why Microsoft decided to bring this in. Ally.IO actually already has some integration and not just with the Key results mentioned above. It can bring your OKRs and your organisations OKRs into your flow of work, right there in Microsoft Teams (or Slack or Discord or a few others).
 
-![Integrations](images/2021/10/10/AllyIO-08.png)
+![Integrations](images/2021/10/AllyIO-08.png)
 
 For Teams, the integration brings an app that can be pinned like other Teams Apps and shows you the OKRs for you and for the org. These tabs can be added to your own teams as well as the main app so you could even have your department's objectives aligned with your department team.
 
-![Integrations](images/2021/10/10/AllyIO-09.png)
+![Integrations](images/2021/10/AllyIO-09.png)
 
 Not only that but you can also chat to the bot if you want to...well...it just seems to link to the OKRs at the moment but hopefully this will expand!
 
