@@ -12,8 +12,8 @@ seo:
   extra: []
 layout: post
 subtitle: 'Introducing my role as Viva Transformer in the Viva Explorers'
-content_img_path: images/2022/04/NeonTargets.jpg
-thumb_img_path: images/2022/04/NeonTargets.jpg
+content_img_path: images/2022/04/BumbleBee.jpg
+thumb_img_path: images/2022/04/BumbleBee.jpg
 ---
 “In 2022, a crack community unit was sent to Microsoft for some contracts that they couldn’t commit. These people promptly got together, not escaping from Teams, to explore the world of Microsoft Viva. Today, still wanted by the community they serve, they survive as collaborators of fortune. If you have an employee experience problem, if no-one else can help and, wherever you can find them…maybe you can hear from the Viva Explorers.”
 
