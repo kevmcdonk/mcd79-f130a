@@ -11,7 +11,7 @@ seo:
   robots: []
   extra: []
 layout: post
-subtitle: 'My thoughts and feeling from an incredible Microsoft Teams conference '
+subtitle: 'Aligning your organisational goals with your employees own'
 content_img_path: images/2021/10/NeonTargets.jpg
 thumb_img_path: images/2021/10/NeonTargets.jpg
 ---
