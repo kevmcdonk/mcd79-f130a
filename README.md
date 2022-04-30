@@ -41,8 +41,6 @@ You can [create a site](https://app.stackbit.com/create?theme=https://github.com
 
         npm install
 
-
-
 1. Start the Next.js local development server:
 
         npm run develop

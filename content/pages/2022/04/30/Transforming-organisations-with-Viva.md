@@ -1,3 +1,20 @@
+---
+title: 'Transforming organisations with Viva'
+date: '2022-04-30'
+thumb_img_alt: Yellow car
+excerpt: >-
+  “In 2022, a crack community unit was sent to Microsoft for some contracts that they couldn’t commit. These people promptly got together, not escaping from Teams, to explore the world of Microsoft Viva. Today, still wanted by the community they serve, they survive as collaborators of fortune. If you have an employee experience problem, if no-one else can help and, wherever you can find them…maybe you can hear from the Viva Explorers.”
+hide_header: false
+seo:
+  title: 'Transforming organisations with Viva'
+  description: '“In 2022, a crack community unit was sent to Microsoft for some contracts that they couldn’t commit. These people promptly got together, not escaping from Teams, to explore the world of Microsoft Viva. Today, still wanted by the community they serve, they survive as collaborators of fortune. If you have an employee experience problem, if no-one else can help and, wherever you can find them…maybe you can hear from the Viva Explorers.”'
+  robots: []
+  extra: []
+layout: post
+subtitle: 'Introducing my role as Viva Transformer in the Viva Explorers'
+content_img_path: images/2022/04/NeonTargets.jpg
+thumb_img_path: images/2022/04/NeonTargets.jpg
+---
 “In 2022, a crack community unit was sent to Microsoft for some contracts that they couldn’t commit. These people promptly got together, not escaping from Teams, to explore the world of Microsoft Viva. Today, still wanted by the community they serve, they survive as collaborators of fortune. If you have an employee experience problem, if no-one else can help and, wherever you can find them…maybe you can hear from the Viva Explorers.”
 
 Thanks to the great mind of Lesley Crooks (and with apologies to the A-Team), a group of community minded people has come together to help you understand the world of Microsoft Viva. You can read the tale on the [Tech Community blog](https://techcommunity.microsoft.com/t5/microsoft-teams-community-blog/join-vivaexplorers-in-an-empathic-hybrid-workplace/ba-p/3280353) but this post is about the part that I play - the Viva Transformer.
@@ -13,7 +30,7 @@ If you already have an annual staff survey or are taking pulse surveys with a to
 
 One way to consider these is to construct these into areas around the employee lifecycle. The lifecycle starts as soon as someone starts looking at a company, moves through hiring and the all important onboarding. It considers how you engage people with the organisation and each other, putting in place all that people need to perform and allow them to grow within the organisation. Finally, there will always be a point where people depart and considers how you ensure a good farewell that leaves a lasting impression to pass on to others or to encourage a return one day.
 
-![Employee Lifecycle](/images/2022/04/10477FF7-A8E0-4A0B-80E0-51332E8BAF9C.jpeg)
+![Employee Lifecycle](/images/2022/04/EmployeeLifecycle.jpeg)
 
 ## What do you implement?
 
@@ -42,3 +59,5 @@ It’s not just insights though, there is also [Ally.IO](https://ally.io) (which
 
 There is so much more to talk about with transforming the employee experience with Viva and I’m looking forward to being able to share that with you as part of the Viva Explorers. Between us, we cover so many different perspectives, from the technical to the cultural, the why you should to the what you should to the how you could. We will be sharing but also listening to your journeys and helping to feedback to Microsoft along the way.
 Why do I do this? I want this focus on employees at the centre to benefit as organisations as possible and therefore help as many people as possible. Making change happen the right way is what makes transformations happen and stick which is where the true magic happen. Look out for more coming from the Viva Explorers soon...
+
+Photo by [Martin Zdrazil](https://unsplash.com/es/@martyman_55) on Unsplash
