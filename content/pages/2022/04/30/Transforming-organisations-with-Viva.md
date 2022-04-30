@@ -13,7 +13,7 @@ If you already have an annual staff survey or are taking pulse surveys with a to
 
 One way to consider these is to construct these into areas around the employee lifecycle. The lifecycle starts as soon as someone starts looking at a company, moves through hiring and the all important onboarding. It considers how you engage people with the organisation and each other, putting in place all that people need to perform and allow them to grow within the organisation. Finally, there will always be a point where people depart and considers how you ensure a good farewell that leaves a lasting impression to pass on to others or to encourage a return one day.
 
-![Employee Lifecycle](/images/2022/04/EmployeeLifecycle.jpg)
+![Employee Lifecycle](/images/2022/04/10477FF7-A8E0-4A0B-80E0-51332E8BAF9C.jpeg)
 
 ## What do you implement?
 
