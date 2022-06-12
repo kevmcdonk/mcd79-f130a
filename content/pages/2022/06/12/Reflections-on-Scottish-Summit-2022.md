@@ -1,13 +1,13 @@
 ---
 title: 'Reflections on Scottish Summit 2022'
 date: '2022-06-12'
-thumb_img_alt: 'Connell McGinley giving the keynote session at Scottish Summit 2022 saying we rise by uplifting others
+thumb_img_alt: 'Connell McGinley giving the keynote session at Scottish Summit 2022 saying we rise by uplifting others'
 excerpt: >-
-  Beautiful city, great speakers, all the Microsoft content, plenty of drinks - that is the way to spend a couple of days. At the start of June, I was one of the over one thousand people who attended the Scottish Summit in Glasgow, a Microsoft Community event that has been running for several years now but was the first year back in person since the start of the pandemic. Here's a few of my thoughts as I head back home.
+  Beautiful city, great speakers, all the Microsoft content, plenty of drinks - that is the way to spend a couple of days. At the start of June, I was one of the over one thousand people who attended the Scottish Summit in Glasgow, a Microsoft Community event that has been running for several years now but was the first year back in person since the start of the pandemic. Here are a few of my thoughts as I head back home.
 hide_header: false
 seo:
   title: 'Reflections on Scottish Summit 2022'
-  description: 'Beautiful city, great speakers, all the Microsoft content, plenty of drinks - that is the way to spend a couple of days. At the start of June, I was one of the over one thousand people who attended the Scottish Summit in Glasgow, a Microsoft Community event that has been running for several years now but was the first year back in person since the start of the pandemic. Here's a few of my thoughts as I head back home.'
+  description: 'Beautiful city, great speakers, all the Microsoft content, plenty of drinks - that is the way to spend a couple of days. At the start of June, I was one of the over one thousand people who attended the Scottish Summit in Glasgow, a Microsoft Community event that has been running for several years now but was the first year back in person since the start of the pandemic. Here are a few of my thoughts as I head back home.'
   robots: []
   extra: []
 layout: post
@@ -15,7 +15,7 @@ subtitle: 'Why it is about more than just tech'
 content_img_path: images/2022/06/ScottishSummitKeynote.jpg
 thumb_img_path: images/2022/04/ScottishSummitKeynote.jpg
 ---
-Beautiful city, great speakers, all the Microsoft content, plenty of drinks - that is the way to spend a couple of days. At the start of June, I was one of the over one thousand people who attended the Scottish Summit in Glasgow, a Microsoft Community event that has been running for several years now but was the first year back in person since the start of the pandemic. Here's a few of my thoughts as I head back home.
+Beautiful city, great speakers, all the Microsoft content, plenty of drinks - that is the way to spend a couple of days. At the start of June, I was one of the over one thousand people who attended the Scottish Summit in Glasgow, a Microsoft Community event that has been running for several years now but was the first year back in person since the start of the pandemic. Here are a few of my thoughts as I head back home.
 
 ## The importance of accessibility for all
 

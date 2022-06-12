@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mcd79.com</id>
     <title>Mcd79</title>
-    <updated>2021-07-18T18:08:49.166Z</updated>
+    <updated>2022-06-12T11:10:58.183Z</updated>
     <generator>Next.js using Feed for Node.js</generator>
     <author>
         <name>Kevin McDonnell</name>
@@ -13,7 +13,7 @@
     <subtitle>a Modern Workplace with Microsoft 365 blog by Kevin McDonnell</subtitle>
     <logo>https://www.mcd79.com/{config.header.logo_img}</logo>
     <icon>https://www.mcd79.com/favicon.ico</icon>
-    <rights>All rights reserved 2021, Kevin McDonnell</rights>
+    <rights>All rights reserved 2022, Kevin McDonnell</rights>
     <entry>
         <title type="html"><![CDATA[Hosting a Ghost publishing blog on AWS using a custom Office UI Fabric theme]]></title>
         <id>https://www.mcd79.com/undefined</id>
@@ -4705,41 +4705,197 @@ foreach($listCT in $listCTs.value) {
 <p>Photo courtesy of <a href="https://unsplash.com/@markuswinkler">Markus Winkler</a> via <a href="https://unsplash.com">Unsplash</a></p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Licensing considerations for SharePoint Syntex and Viva Topics]]></title>
+        <title type="html"><![CDATA[Commsverse lookback ]]></title>
         <id>https://www.mcd79.com/undefined</id>
         <link href="https://www.mcd79.com/undefined"/>
-        <updated>2021-12-07T10:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p>Three days into the announcements about Microsoft Viva and I have decided that it is time to tackle licensing. Yes, yes I am bonkers. The reason that I am having this discussion is that I want people to make an informed decision and balance the cost with the value while understanding how many licenses they may actually need.</p>
+        <updated>2021-09-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>On 15th and 16th September, I spoke at my first in-person conferin almost two years and it was so incredible to be back with real people. The organising team have been through so many rollercoasters with this conference so seeing everything come together was so so heart warming. Here are my key takeaways from the event.</p>
 
-<p>From some discussions I have had, many people are switching off listening about the power of <a href="https://www.mcd79.com/2021/02/06/Knowledge-Management-Series-Introduction-to-Viva-Topics.html">Viva Topics</a> and <a href="https://www.mcd79.com/2020/09/26/Knowledge-Management-Series-Introduction-to-SharePoint-Syntex.html">SharePoint Syntex</a> when they hear that it requires a separate license. Some people may think that you need to pay this for everyone in the organisation and I will admit that an extra $10 approx per month per user for every single person in a multinational organisation would be quite a hit. So in this post, I will talk about the licensing required, who needs to have that licensing and how you could arrange things.</p>
+<h2>It is all about the people</h2>
 
-<h2>How are SharePoint Syntex and Viva Topics licensed?</h2>
+<p>I know quite how much Mark, Randy, Martin and Phillips have put into this event but if you were there and didn’t know, Mark welling up during the opening speech would have told you all you need to know. Most importantly, it was worth it. The beaming smiles and looks of awe as people took the escalator up to registration while looking down over generations of Mercedes was a sight to behold. People were enthusiastically chatting the sponsors and each other, having been starved of interaction for the last 18 months. Naturally there were still some folks who were hesitant but the goodwill kept everyone going.</p>
 
-<p>Both SharePoint Syntex and Viva Topics are licensed as add-ons so it does not matter whether you have E1, E3, E5, Business Premium etc, you will still need to pay for that add-on. Currently, they are $5 per user per month for each (or £3.80 for those in the UK). Once purchased, they must be assigned to each user. But which users require a license?</p>
+<p>What was clear from when I arrived the night before at the speakers event was that people were just so happy to be interacting with real people. They had depth and not just a 2D screen! I will admit that I was a little nervous that people I had only met online would not be always as engaging in real life but I was completely wrong. Everyone was friendly, open and embracing and it really showed what a strong community it is.</p>
 
-<p><a href="/images/2021/02/Licensing.jpg">Licensing add-ons</a></p>
+<p>It also showed why we do things like this. Sharing to others and seeing that interest is what keeps us all going. To all the attendees, a heartfelt thank you.</p>
 
-<h4>Who needs to see Topics?</h4>
+<h2>Hybrid can work</h2>
 
-<p>For the Topics Experience, it is a fairly simple conversation. Anyone who requires to manage or even view Topics, either from the Topic Centre or as the Topics roll out wider within Microsoft 365, will require a license. To get the benefits of the shared knowledge across the organisation, it will mean an additional cost for each user. What happens if a license is removed?</p>
+<p>One of the most interesting aspects for me though was how well the hybrid aspect worked. There were some technical difficulties that were soon ironed out but I attended several talks where the presenter was remote. It didn&#39;t feel too different to the in-person sessions and you could tell that the presenter could see people there. It meant that we had a much broader range of speakers, especially those internationally based who could still present.</p>
 
-<p><a href="/images/2021/02/Topic Centre No License.jpg">Topic Centre if user has no license</a></p>
+<p>It is worth saying that it was better when the presenter was there in person and you could get the better connection with them or ask a quick question afterwards. However, the options are there for remote presenting and attending and I like the fact that people have choice. That can only be a good thing in this case.</p>
 
-<p>So you can give access to the Topic Centre site but if no license is assigned then the user will just see a blank page.</p>
+<h2>Viva is definitely a hot topic</h2>
 
-<h4>Who needs licensing for Syntex?</h4>
+<p>While many of these session titles were decided in the days just after Viva was announced, it was intriguing how many of the sessions referenced Viva even where it wasn&#39;t the main subject. It shouldn&#39;t have been a big surprise but it was still good to see the interest among the presenters and the good audience for the dedicated Viva sessions shows that there is definitely interest from attendees to know more.</p>
 
-<p>AI Builder licenses - </p>
+<p>On the flip side, there weren&#39;t that many vendor offerings that went big with the Viva branding but I suspect that it is still early days for that. The LMS apps on show generally hadn&#39;t defined their Viva Learning plans and the Contact Centres aren&#39;t yet talking Viva Topics. It was a Teams focused conference so there was more about the hardware on show but it will be interesting to see how this plays out at other events.</p>
 
-<p>AI Builder credits
-If you have 300 or more SharePoint Syntex licenses for SharePoint Syntex in your organization, you will be allocated one million AI Builder credits. If you have fewer than 300 licenses, you must purchase AI Builder credits in order to use forms processing.</p>
+<p>Talking of hardware...</p>
 
-<p>You can estimate the AI Builder capacity that’s right for you with the AI Builder calculator.</p>
+<h2>There&#39;s some pretty cool devices out there</h2>
 
-<p>Go to the Power Platform admin center to check your credits and usage.</p>
+<p>One thing that I was particularly interested in seeing was the new devices on show. While a blog post or video is nice, being able to see the actual things and be able to glance around makes a big difference and I wasn&#39;t disappointed. The new Bose UC headphones were simply gorgeous and did make me want to drop my QC35s a few times to give me an excuse. The Polycom solutions that would work for home office were very interesting and I can see a future in the lower end home devices to go along with the even more impressive Teams Room devices. I shouldn&#39;t forget to mention some of the Jabra headsets either with the Evolve 2 catching my attention with it&#39;s foldaway boom mic.</p>
 
-<p>https://docs.microsoft.com/en-us/microsoft-365/contentunderstanding/set-up-content-understanding#ai-builder-credits</p>
+<p>It was the cleverer devices that stole the show with AI powered cameras that could isolate each individual in a Teams meeting to give that real hybrid feel. Also the HoloLens2 and Magic Leap that Simply Videos had on display for having augmented reality meetings gave me food for thought. At one point, I saw one of their reps walking around with a headset and giving a commentary on the F1 cars at Mercedes Benz World - peak Commsverse!</p>
 
-<p>Photo courtesy of <a href="https://unsplash.com/@micheile">Micheile Henderson</a> via <a href="https://unsplash.com">Unsplash</a></p>]]></content>
+<h2>Governance and reporting are still important</h2>
+
+<p>A surprise I had was how popular the sessions on governance and reporting were. These are really important for Microsoft Teams but it was telling to see the number of people attending the sessions. For me, this shows that the quick move to Teams now needs to be followed up with better governance to keep things working well and not just letting the sprawl happen.</p>
+
+<h2>Thank you to all the organising team</h2>
+
+<p>Finally, I can&#39;t finish without saying a massive thanks to Mark Vale, Martin Boam, Randy Chapman and Phillipa Digby for the incredible event that they put on. The heart that they put into things to make sure there was great food, brilliant swag, engaging speakers, intriguing sponsors and just the best venue showed their passion for the community. Without people like those four, we would not be able to have anywhere near the fun and interest we have.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ally.IO - the next Viva pillar]]></title>
+        <id>https://www.mcd79.com/undefined</id>
+        <link href="https://www.mcd79.com/undefined"/>
+        <updated>2021-10-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>A few days ago, <a href="https://blogs.microsoft.com/blog/2021/10/07/microsoft-acquires-ally-io-to-improve-employee-experience-by-aligning-peoples-work-with-team-goals-and-company-mission/">Microsoft announced</a> that they were acquiring Ally.IO, an OKR company. Now Microsoft has made quite a few acquisitions over the years but what was interesting about this one was that it announced as the service that would power the next Viva module. It had been heavily hinted that the first four pillars (Connections, Topics, Insights and Learning) would not be the last ones and here it is, the focus for the next release.</p>
+
+<p>Ally.IO focuses on OKRs or Objective and Key Results which are ways to track the aims of an organisation from the top and connect those to the objectives of the employees. It fits with Microsoft Viva as employees feel more engaged when they understand their purpose within an organisation, understand what they need to do to help an organisation succeed. Ally.IO supports this by making clear that alignment from top to bottom and also help make it clear what employees need to do to succeed themselves. Purpose and empowerment are two of Glint&#39;s <a href="https://www.glintinc.com/blog/the-elements-of-people-success/">elements of people success</a> and helps to form the full Employee Experience Platform from Microsoft.</p>
+
+<p>In this blog, I&#39;ll run through my initial experiences with the trial that you can set up from the <a href="https://ally.io/">Ally.IO site</a>. If you would like more info on what OKRs are and how they fit in the world of Performance Management, Josh Bersin has a great post about it on his <a href="https://joshbersin.com/2021/10/microsoft-doubles-down-on-viva-employee-goals-with-ally-acquisition/">blog site</a>.</p>
+
+<h2>Getting started</h2>
+
+<p>The place to get started is by signing up for a trial on the <a href="https://ally.io/">Ally.IO site</a>. At the time of writing, you can get a 14 day trial from the main site ahead of the full pricing of $7 per user per month.</p>
+
+<p><img alt="Set up a trial" src="/images/2021/10/AllyIO-01.png"/></p>
+
+<p>Once set up, having validated your email, you are guided to follow a tour for setting up things from the start. The platform is easy to use and easy to understand from the off. As well as the tour, you are given recommended next steps to get moving, including how to build your objectives.</p>
+
+<p><img alt="Getting started" src="/images/2021/10/AllyIO-02.png"/><img alt="Guide on what to do next" src="/images/2021/10/AllyIO-03.png"/></p>
+
+<h2>Starting with objectives</h2>
+
+<p>The aim is to get started with your objectives at an organisation level, aligning those to your company purpose. A big obvious button called New Objective guides the new user on how to get going. A slide out panel on the right gives an obvious set of properties to fill out.</p>
+
+<p><img alt="Adding an objective" src="/images/2021/10/AllyIO-04.png"/></p>
+
+<p>Some people may be unsure about the sort of objectives to get started with so there is a set of sample objectives to give you a nudge on the sort of thing to add. These are grouped together into different types of objectives for different departments.</p>
+
+<p><img alt="Sample objectives" src="/images/2021/10/AllyIO-05.png"/></p>
+
+<p>The magic then starts when you can add more linked to this objective:</p>
+
+<ul><li>Parent objective</li><li>Child objectives</li><li>Key results</li><li>Projects</li></ul>
+
+<p>The key results add the focus of having real measures to align to your objectives. These can be set manually or linked up to other systems such as Azure Dev Ops, Excel Online, Github, Jira and many more. This links up your goal to the systems that you use, to the systems where the work you are doing takes place.</p>
+
+<p><img alt="Key results as manual or from a system" src="/images/2021/10/AllyIO-07.png"/></p>
+
+<h2>Where does the Microsoft bit come in?</h2>
+
+<p>OK, you may be looking and wondering why Microsoft decided to bring this in. Ally.IO actually already has some integration and not just with the Key results mentioned above. It can bring your OKRs and your organisations OKRs into your flow of work, right there in Microsoft Teams (or Slack or Discord or a few others).</p>
+
+<p><img alt="Integrations" src="/images/2021/10/AllyIO-08.png"/></p>
+
+<p>For Teams, the integration brings an app that can be pinned like other Teams Apps and shows you the OKRs for you and for the org. These tabs can be added to your own teams as well as the main app so you could even have your department&#39;s objectives aligned with your department team.</p>
+
+<p><img alt="Integrations" src="/images/2021/10/AllyIO-09.png"/></p>
+
+<p>Not only that but you can also chat to the bot if you want to...well...it just seems to link to the OKRs at the moment but hopefully this will expand!</p>
+
+<h2>My thoughts</h2>
+
+<p>These are my thoughts after a few hours of playing around with the trial so these opinions may change. I have tried using OKRs with my team at previous organisations but never had the tools in place to make it happen. The magic here is that alignment from top to bottom and to have it data driven as well. Connecting in with your different systems to be metric driven for your objectives and to make it easier to get those as consistent results.</p>
+
+<p>Bringing in a system to track these makes it far more likely that people will engage on a regular basis. This isn&#39;t about that forgotten set of notes that is only reviewed once a year at a rushed appraisal, this is about regular updates linked to what you do on a day to day basis. This will connect up to the wider purpose of an organisation and connect those together from top to bottom.</p>
+
+<p>If I had a small grumble, the cost of $7 per user for a system that could only be used on an occasional basis and so may scare some off, especially for larger scales. Hopefully a better link up with the other Viva licenses if it comes will improves this.</p>
+
+<p>The platform is simple to use and already works in Teams so will align well with the other Viva pillars. There are also key integrations with other services, both Microsoft and third party ones, once again like the other Viva pllars. It fills a gap in the EXP and so should be seen as another great enhancement for organisations.</p>
+
+<p>Photo by <a href="https://unsplash.com/@brady_bellini?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Brady Bellini</a> on <a href="https://unsplash.com">Unsplash</a>.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transforming organisations with Viva]]></title>
+        <id>https://www.mcd79.com/undefined</id>
+        <link href="https://www.mcd79.com/undefined"/>
+        <updated>2022-04-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>“In 2022, a crack community unit was sent to Microsoft for some contracts that they couldn’t commit. These people promptly got together, not escaping from Teams, to explore the world of Microsoft Viva. Today, still wanted by the community they serve, they survive as collaborators of fortune. If you have an employee experience problem, if no-one else can help and, wherever you can find them…maybe you can hear from the Viva Explorers.”</p>
+
+<p>Thanks to the great mind of Lesley Crook (and with apologies to the A-Team), a group of community minded people has come together to help you understand the world of Microsoft Viva. You can read the tale on the <a href="https://techcommunity.microsoft.com/t5/microsoft-teams-community-blog/join-vivaexplorers-in-an-empathic-hybrid-workplace/ba-p/3280353">Tech Community blog</a> but this post is about the part that I play - the Viva Transformer.</p>
+
+<p>Transformation is such a key part of any journey to new ideas and employee experience with <a href="https://www.microsoft.com/en-gb/microsoft-viva">Microsoft Viva</a> is no different. Turning on the technology is only part of the story and in this post, I will talk about some of the high level areas to consider when helping to transform the organisation with adoption and change management. In my current role as head of practice for modern workplace at CPS, we always include change and adoption plans so that we know that things will be of benefit and understood by staff. So what do you need for rolling out Viva at your organisation?</p>
+
+<h2>Start with Why</h2>
+
+<p>So you’ve decided that you are rolling out Viva. Great, good plan. Except you might have missed something. Have you worked out why? Not only that but have you backed up that reason by speaking with staff? Can you align the different areas within Viva specific challenges that have been raised by employees? This is where you need to start.</p>
+
+<p>If you already have an annual staff survey or are taking pulse surveys with a tool like <a href="https://www.glintinc.com/blog/an-employees-guide-to-glint-surveys/">Glint</a>. You may already have some insight into the challenges being faced. You may have a very vocal employee forum or be taking feedback from regular town halls. Make sure that this feedback is broad and caters for the introverts and quieter personalities in your organisation as well as the louder voices that often emerge. Take some of the key points and make sure that you drill a little deeper to make sure that you are getting to the right root of the problem.</p>
+
+<p>One way to consider these is to construct these into areas around the employee lifecycle. The lifecycle starts as soon as someone starts looking at a company, moves through hiring and the all important onboarding. It considers how you engage people with the organisation and each other, putting in place all that people need to perform and allow them to grow within the organisation. Finally, there will always be a point where people depart and considers how you ensure a good farewell that leaves a lasting impression to pass on to others or to encourage a return one day.</p>
+
+<p><img alt="Employee Lifecycle" src="/images/2022/04/EmployeeLifecycle.jpeg"/></p>
+
+<h2>What do you implement?</h2>
+
+<p>When it comes to implementations for the Employee Experience, much depends on what you are implementing. The Viva Explorers will be sharing plenty on how to implement Viva with the technical details so in this post I’m going to consider more what you need to transform. If you are have followed the whys above, you have a great backlog of items but what do you do first? What is the priority?</p>
+
+<p>To establish these, the first thing to set up is an Employee Experience Working Group. These will have a group of key stakeholders that can drive change from the top along with key implementers which can make that change happen. There are many ways to implement these that I will go into in future blog posts but some of the key elements are:</p>
+
+<pre><code>• Transparent views for the whole organisation around what is being done
+• Mechanisms for feedback to be taken and addressed
+• Agreement on how priorities are determined
+• Clear guidance on current priorities</code></pre>
+
+<p>There will often be a lot of different areas that need addressing at once but either not enough budget or not enough time to address all at once. Clearly tracking and agreeing the priorities helps employees understand what is coming and can also help to manage the amount of change in one go. It provides a consistent message to employees and helps deliver to completion.</p>
+
+<h2>How do you know you have succeeded?</h2>
+
+<p>Implementing initiatives to improve the employee experience is great but only if they succeed in improving the experience. Having clear criteria for success and KPIs to measure how close to that enables clear and transparent goals that all can see. These will keep all involved but also help to keep the organisation focused on delivering those goals.plus, the great news is that Viva has ways to help you with this.</p>
+
+<p>Through <a href="https://docs.microsoft.com/en-us/viva/insights/introduction">Viva Insights</a>, you can look at evidence based measures to support your initiatives. Looking to reduce burnout for staff? Look at hours spent outside of core hours or percentage of back to back meetings. Looking to increase cross departmental engagement to support innovation? Measure the connections taking place in Teams and Outlook through meetings, calls, chats and emails. Don’t like the pre-canned reports? No problems, build your own. Want to integrate absence data? No problems, build out reports with Power BI.</p>
+
+<p>Viva Insights gives your leaders and managers the support needed to understand their employees and what is influencing them. It also supports those insights with recommendations on what can be done to improve that as well with links to key reports and more articles in the inspiration library.</p>
+
+<p>It’s not just insights though, there is also <a href="https://ally.io">Ally.IO</a> (which will hopefully have a Viva name soon!) that helps to give data driven objectives for OKRs (Objective Key Results). These help people understand their purpose for the organisation as it aligns objectives from top to bottom but it also supports them with real data. It allows people to hook their Key Results as metrics with databases and  tables providing the actual data to support the OKRs and the continuous feedback reviews.</p>
+
+<h2>Summary</h2>
+
+<p>There is so much more to talk about with transforming the employee experience with Viva and I’m looking forward to being able to share that with you as part of the Viva Explorers. Between us, we cover so many different perspectives, from the technical to the cultural, the why you should to the what you should to the how you could. We will be sharing but also listening to your journeys and helping to feedback to Microsoft along the way.
+Why do I do this? I want this focus on employees at the centre to benefit as organisations as possible and therefore help as many people as possible. Making change happen the right way is what makes transformations happen and stick which is where the true magic happen. Look out for more coming from the Viva Explorers soon...</p>
+
+<p>Photo by <a href="https://unsplash.com/es/@martyman_55">Martin Zdrazil</a> on Unsplash</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reflections on Scottish Summit 2022]]></title>
+        <id>https://www.mcd79.com/undefined</id>
+        <link href="https://www.mcd79.com/undefined"/>
+        <updated>2022-06-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>Beautiful city, great speakers, all the Microsoft content, plenty of drinks - that is the way to spend a couple of days. At the start of June, I was one of the over one thousand people who attended the Scottish Summit in Glasgow, a Microsoft Community event that has been running for several years now but was the first year back in person since the start of the pandemic. Here are a few of my thoughts as I head back home.</p>
+
+<h2>The importance of accessibility for all</h2>
+
+<p>It is always important as you come away from an event like the <a href="https://www.scottishsummit.com">Scottish Summit</a> to reflect and work out what it will mean to you afterwards, what you have taken away from it. The biggest thing for me was easy - the importance of accessibility and making life easier for everyone, not just must people. The opening keynote was one of the most special I have ever seen as <a href="https://twitter.com/cmcginley">Connell McGinley</a> spoke of his story as a deaf person in IT. The things that we take for granted like making a call or knowing when you are being asked a question suddenly become very different. One point that hit home is the ease at which we can accidentally exclude people - Connell was chosen as the person who sat in the data centre early in his career as the noise of the fan was thought to not affect him. It is these sort of exclusions and assumptions that we should all challenge in our selves.</p>
+
+<p>The fact that Connell can now be so involved in IT is a huge win for the power of technology tools now as Microsoft Teams and captioning helps to make it more seamless for all to be involved. Small changes to our habits, enabled by the tech that we use can make a much bigger difference for others and is something we should all try. The applause for the session was lead by <a href="https://twitter.com/donaSarkar">Dona Sarkar</a> who asked us all to use the British Sign Language applause with our hands raised in the air and twisted, almost jazz hands style. The site of the crowd with their hands up was just beautiful and the number of people that continued to do that during the two days of the summit was inspiring.</p>
+
+<p>The accessibility theme continued through the rest of the conference with many sessions having sign language interpreters to make them available to all. There was plenty of tech sessions too, covering Power Platform, Microsoft 365, Dynamics and Azure. However, it was the non-tech sessions that I really took a lot away from, especially the panel sessions organised by Microsoft up on the 9th floor. The mental health session was incredibly open and the panellists shared some truly horrific stories of how they have been treated and the journeys they have been through. It was so helpful to not only remind me of things to do but to also learn more about the right and wrong things to do. I took away the most important things were to speak to people with mental health struggles, not to make assumptions about how they want to be treated and to try not to make statements that could be a trigger. <a href="https://twitter.com/AzureRory">Rory Neary</a> also gave a fantastic session on his own mental health challenges and his own reminders not to blame the trigger itself. Looking forward to continue the discussion on mental health as Rory joins <a href="https://www.twitter.com">CPS</a> and sharing with others the tools and techniques that Dona Sarkar talked about in <a href="https://youtu.be/uewTShNre7k">her closing keynote</a> on how to discuss mental health at work.</p>
+
+<h2>Talks and talking</h2>
+
+<p>For the tech sessions, I will be honest that I missed many of the ones that I had intended to see. Why? Because I was chatting with people too much! Chatting about Viva, chatting about licensing (yes really) and an awful lot of chatting about life. People often talk about finding your tribe and that is what these events feel like. The chance to meet that virtual community that you have found in real life and find out that they are like that in real life too. It is hard to name all the people I enjoyed chatting with but I would like to mention <a href="https://twitter.com/DamoBird365">Damien Bird</a>, <a href="https://twitter.com/ZaidZaim2k">Zaid Zaim</a> and <a href="https://twitter.com/mirrortears">Kathrin Borchert</a> because I had either not met them or only briefly met them before and they were just the loveliest people. Real events open up the circle of people you meet and I truly hope that stays true with these three as well as the other awesome people I get to be with.</p>
+
+<p><img alt="Presenting with the Viva Explorers on stage at the Scottish Summit" src="ScottishSummitVivaExplorers.jpg"/></p>
+
+<p>As well as nattering and building connections, I did also have the chance to be involved in three sessions. These were all sessions that I had run with others virtually in some way but this was the first time we&#39;d tried in person. What was great was how interactive they were and how we managed to get the audience interaction running nicely with them. I am a big believer in the virtual/hybrid world and the enablement that it brings and so it&#39;s less that we should all move to in-person and more that we should look more at those things and how we can do it more in the virtual space. Being there keeps you present so looking at your meetings and sessions, think about how you can disconnect from your other distractions. Think about how you can feed those cues to the people speaking without distracting too . Think about engaging with them at the right times as well. As a coordinator, think about giving people time while also making sure they connect to it. Realise that while there may be focus on one person, there are others to look at too. As a speaker, think about how you can move around and change the focus to keep the audience interested - swap from faces to presentations to other screens. It was great to be able to stand in front of others and I look forward to doing more but I also want to take that learning to use virtually too.</p>
+
+<p>Learning from how others speak as well was important. The different styles and seeing how the audience responded to those different styles. People rarely leave on their camera when watching virtual events but you can see the reactions and what engages people far more in person. My simplified views often take over in my head and think that all talks need to be exciting and energetic throughout but watching how others pace their sessions, bring in points to think about alongside sharing specific things, change up and down the sort of things that are being shown. All of these really help with how I can become a better speaker and a better consultant as well.</p>
+
+<p>As the recordings of some of these sessions become available, I will update this post with links.</p>
+
+<h2>The informal fun (as opposed to the formal fun)</h2>
+
+<p>I can&#39;t not mention the socialising. I feel like we may have helped fund Brewdog in Glasgow for the rest of the summer with the amount we were there but it was amazing to have big groups that you could just float about and chat to familiar faces. People are so friendly and welcoming at these events and open to new faces. I wrote previously about how hard it can be when you see familiar faces but the groups at these events are incredible so get chatting with them, make those connections and you never know where it will take you. The stories I heard over the last few days of new roles happening because of people knowing each other and building those relationships are a great way to justify the fun that you get to have to the poor family who are left behind as we travel to these events. I would like to say a big thank you to my wife and mother-in-law because I could not do things like this without their backing.</p>
+
+<p><img alt="One of the many visits to Brewdog - large group of people outside the Brewdog bar in Glasgow" src="ScottishSummitSocialising.jpg"/></p>
+
+<p>Back on the socialising, it seems a suitable point to end on a celebration. The highlight of many of these events has become the infamous pub quiz run by the legendary <a href="https://twitter.com/andrewbibby">Andrew Bibby</a>, <a href="https://twitter.com/tassyja">Tricia Sinclair</a> and <a href="https://twitter.com/KeeganMumInTech">Keegan Stanton</a> and under the supreme leadership of <a href="https://twitter.com/SharePoint_Zoe">Zoe Wilson</a>, our team (Haggis and Chips) were champions! Not a bad way to round off a tiring but rewarding, inspiring and fun few days in Scotland.</p>
+
+<p><img alt="Group shot of the Haggis and Chips team with the trophy for winning the charity pub quiz at Scottish Summit" src="ScottishSummitQuizWinners.jpg"/></p>]]></content>
     </entry>
 </feed>
