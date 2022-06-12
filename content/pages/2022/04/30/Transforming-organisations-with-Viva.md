@@ -21,7 +21,6 @@ Thanks to the great mind of Lesley Crook (and with apologies to the A-Team), a g
 
 Transformation is such a key part of any journey to new ideas and employee experience with [Microsoft Viva](https://www.microsoft.com/en-gb/microsoft-viva) is no different. Turning on the technology is only part of the story and in this post, I will talk about some of the high level areas to consider when helping to transform the organisation with adoption and change management. In my current role as head of practice for modern workplace at CPS, we always include change and adoption plans so that we know that things will be of benefit and understood by staff. So what do you need for rolling out Viva at your organisation?
 
-
 ## Start with Why
 
 So you’ve decided that you are rolling out Viva. Great, good plan. Except you might have missed something. Have you worked out why? Not only that but have you backed up that reason by speaking with staff? Can you align the different areas within Viva specific challenges that have been raised by employees? This is where you need to start.
