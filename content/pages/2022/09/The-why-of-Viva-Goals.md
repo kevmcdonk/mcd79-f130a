@@ -18,28 +18,28 @@ thumb_img_path: images/2022/09/AlignedTransparent.jpg
 
 With the general availability of Viva Goals at the start of August 2022, many people have been wondering what the benefits are. The honest answer is that the majority are to do with the OKR (Objective Key Result) framework that Viva Goals helps organisations to implement it but the tools are just part of the equation. This blog post looks into some of the challenges that OKRs along with Viva Goals look to address. Future posts will look into:
 
-	- The what of Viva Goals - covering what OKRs are and how Viva Goals supports these across your organisation
-	- The how of Viva Goals - how you can set up Viva Goals and how it can transform your organisation
+- The what of Viva Goals - covering what OKRs are and how Viva Goals supports these across your organisation
+- The how of Viva Goals - how you can set up Viva Goals and how it can transform your organisation
 
 ## The super powers of OKRs
 
 Let's start with some questions, some of which will be relevant to individuals, some to departments and some to the whole organisation.
 
-	- Do you start work on a Monday morning and wonder why you are doing what you do?
-	- Are you trying to help change the direction of your organisation?
-	- Does your organisation have a clearly set strategy that the organisation understands?
-	- Do you know how aligned people are to that strategy?
-	- Are team or department siloes causing repeated work and miscommunication?
-	- Do you find yourself doing the same thing day in, day out?
-	- Are you being challenged in your role?
+- Do you start work on a Monday morning and wonder why you are doing what you do?
+- Are you trying to help change the direction of your organisation?
+- Does your organisation have a clearly set strategy that the organisation understands?
+- Do you know how aligned people are to that strategy?
+- Are team or department siloes causing repeated work and miscommunication?
+- Do you find yourself doing the same thing day in, day out?
+- Are you being challenged in your role?
 
 The super powers of OKRs can help you understand how all these can be addressed.
 
-	- Focus
-	- Alignment
-	- Tracking
-	- Transparency
-	- Stretch
+- Focus
+- Alignment
+- Tracking
+- Transparency
+- Stretch
 
 These take into account the areas that OKRs used across an organisation can help drive value but you may target different areas at different rates as well, especially for larger organisations. The more areas that you have onboard, the more alignment and focus you will have.
 
