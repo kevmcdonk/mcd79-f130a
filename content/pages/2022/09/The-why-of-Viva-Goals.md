@@ -12,8 +12,8 @@ seo:
   extra: []
 layout: post
 subtitle: 'Why you would consider implementing Viva Goals'
-content_img_path: images/2022/08/AlignedTransparent.jpg
-thumb_img_path: images/2022/06/AlignedTransparent.jpg
+content_img_path: images/2022/09/AlignedTransparent.jpg
+thumb_img_path: images/2022/09/AlignedTransparent.jpg
 ---
 
 With the general availability of Viva Goals at the start of August 2022, many people have been wondering what the benefits are. The honest answer is that the majority are to do with the OKR (Objective Key Result) framework that Viva Goals helps organisations to implement it but the tools are just part of the equation. This blog post looks into some of the challenges that OKRs along with Viva Goals look to address. Future posts will look into:
