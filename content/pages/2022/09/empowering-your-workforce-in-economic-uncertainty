@@ -26,8 +26,9 @@ Each of these aligns to different purposes within an organisation and become an 
 
 ## A new home for Viva
 The biggest new announcement came around the unification of Viva into a single app within Teams, providing a hub for the key information from across the information related to each employee and providing links to the other apps. This will address one of the big concerns of Viva where employees would be confused by the different apps all over the place.
-![VivaHome]()
- 
+
+![Viva Home](/images/2022/09/VivaHome.jpg)
+
 The single app will bring together the latest communications, goals, learning and other updates to a single place. For many, this will not replace their existing Viva Connections investments on their Intranet home page but will provide an alternative focus area for Viva.
 
 ## Connection
@@ -39,16 +40,21 @@ Microsoft Viva Connections and daily briefing email enhancements to unify the em
 Communicating is not just about Viva Connections and Microsoft knows that there are many different routes to getting information out to people. So many organisations still make use of desktop images, emails and even specific alerting applications built into each PC build. This leads to lots of different routes for communications, often rightly to allow people to prioritise, however this also leads to huge complications for Comms teams with getting different approvals and managing the messages. Now, there is Viva Amplify.
 Viva Amplify introduces the ability to create and schedule content with previews and approvals before publishing across Microsoft 365 (and shortly, going beyond with Windows 11 notifications and third party as well). The importance of the messaging can also be measured against outcomes and analytics to understand the impact as well.
 
- 
+![Viva Amplify](/images/2022/09/VivaAmplify.jpg)
+
 For connection to people, Viva will now power new experiences around the People cards across Microsoft 365. The Viva services will provide more information to employees’ networks so that they can see where common goals and knowledge can bring people together and encourage connections from across an organisation’s hierarchy.
-People in Microsoft Viva – Putting people at the center of the employee experience. - Microsoft Tech Community
-Insight
+
+[Viva Connections and briefing mail](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/microsoft-viva-connections-and-daily-briefing-email-enhancements/ba-p/3633254)
+[People in Microsoft Viva – Putting people at the center of the employee experience](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/people-in-microsoft-viva-putting-people-at-the-center-of-the/ba-p/3633223)
+[New experiences coming to Microsoft Viva Engage](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/new-experiences-coming-to-microsoft-viva-engage/ba-p/3634273)
+
+## Insight
 When organisations primarily had their employees in the office, the ability to gain insight into the feel across the organisation was easier to do. Walking around the offices and chatting with people would bring out the buzz that was taking place but with the reduction in the amount of in office work, it is harder for leaders to understand the productivity and wellbeing. From the Work Trends Report, 85% of leaders have said that they are unsure whether people are productive while 87% of employees say that they are productive wherever they are. New ways of working will require new ways of understanding outputs and going beyond just time spent at desks.
 Viva Insights and Glint already provide those Insights into both what employees are doing and what they are thinking. Looking across the personal, manager and leader perspectives, they work together to help organisations understand what is happening. However, people have been feeding back that they need that in-between level to further support managers with the understanding and ongoing trends within their areas.
 Viva Pulse brings research driven questions for managers and team leads to ask their teams confidentially how they are feeling. Whether it is a regular question or a more time-based, work-related survey such as after an intense period, Viva Pulse will allow the managers to take that pulse of the team and focus on initiatives around the key feedback. 
 As more details are release, hopefully a clearer relationship between Pulse and Glint will be established but for now, the intention appears to be Glint for the whole organisation and Pulse for teams.
 
-![]()
+![Viva Pulse](/images/2022/09/VivaPulse.jpg)
 
 ## Purpose
 How productive are you feeling today? One of the outputs of the work trends report was that while 87% of employees believe they are productive at work, just 12% of leaders have full confidence that their employees are being productive. Naturally, this is a perception rather than a measure, but this perception helps to feed the Productivity Paranoia for employees, that feeling that they there is a disconnect between what is expected of them and what they are delivering. As an employee experience goes, this is a very impactful perception and is only like to reduce the productivity.
@@ -59,7 +65,7 @@ To support this, Microsoft is adding deeper integrations for Viva Goals to the r
 The opportunity to grow as well as perform well is a key driver to employees to remain at an organisation. 56% of employees and 68% of business decision makers say that there are not enough growth opportunities to make them want to stay long term and 55% believe that the best way to expand on their skills is to change companies. Much has already been written about The Great Resignation and that includes plenty of estimates of the cost of replacing staff and impacts to productivity so putting in place measures to reduce this likelihood is a cost-effective mechanism.
 Viva Learning has been delivering some of that growth through learning in the flow of work since it’s release around a year ago and continues to be enhanced. There will be deeper integrations into LinkedIn Learning including a LinkedIn Learning Hub and curated learning paths right within Teams.
 Empowering employees with the knowledge they need to grow is also important and also announced was Answers in Viva which will act as a hub to ask and answer questions, providing the link to tacit knowledge held in employees’ heads. This will also link into Viva Topics to provide knowledge hubs that start to combine implicit and tacit knowledge to a single place and support a culture of knowledge sharing.
-Announcing Answers in Microsoft Viva - Microsoft Tech Community
+[Announcing Answers in Microsoft Viva - Microsoft Tech Community]()
 Viva Topics product updates: Answers in Viva, new topic types, and more - Microsoft Tech Community
 
 ## Summary
