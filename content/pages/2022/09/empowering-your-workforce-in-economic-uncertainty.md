@@ -27,7 +27,7 @@ Each of these aligns to different purposes within an organisation and become an 
 ## A new home for Viva
 The biggest new announcement came around the unification of Viva into a single app within Teams, providing a hub for the key information from across the information related to each employee and providing links to the other apps. This will address one of the big concerns of Viva where employees would be confused by the different apps all over the place.
 
-![Viva Home](/images/2022/09/VivaHome.jpg)
+![Viva Home](/images/2022/09/VivaHome.png)
 
 The single app will bring together the latest communications, goals, learning and other updates to a single place. For many, this will not replace their existing Viva Connections investments on their Intranet home page but will provide an alternative focus area for Viva.
 
