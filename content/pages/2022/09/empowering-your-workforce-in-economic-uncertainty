@@ -3,33 +3,34 @@ title: 'Empowering your workforce in economic uncertainty – what is coming nex
 date: '2022-09-23'
 thumb_img_alt: 'Rows of desk in an office'
 excerpt: >-
-  With the general availability of Viva Goals at the start of August 2022, many people have been wondering what the benefits are. The honest answer is that the majority are to do with the OKR (Objective Key Result) framework that Viva Goals helps organisations to implement it but the tools are just part of the equation. This blog post looks into some of the challenges that OKRs along with Viva Goals look to address.
+  On September 2022, Jared Spataro and Satya Nadella held an online event that talked about the impact to employees in these troubled times. Using the insights Microsoft gathers as anonymised productivity signals and through their 2022 work trends report, it was clear that the gap in perception of productivity between leaders and employees is large, the expectations around why to come to the office is all about the social connections and now is the time to re-energise your teams through re-recruitment.
 hide_header: false
 seo:
-  title: 'The why of Viva Goals'
-  description: 'With the general availability of Viva Goals at the start of August 2022, many people have been wondering what the benefits are. The honest answer is that the majority are to do with the OKR (Objective Key Result) framework that Viva Goals helps organisations to implement it but the tools are just part of the equation. This blog post looks into some of the challenges that OKRs along with Viva Goals look to address.'
+  title: 'Empowering your workforce in economic uncertainty – what is coming next in the world of Microsoft Viva'
+  description: 'On September 2022, Jared Spataro and Satya Nadella held an online event that talked about the impact to employees in these troubled times. Using the insights Microsoft gathers as anonymised productivity signals and through their 2022 work trends report, it was clear that the gap in perception of productivity between leaders and employees is large, the expectations around why to come to the office is all about the social connections and now is the time to re-energise your teams through re-recruitment.'
   robots: []
   extra: []
 layout: post
-subtitle: 'Why you would consider implementing Viva Goals'
-content_img_path: images/2022/09/AlignedTransparent.jpg
-thumb_img_path: images/2022/09/AlignedTransparent.jpg
+subtitle: 'The latest employee experience updates around Microsoft Viva'
+content_img_path: images/2022/09/Desks.jpg
+thumb_img_path: images/2022/09/Desks.jpg
 ---
 
 On September 2022, Jared Spataro and Satya Nadella held an online event that talked about the impact to employees in these troubled times. Using the insights Microsoft gathers as anonymised productivity signals and through their 2022 work trends report, it was clear that the gap in perception of productivity between leaders and employees is large, the expectations around why to come to the office is all about the social connections and now is the time to re-energise your teams through re-recruitment. The event balanced the insights from the report, discussions about the impacts to organisation and announcements of the new pillars of Viva Pulse, Viva Amplify and Answers for Viva.
 With the growth of the Viva services, the understanding of what each is used for becomes more complex. To address this, Microsoft has aligned the services to four key needs for organisations and employees:
--	Connection
--	Insight
--	Purpose
--	Growth
+- Connection
+- Insight
+- Purpose
+- Growth
 Each of these aligns to different purposes within an organisation and become an easier to understand view of the different elements.
-A new home for Viva
-The biggest new announcement came around the unification of Viva into a single app within Teams, providing a hub for the key information from across the information related to each employee and providing links to the other apps. This will address one of the big concerns of Viva where employees would be confused by the different apps all over the place.
 
+## A new home for Viva
+The biggest new announcement came around the unification of Viva into a single app within Teams, providing a hub for the key information from across the information related to each employee and providing links to the other apps. This will address one of the big concerns of Viva where employees would be confused by the different apps all over the place.
+![VivaHome]()
  
 The single app will bring together the latest communications, goals, learning and other updates to a single place. For many, this will not replace their existing Viva Connections investments on their Intranet home page but will provide an alternative focus area for Viva.
 
-Connection
+## Connection
 As the ongoing discussions around hybrid working take place, one thing that most agree on is that effective communication is among the critical skills needed for the year ahead. In fact, 96% of business decision makers and 95% of employees see this as key, especially ensuring that the communication is authentic. True authenticity is shown to be what keeps employees feeling connected to the organisation.
 The existing services of Viva Connections and Viva Engage help bring together employees and build connections to leaders and the organisation as a whole. The recently announced Storylines and Story would bring more ways for employees and leaders to connect and these are now followed up with a leadership corner. As well as providing a single place for leaders to connect, it will provide the analytics to understand the success of these connections.
 New experiences coming to Microsoft Viva Engage - Microsoft Tech Community
@@ -47,25 +48,25 @@ Viva Insights and Glint already provide those Insights into both what employees 
 Viva Pulse brings research driven questions for managers and team leads to ask their teams confidentially how they are feeling. Whether it is a regular question or a more time-based, work-related survey such as after an intense period, Viva Pulse will allow the managers to take that pulse of the team and focus on initiatives around the key feedback. 
 As more details are release, hopefully a clearer relationship between Pulse and Glint will be established but for now, the intention appears to be Glint for the whole organisation and Pulse for teams.
 
- 
+![]()
 
-
-Purpose
+## Purpose
 How productive are you feeling today? One of the outputs of the work trends report was that while 87% of employees believe they are productive at work, just 12% of leaders have full confidence that their employees are being productive. Naturally, this is a perception rather than a measure, but this perception helps to feed the Productivity Paranoia for employees, that feeling that they there is a disconnect between what is expected of them and what they are delivering. As an employee experience goes, this is a very impactful perception and is only like to reduce the productivity.
 To address this gap, leaders are encouraged to set help set expectations and focus on the clarity of message for employees. Being transparent with the current focus that employees should be aligned to will reduce the burden felt by staff and also help employees through periods of change and uncertainty by bringing along everyone together.
 To support this, Microsoft is adding deeper integrations for Viva Goals to the rest of the Microsoft stack, especially around Power BI, Planner and Project. Each of these will help align business strategy to business implementation and provide the clarity for employees, managers and leaders for what is being aimed for and the success of those aims as clear measures.
 
-Growth
+## Growth
 The opportunity to grow as well as perform well is a key driver to employees to remain at an organisation. 56% of employees and 68% of business decision makers say that there are not enough growth opportunities to make them want to stay long term and 55% believe that the best way to expand on their skills is to change companies. Much has already been written about The Great Resignation and that includes plenty of estimates of the cost of replacing staff and impacts to productivity so putting in place measures to reduce this likelihood is a cost-effective mechanism.
 Viva Learning has been delivering some of that growth through learning in the flow of work since it’s release around a year ago and continues to be enhanced. There will be deeper integrations into LinkedIn Learning including a LinkedIn Learning Hub and curated learning paths right within Teams.
 Empowering employees with the knowledge they need to grow is also important and also announced was Answers in Viva which will act as a hub to ask and answer questions, providing the link to tacit knowledge held in employees’ heads. This will also link into Viva Topics to provide knowledge hubs that start to combine implicit and tacit knowledge to a single place and support a culture of knowledge sharing.
 Announcing Answers in Microsoft Viva - Microsoft Tech Community
 Viva Topics product updates: Answers in Viva, new topic types, and more - Microsoft Tech Community
-Summary
+
+## Summary
 There have been a few discussions already about the sheer number of new services and names coming into Viva and the pace of change is certainly high. However, focusing on these key areas of Connection, Insight, Purpose and Growth with each service neatly aligned will bring the aims of what employees need to be important, not the names of different services. A single hub to view what is relevant to you as an employee brings the frustration of knowing where to go for what to a single place. These new services will not appear immediately (although the opportunity is there for organisations to be involved in early previews were it is relevant) and so the time to build out the understanding of each and how it is relevant for each individual will be vital.
 The importance of Viva is to empower employees and these services bring more power to people. The links to more role specific services such as Viva Sales allow this as well and it will be up to People/HR and Technology/Digital teams to work closely together to deliver relevant services that align to the processes and people that matter in your own organisation.
 
-Other useful links:
+#### Other useful links:
 Microsoft Viva Ebook
 
 
