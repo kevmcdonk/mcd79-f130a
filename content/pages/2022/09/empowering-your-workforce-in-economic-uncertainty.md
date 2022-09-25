@@ -63,7 +63,7 @@ Viva Pulse brings research driven questions for managers and team leads to ask t
 
 As more details are release, hopefully a clearer relationship between Pulse and Glint will be established but for now, the intention appears to be Glint for the whole organisation and Pulse for teams.
 
-![Viva Pulse](/images/2022/09/VivaPulse.jpg)
+![Viva Pulse](/images/2022/09/Pulse.jpg)
 
 ## Purpose
 How productive are you feeling today? One of the outputs of the work trends report was that while 87% of employees believe they are productive at work, just 12% of leaders have full confidence that their employees are being productive. Naturally, this is a perception rather than a measure, but this perception helps to feed the Productivity Paranoia for employees, that feeling that they there is a disconnect between what is expected of them and what they are delivering. As an employee experience goes, this is a very impactful perception and is only like to reduce the productivity.
