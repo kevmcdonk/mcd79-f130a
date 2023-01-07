@@ -40,6 +40,8 @@ There may be other, simpler scenarios where you want to process a set of receipt
 
 I have recorded a video showing how it can be set up and the receipt model being put into place.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wxwvdZphgs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Thoughts
 
 Microsoft Syntex adoption should increase dramatically with the use of this new model as it greatly simplifies the costs and gives organisation more control. However, the real proof will be what the costs actually are as a high cost will put off larger scale use of Syntex for a large organisation. Time will tell whether this easier adoption leads to a longer usage pattern but I certainly hope that it does.
