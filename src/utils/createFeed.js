@@ -106,6 +106,7 @@ function generateRssFeed() {
 
   fs.mkdirSync('./public/rss', { recursive: true });
   fs.writeFileSync('./public/rss/index.xml', feed.rss2());
+  fs.writeFileSync('./public/index.xml', feed.rss2());
   fs.writeFileSync('./public/rss/atom.xml', feed.atom1());
   fs.writeFileSync('./public/rss/feed.json', feed.json1());
   console.log('generated feed');

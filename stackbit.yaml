@@ -101,7 +101,7 @@ sourceMapping:
       file: config.yml
       fieldPath: 'params.footer.links[0].style'
 cmsName: git
-nodeVersion: 12
+nodeVersion: '12'
 models:
   config:
     type: data
